@@ -11,7 +11,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 from playwright_stealth import Stealth
 
 # =========================================================
-# CONFIG SOCOLIVE - BẢN ĐỌC VỊ CLASS "LINK-MATCH"
+# CONFIG SOCOLIVE - BẮT MỌI LUỒNG M3U8 BẤT KỲ
 # =========================================================
 TARGET_SITE   = "https://socolive14.cv/"
 FILE_PATH     = "socolive.json"
@@ -47,7 +47,6 @@ JS_EXTRACT = """
     const results = [];
     const seen = new Set();
     
-    // Tóm gọn chỉ những thẻ có class link-match (loại bỏ sạch streamer Lão Lâm...)
     const anchors = Array.from(document.querySelectorAll('a.link-match'));
     
     for (const a of anchors) {
@@ -64,8 +63,6 @@ JS_EXTRACT = """
         let away = 'Đội khách';
         let timeStr = 'Live';
 
-        // Xử lý chuỗi title siêu mượt
-        // VD: "Trực tiếp bóng đá Socolive Bali United vs Bhayangkara FC lúc 15:30 ngày 17/05/2026"
         let matchInfo = title.replace(/Trực tiếp bóng đá( Socolive)? /i, '').trim();
         let timeParts = matchInfo.split(' lúc ');
 
@@ -77,11 +74,9 @@ JS_EXTRACT = """
             }
         }
         if (timeParts.length > 1) {
-            // Cắt gọn lấy "15:30 17/05"
             timeStr = timeParts[1].replace('ngày ', '').split('/202')[0].trim();
         }
 
-        // Tóm 2 tấm ảnh Logo từ khung chứa bên ngoài
         let parent = a.parentElement;
         let imgs = [];
         for(let i=0; i<4; i++) {
@@ -101,7 +96,7 @@ JS_EXTRACT = """
 """
 
 # =========================================================
-# VÀO PHÒNG LIVE: DIỆT QUẢNG CÁO LU88 VÀ ÉP LẤY NIUES.LIVE
+# VÀO PHÒNG LIVE: DIỆT QUẢNG CÁO VÀ LẤY M3U8 (BẤT KỲ)
 # =========================================================
 def capture_stream(context, match_url: str) -> list:
     page = context.new_page()
@@ -111,8 +106,8 @@ def capture_stream(context, match_url: str) -> list:
 
     def process_url(url):
         u = url.lower()
-        # Chốt cứng: Chỉ hút luồng m3u8 có chữ niues.live
-        if ".m3u8" in u and ("niues.live" in u or "socolive" in u):
+        # Thả cửa: Cứ có đuôi .m3u8 là hốt ngay
+        if ".m3u8" in u:
             streams.add(url)
 
     page.on("request",  lambda req: process_url(req.url))
@@ -121,22 +116,18 @@ def capture_stream(context, match_url: str) -> list:
     try:
         page.goto(match_url, wait_until="load", timeout=60000)
         
-        # Đợi 5s cho đếm ngược của Lu88/Man88 chạy xong
         page.wait_for_timeout(5000)
         
-        # Bóp cò: Bắn tung nút "Bỏ qua"
         try:
             page.locator("text=/Bỏ qua|Skip|Đóng/i").last.click(timeout=3000)
             page.wait_for_timeout(1000)
         except: pass
             
-        # Bồi thêm 1 nhát click vào giữa màn hình để ép Player chạy luồng
         try:
             vp = page.viewport_size
             if vp: page.mouse.click(vp["width"] // 2, vp["height"] // 2)
         except: pass
         
-        # Chờ tối đa 12s để luồng niues xuất hiện
         deadline = time.time() + 12
         while time.time() < deadline:
             if any(".m3u8" in s.lower() for s in streams): break
@@ -145,7 +136,7 @@ def capture_stream(context, match_url: str) -> list:
     finally: page.close()
 
     if not streams: return []
-    # Trả về 1 link chất lượng nhất
+    # Chỉ trả về đúng 1 link để tránh bị loạn tiếng BLV
     return list(streams)[:1]
 
 def build_channel(m: dict, stream_urls: list) -> dict:
@@ -193,7 +184,7 @@ def scrape_and_push():
             page.wait_for_timeout(4000) 
         except: pass
 
-        print("⏳ Đang cuộn trang thu thập link (Dựa theo class link-match)...")
+        print("⏳ Đang cuộn trang thu thập link...")
         for _ in range(6):
             page.mouse.wheel(0, 2000)
             page.wait_for_timeout(1000)
@@ -201,14 +192,14 @@ def scrape_and_push():
         raw_matches = page.evaluate(JS_EXTRACT)
         valid_matches = [m for m in raw_matches if m["home"] != "Đội nhà"][:LIMIT_MATCHES]
         
-        print(f"\n🎥 TÌM THẤY {len(valid_matches)} TRẬN ĐẤU THẬT. ĐANG VÀO PHÒNG BẮT LUỒNG NIUES.LIVE...")
+        print(f"\n🎥 TÌM THẤY {len(valid_matches)} TRẬN ĐẤU THẬT. ĐANG VÀO PHÒNG BẮT MỌI LUỒNG M3U8...")
 
         for idx, m in enumerate(valid_matches, 1):
             print(f"\n   [{idx}/{len(valid_matches)}] {m['home']} vs {m['away']}")
             m["streams"] = capture_stream(context, m["href"])
             
-            if m["streams"]: print(f"      ✅ BẮT ĐƯỢC LINK: {m['streams'][0][:60]}...")
-            else: print(f"      ⚠️ Chưa lấy được luồng niues.live")
+            if m["streams"]: print(f"      ✅ BẮT ĐƯỢC LINK M3U8: {m['streams'][0][:60]}...")
+            else: print(f"      ⚠️ Chưa lấy được luồng m3u8 nào")
 
     channels = [build_channel(m, m["streams"]) for m in valid_matches]
     content = json.dumps({
