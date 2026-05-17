@@ -15,7 +15,7 @@ from playwright_stealth import Stealth
 # =========================================================
 TARGET_SITE   = "https://socolive14.cv/"
 FILE_PATH     = "socolive.json"
-LIMIT_MATCHES = 2
+LIMIT_MATCHES = 3
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
