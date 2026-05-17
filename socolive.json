@@ -1,17 +1,17 @@
 {
   "id": "socolive",
   "name": "Socolive",
-  "last_updated": "15:19 17/05/2026",
+  "last_updated": "15:30 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Trực tiếp (M3U8)",
       "channels": [
         {
-          "id": "soco-1465e3eda007",
-          "name": "⚽ Skip To Content vs SOCOLIVE",
-          "logo_nha": "https://socolive14.cv/wp-content/uploads/2023/09/logo-7-2.png",
-          "logo_khach": "https://socolive14.cv/wp-content/uploads/2024/05/tin-tuc-1-300x300.png",
+          "id": "soco-b4ce52726f83",
+          "name": "⚽ Bali United vs Bhayangkara FC",
+          "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/09fe2ecf88f68970da755f8655d5da8a.webp",
+          "logo_khach": "https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c_ss300.jpg",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -19,7 +19,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://socolive14.cv/wp-content/uploads/2023/09/logo-7-2.png",
+            "url": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/09fe2ecf88f68970da755f8655d5da8a.webp",
             "width": 1600,
             "height": 1200
           },
@@ -33,15 +33,15 @@
           ],
           "sources": [
             {
-              "id": "soco-1465e3eda007",
+              "id": "soco-b4ce52726f83",
               "name": "Socolive",
               "contents": [
                 {
-                  "id": "soco-1465e3eda007",
-                  "name": "Skip To Content vs SOCOLIVE",
+                  "id": "soco-b4ce52726f83",
+                  "name": "Bali United vs Bhayangkara FC",
                   "streams": [
                     {
-                      "id": "soco-1465e3eda007",
+                      "id": "soco-b4ce52726f83",
                       "name": "F",
                       "stream_links": []
                     }
@@ -53,7 +53,7 @@
         },
         {
           "id": "soco-9f9715a75351",
-          "name": "⚽ GiảI BóNg đá HạNg 1 HàN QuốC vs 14:40 17/05",
+          "name": "⚽ Jeonbuk Hyundai Motors vs Gimcheon Sangmu FC",
           "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/b0433b87b9ce8fd60011eb17656a23a3.webp",
           "logo_khach": "https://sta.vnres.co/file/head/20240602/4e0ddde5b5ec183e96b8b1e02452575d_ss300.jpg",
           "type": "single",
@@ -82,7 +82,7 @@
               "contents": [
                 {
                   "id": "soco-9f9715a75351",
-                  "name": "GiảI BóNg đá HạNg 1 HàN QuốC vs 14:40 17/05",
+                  "name": "Jeonbuk Hyundai Motors vs Gimcheon Sangmu FC",
                   "streams": [
                     {
                       "id": "soco-9f9715a75351",
@@ -96,228 +96,8 @@
           ]
         },
         {
-          "id": "soco-23a497627130",
-          "name": "⚽ LÃO LÂM vs TYPN",
-          "logo_nha": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-          "logo_khach": "https://sta.vnres.co/file/head/20240602/4e0ddde5b5ec183e96b8b1e02452575d_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-23a497627130",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-23a497627130",
-                  "name": "LÃO LÂM vs TYPN",
-                  "streams": [
-                    {
-                      "id": "soco-23a497627130",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-e9f7c8eaffcf",
-          "name": "⚽ LÃO LÂM vs TYPN",
-          "logo_nha": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-          "logo_khach": "https://sta.vnres.co/file/head/20240602/4e0ddde5b5ec183e96b8b1e02452575d_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-e9f7c8eaffcf",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-e9f7c8eaffcf",
-                  "name": "LÃO LÂM vs TYPN",
-                  "streams": [
-                    {
-                      "id": "soco-e9f7c8eaffcf",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-4bbabe7843bf",
-          "name": "⚽ LÃO LÂM vs TYPN",
-          "logo_nha": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-          "logo_khach": "https://sta.vnres.co/file/head/20240602/4e0ddde5b5ec183e96b8b1e02452575d_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-4bbabe7843bf",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-4bbabe7843bf",
-                  "name": "LÃO LÂM vs TYPN",
-                  "streams": [
-                    {
-                      "id": "soco-4bbabe7843bf",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-d9313065decd",
-          "name": "⚽ LÃO LÂM vs TYPN",
-          "logo_nha": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-          "logo_khach": "https://sta.vnres.co/file/head/20240602/4e0ddde5b5ec183e96b8b1e02452575d_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-d9313065decd",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-d9313065decd",
-                  "name": "LÃO LÂM vs TYPN",
-                  "streams": [
-                    {
-                      "id": "soco-d9313065decd",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-ea22257726a8",
-          "name": "⚽ LÃO LÂM vs TYPN",
-          "logo_nha": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-          "logo_khach": "https://sta.vnres.co/file/head/20240602/4e0ddde5b5ec183e96b8b1e02452575d_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20250710/0cbed45f657ecb28483c1bd26714e064_ss300.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-ea22257726a8",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-ea22257726a8",
-                  "name": "LÃO LÂM vs TYPN",
-                  "streams": [
-                    {
-                      "id": "soco-ea22257726a8",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "soco-b346ece7204e",
-          "name": "⚽ GiảI BóNg đá HạNg 1 HàN QuốC vs 14:30 17/05",
+          "name": "⚽ Jeju SK FC vs FC Anyang",
           "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/c8fd873ce70869e03c201131166b6229.webp",
           "logo_khach": "https://sta.vnres.co/file/head/20240316/c793cd7d70dc30c982b773788b933a29_ss300.jpg",
           "type": "single",
@@ -346,7 +126,7 @@
               "contents": [
                 {
                   "id": "soco-b346ece7204e",
-                  "name": "GiảI BóNg đá HạNg 1 HàN QuốC vs 14:30 17/05",
+                  "name": "Jeju SK FC vs FC Anyang",
                   "streams": [
                     {
                       "id": "soco-b346ece7204e",
@@ -360,10 +140,10 @@
           ]
         },
         {
-          "id": "soco-629c4e323418",
-          "name": "⚽ LONG vs LOGAN",
-          "logo_nha": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-          "logo_khach": "https://sta.vnres.co/file/head/20240316/c793cd7d70dc30c982b773788b933a29_ss300.jpg",
+          "id": "soco-60e46c5ff279",
+          "name": "⚽ Xiaobao Village vs Chejiang 2 Village",
+          "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/52c9c0243fa5b96a5a4c12c4a09b8cfb.webp",
+          "logo_khach": "https://socolive14.cv/wp-content/plugins/stream-player-plugin/assets/images/man-user.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -371,7 +151,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
+            "url": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/52c9c0243fa5b96a5a4c12c4a09b8cfb.webp",
             "width": 1600,
             "height": 1200
           },
@@ -385,191 +165,15 @@
           ],
           "sources": [
             {
-              "id": "soco-629c4e323418",
+              "id": "soco-60e46c5ff279",
               "name": "Socolive",
               "contents": [
                 {
-                  "id": "soco-629c4e323418",
-                  "name": "LONG vs LOGAN",
+                  "id": "soco-60e46c5ff279",
+                  "name": "Xiaobao Village vs Chejiang 2 Village",
                   "streams": [
                     {
-                      "id": "soco-629c4e323418",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-489230d4c618",
-          "name": "⚽ LONG vs LOGAN",
-          "logo_nha": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-          "logo_khach": "https://sta.vnres.co/file/head/20240316/c793cd7d70dc30c982b773788b933a29_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-489230d4c618",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-489230d4c618",
-                  "name": "LONG vs LOGAN",
-                  "streams": [
-                    {
-                      "id": "soco-489230d4c618",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-bf6ed4a55353",
-          "name": "⚽ LONG vs LOGAN",
-          "logo_nha": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-          "logo_khach": "https://sta.vnres.co/file/head/20240316/c793cd7d70dc30c982b773788b933a29_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-bf6ed4a55353",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-bf6ed4a55353",
-                  "name": "LONG vs LOGAN",
-                  "streams": [
-                    {
-                      "id": "soco-bf6ed4a55353",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-5045640daa3e",
-          "name": "⚽ LONG vs LOGAN",
-          "logo_nha": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-          "logo_khach": "https://sta.vnres.co/file/head/20240316/c793cd7d70dc30c982b773788b933a29_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-5045640daa3e",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-5045640daa3e",
-                  "name": "LONG vs LOGAN",
-                  "streams": [
-                    {
-                      "id": "soco-5045640daa3e",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-0dae530b20e0",
-          "name": "⚽ LONG vs LOGAN",
-          "logo_nha": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-          "logo_khach": "https://sta.vnres.co/file/head/20240316/c793cd7d70dc30c982b773788b933a29_ss300.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6_ss300.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-0dae530b20e0",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-0dae530b20e0",
-                  "name": "LONG vs LOGAN",
-                  "streams": [
-                    {
-                      "id": "soco-0dae530b20e0",
+                      "id": "soco-60e46c5ff279",
                       "name": "F",
                       "stream_links": []
                     }
@@ -581,7 +185,7 @@
         },
         {
           "id": "soco-5876fb63a07f",
-          "name": "⚽ GiảI đấU LiêN TỉNh ĐàI Loan Trung QuốC vs 15:00 17/05",
+          "name": "⚽ Taichung Rock FC vs Sunny Bank Athletic Club Taipei",
           "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/c51a22012e8837d1bb69b76945447199.webp",
           "logo_khach": "https://socolive14.cv/wp-content/plugins/stream-player-plugin/assets/images/man-user.png",
           "type": "single",
@@ -610,7 +214,7 @@
               "contents": [
                 {
                   "id": "soco-5876fb63a07f",
-                  "name": "GiảI đấU LiêN TỉNh ĐàI Loan Trung QuốC vs 15:00 17/05",
+                  "name": "Taichung Rock FC vs Sunny Bank Athletic Club Taipei",
                   "streams": [
                     {
                       "id": "soco-5876fb63a07f",
@@ -625,7 +229,7 @@
         },
         {
           "id": "soco-c41403e2f5dd",
-          "name": "⚽ Inner Mongolia Football Super League vs 15:00 17/05",
+          "name": "⚽ Wuhai Team vs Ulanqab Team",
           "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/60a65cde1b43f4a5f974ddc475416f13.webp",
           "logo_khach": "https://socolive14.cv/wp-content/plugins/stream-player-plugin/assets/images/man-user.png",
           "type": "single",
@@ -654,7 +258,7 @@
               "contents": [
                 {
                   "id": "soco-c41403e2f5dd",
-                  "name": "Inner Mongolia Football Super League vs 15:00 17/05",
+                  "name": "Wuhai Team vs Ulanqab Team",
                   "streams": [
                     {
                       "id": "soco-c41403e2f5dd",
@@ -669,7 +273,7 @@
         },
         {
           "id": "soco-31e24465e95e",
-          "name": "⚽ GiảI đấU LiêN TỉNh ĐàI Loan Trung QuốC vs 15:00 17/05",
+          "name": "⚽ Tatung FC vs Taichung Futuro",
           "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/6e318c2917b8949baf2d810a7d2cbfda.webp",
           "logo_khach": "https://socolive14.cv/wp-content/plugins/stream-player-plugin/assets/images/man-user.png",
           "type": "single",
@@ -698,7 +302,7 @@
               "contents": [
                 {
                   "id": "soco-31e24465e95e",
-                  "name": "GiảI đấU LiêN TỉNh ĐàI Loan Trung QuốC vs 15:00 17/05",
+                  "name": "Tatung FC vs Taichung Futuro",
                   "streams": [
                     {
                       "id": "soco-31e24465e95e",
@@ -713,7 +317,7 @@
         },
         {
           "id": "soco-72bb64e09599",
-          "name": "⚽ GiảI BóNg đá NgoạI HạNg Trung QuốC Nữ vs 15:00 17/05",
+          "name": "⚽ Beijing Women vs Jiangsu Yinhao Women",
           "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/1965f2a571c94bcfadfa5b07672c9ecc.webp",
           "logo_khach": "https://socolive14.cv/wp-content/plugins/stream-player-plugin/assets/images/man-user.png",
           "type": "single",
@@ -742,7 +346,7 @@
               "contents": [
                 {
                   "id": "soco-72bb64e09599",
-                  "name": "GiảI BóNg đá NgoạI HạNg Trung QuốC Nữ vs 15:00 17/05",
+                  "name": "Beijing Women vs Jiangsu Yinhao Women",
                   "streams": [
                     {
                       "id": "soco-72bb64e09599",
@@ -757,7 +361,7 @@
         },
         {
           "id": "soco-c6bda3b91116",
-          "name": "⚽ RUS D3B vs 15:00 17/05",
+          "name": "⚽ FK Ural-2 vs Pobeda Nizhniy Novgorod",
           "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/701385b4b1040319b0b736a6129cb805.webp",
           "logo_khach": "https://socolive14.cv/wp-content/plugins/stream-player-plugin/assets/images/man-user.png",
           "type": "single",
@@ -786,7 +390,7 @@
               "contents": [
                 {
                   "id": "soco-c6bda3b91116",
-                  "name": "RUS D3B vs 15:00 17/05",
+                  "name": "FK Ural-2 vs Pobeda Nizhniy Novgorod",
                   "streams": [
                     {
                       "id": "soco-c6bda3b91116",
@@ -801,7 +405,7 @@
         },
         {
           "id": "soco-6f0c7f1fe4c4",
-          "name": "⚽ GiảI BóNg đá NgoạI HạNg Trung QuốC Nữ vs 15:00 17/05",
+          "name": "⚽ Shanghai Women vs Changchun Dazhongzhuoyue Women",
           "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/196b3be69e30878dc643aa8fcc11203c.webp",
           "logo_khach": "https://socolive14.cv/wp-content/plugins/stream-player-plugin/assets/images/man-user.png",
           "type": "single",
@@ -830,54 +434,10 @@
               "contents": [
                 {
                   "id": "soco-6f0c7f1fe4c4",
-                  "name": "GiảI BóNg đá NgoạI HạNg Trung QuốC Nữ vs 15:00 17/05",
+                  "name": "Shanghai Women vs Changchun Dazhongzhuoyue Women",
                   "streams": [
                     {
                       "id": "soco-6f0c7f1fe4c4",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "soco-fc81963253ec",
-          "name": "⚽ GiảI đấU LiêN TỉNh ĐàI Loan Trung QuốC vs 15:00 17/05",
-          "logo_nha": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/49d6da5b0010a9d4f25c6cb71b8255cf.webp",
-          "logo_khach": "https://socolive14.cv/wp-content/plugins/stream-player-plugin/assets/images/man-user.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://socolive14.cv/wp-content/uploads/truc-tiep/logos/football/team/49d6da5b0010a9d4f25c6cb71b8255cf.webp",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "soco-fc81963253ec",
-              "name": "Socolive",
-              "contents": [
-                {
-                  "id": "soco-fc81963253ec",
-                  "name": "GiảI đấU LiêN TỉNh ĐàI Loan Trung QuốC vs 15:00 17/05",
-                  "streams": [
-                    {
-                      "id": "soco-fc81963253ec",
                       "name": "F",
                       "stream_links": []
                     }
