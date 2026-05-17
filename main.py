@@ -11,11 +11,11 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 from playwright_stealth import Stealth
 
 # =========================================================
-# CONFIG SOCOLIVE - BẮT MỌI LUỒNG M3U8 BẤT KỲ
+# CONFIG SOCOLIVE - CHỐNG POPUP QUẢNG CÁO TÀNG HÌNH
 # =========================================================
 TARGET_SITE   = "https://socolive14.cv/"
 FILE_PATH     = "socolive.json"
-LIMIT_MATCHES = 10
+LIMIT_MATCHES = 3
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -40,13 +40,12 @@ def get_final_logo(team_name: str, site_logo: str = "") -> str:
     return f"https://ui-avatars.com/api/?name={initials}&size=200&background=1E88E5&color=ffffff&bold=true"
 
 # =========================================================
-# JS BÓC TÁCH: LẤY TRỰC TIẾP TỪ THUỘC TÍNH TITLE CỦA A.LINK-MATCH
+# JS BÓC TÁCH TÊN VÀ LOGO
 # =========================================================
 JS_EXTRACT = """
 () => {
     const results = [];
     const seen = new Set();
-    
     const anchors = Array.from(document.querySelectorAll('a.link-match'));
     
     for (const a of anchors) {
@@ -78,16 +77,18 @@ JS_EXTRACT = """
         }
 
         let parent = a.parentElement;
-        let imgs = [];
-        for(let i=0; i<4; i++) {
-            if(!parent) break;
-            imgs = Array.from(parent.querySelectorAll('img'));
-            if(imgs.length >= 2) break; 
-            parent = parent.parentElement;
+        for(let i=0; i<3; i++) {
+            if(parent && parent.querySelectorAll('.match-item-body').length > 0) break;
+            if(parent) parent = parent.parentElement;
         }
+        if(!parent) parent = a.parentElement;
         
-        let homeLogo = imgs.length > 0 ? (imgs[0].getAttribute('data-src') || imgs[0].src || '') : '';
-        let awayLogo = imgs.length > 1 ? (imgs[imgs.length - 1].getAttribute('data-src') || imgs[imgs.length - 1].src || '') : '';
+        let validImgs = Array.from(parent.querySelectorAll('img'))
+            .map(i => i.getAttribute('data-src') || i.src || '')
+            .filter(src => src && !src.includes('avatar') && !src.includes('man-user') && !src.includes('icon'));
+        
+        let homeLogo = validImgs.length > 0 ? validImgs[0] : '';
+        let awayLogo = validImgs.length > 1 ? validImgs[1] : '';
         
         results.push({ href, home, away, timeStr, homeLogo, awayLogo });
     }
@@ -96,48 +97,61 @@ JS_EXTRACT = """
 """
 
 # =========================================================
-# VÀO PHÒNG LIVE: DIỆT QUẢNG CÁO VÀ LẤY M3U8 (BẤT KỲ)
+# VÀO PHÒNG LIVE: DIỆT POPUP & SPAM CLICK
 # =========================================================
 def capture_stream(context, match_url: str) -> list:
     page = context.new_page()
     try: Stealth().apply_stealth_sync(page)
     except: pass
-    streams = set()
+    streams = []
+
+    # TRỊ TẬN GỐC POPUP: Bất kỳ Tab mới nào bật lên từ quảng cáo sẽ bị đóng ngay lập tức!
+    page.on("popup", lambda p: p.close())
 
     def process_url(url):
         u = url.lower()
-        # Thả cửa: Cứ có đuôi .m3u8 là hốt ngay
-        if ".m3u8" in u:
-            streams.add(url)
+        if (".m3u8" in u or ".flv" in u) and url not in streams:
+            streams.append(url)
 
     page.on("request",  lambda req: process_url(req.url))
     page.on("response", lambda res: process_url(res.url))
 
     try:
         page.goto(match_url, wait_until="load", timeout=60000)
+        page.wait_for_timeout(4000) 
         
-        page.wait_for_timeout(5000)
-        
-        try:
-            page.locator("text=/Bỏ qua|Skip|Đóng/i").last.click(timeout=3000)
+        # Tắt quảng cáo đếm ngược
+        for _ in range(2):
+            try:
+                page.locator("text=/Bỏ qua|Skip|Đóng/i").last.click(timeout=1000)
+            except: pass
             page.wait_for_timeout(1000)
-        except: pass
             
-        try:
-            vp = page.viewport_size
-            if vp: page.mouse.click(vp["width"] // 2, vp["height"] // 2)
-        except: pass
+        # CHIẾN THUẬT SPAM CLICK: Click 4 lần, mỗi lần cách nhau 1.5s
+        # Nếu trúng quảng cáo tàng hình -> Tab mới mở ra -> Bị hàm popup ở trên tiêu diệt.
+        # Click tiếp theo sẽ trúng video player!
+        for _ in range(4):
+            try:
+                vp = page.viewport_size
+                if vp: 
+                    # Click hơi nhích lên trên (chiều cao / 3) để dễ trúng nút Play
+                    page.mouse.click(vp["width"] // 2, vp["height"] // 3)
+            except: pass
+            page.wait_for_timeout(1500)
         
-        deadline = time.time() + 12
+        # Ngồi rình mạng trong 10 giây
+        deadline = time.time() + 10
         while time.time() < deadline:
-            if any(".m3u8" in s.lower() for s in streams): break
+            if len(streams) > 0: 
+                time.sleep(2) # Chờ luồng ổn định để lấy link stream.m3u8 (tránh lấy nhầm master.m3u8)
+                break
             time.sleep(1)
     except: pass
     finally: page.close()
 
     if not streams: return []
-    # Chỉ trả về đúng 1 link để tránh bị loạn tiếng BLV
-    return list(streams)[:1]
+    # Thường cái link cuối cùng xuất hiện trong Network sẽ là link xịn nhất
+    return [streams[-1]]
 
 def build_channel(m: dict, stream_urls: list) -> dict:
     home = m.get("home", "Unknown")
@@ -150,6 +164,8 @@ def build_channel(m: dict, stream_urls: list) -> dict:
     is_live = len(stream_urls) > 0
     label_text = "● Live" if is_live else "⏳ Chưa live"
     label_color = "#ff0000" if is_live else "#d54f1a"
+    
+    stream_type = "m3u8" if is_live and ".m3u8" in stream_urls[0].lower() else "mp4"
 
     return {
         "id": cid, "name": display_name, 
@@ -162,7 +178,7 @@ def build_channel(m: dict, stream_urls: list) -> dict:
             "id": cid, "name": "Socolive",
             "contents": [{
                 "id": cid, "name": title_clean,
-                "streams": [{"id": cid, "name": "F", "stream_links": [{"id": make_link_id(), "name": "Link M3U8", "type": "m3u8", "default": True, "url": u} for u in stream_urls[:1]]}]
+                "streams": [{"id": cid, "name": "F", "stream_links": [{"id": make_link_id(), "name": "Link Stream", "type": stream_type, "default": True, "url": u} for u in stream_urls[:1]]}]
             }]
         }],
     }
@@ -172,6 +188,7 @@ def scrape_and_push():
     print(f"🚀 BẮT ĐẦU BOT SOCOLIVE (Giờ VN): {now_str}")
 
     with sync_playwright() as p:
+        # Bật tắt tuỳ ý: headless=True (ẩn) hoặc headless=False (để xem nó chạy)
         browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-setuid-sandbox"])
         context = browser.new_context(viewport={"width": 1920, "height": 1080}, user_agent=_HEADERS["User-Agent"], timezone_id="Asia/Ho_Chi_Minh")
         page = context.new_page()
@@ -192,14 +209,15 @@ def scrape_and_push():
         raw_matches = page.evaluate(JS_EXTRACT)
         valid_matches = [m for m in raw_matches if m["home"] != "Đội nhà"][:LIMIT_MATCHES]
         
-        print(f"\n🎥 TÌM THẤY {len(valid_matches)} TRẬN ĐẤU THẬT. ĐANG VÀO PHÒNG BẮT MỌI LUỒNG M3U8...")
+        print(f"\n🎥 TÌM THẤY {len(valid_matches)} TRẬN ĐẤU THẬT.")
 
         for idx, m in enumerate(valid_matches, 1):
             print(f"\n   [{idx}/{len(valid_matches)}] {m['home']} vs {m['away']}")
+            print(f"      👉 Đang rình tại: {m['href']}")
             m["streams"] = capture_stream(context, m["href"])
             
-            if m["streams"]: print(f"      ✅ BẮT ĐƯỢC LINK M3U8: {m['streams'][0][:60]}...")
-            else: print(f"      ⚠️ Chưa lấy được luồng m3u8 nào")
+            if m["streams"]: print(f"      ✅ BẮT ĐƯỢC LINK: {m['streams'][0][:80]}...")
+            else: print(f"      ⚠️ Vẫn bị khiên quảng cáo chặn (Không thấy m3u8)")
 
     channels = [build_channel(m, m["streams"]) for m in valid_matches]
     content = json.dumps({
