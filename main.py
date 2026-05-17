@@ -11,11 +11,11 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 from playwright_stealth import Stealth
 
 # =========================================================
-# CONFIG SOCOLIVE - CHỐNG POPUP QUẢNG CÁO TÀNG HÌNH
+# CONFIG SOCOLIVE - CỖ MÁY XUYÊN THẤU KHIÊN QUẢNG CÁO
 # =========================================================
 TARGET_SITE   = "https://socolive14.cv/"
 FILE_PATH     = "socolive.json"
-LIMIT_MATCHES = 3
+LIMIT_MATCHES = 2
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -97,7 +97,7 @@ JS_EXTRACT = """
 """
 
 # =========================================================
-# VÀO PHÒNG LIVE: DIỆT POPUP & SPAM CLICK
+# VÀO PHÒNG LIVE: QUÉT MÃ NGUỒN + XÓA KHIÊN + ÉP PLAY
 # =========================================================
 def capture_stream(context, match_url: str) -> list:
     page = context.new_page()
@@ -105,12 +105,12 @@ def capture_stream(context, match_url: str) -> list:
     except: pass
     streams = []
 
-    # TRỊ TẬN GỐC POPUP: Bất kỳ Tab mới nào bật lên từ quảng cáo sẽ bị đóng ngay lập tức!
     page.on("popup", lambda p: p.close())
 
     def process_url(url):
         u = url.lower()
-        if (".m3u8" in u or ".flv" in u) and url not in streams:
+        # Chặn các m3u8 lỗi hoặc quảng cáo tĩnh
+        if (".m3u8" in u or ".flv" in u) and url not in streams and "ad" not in u:
             streams.append(url)
 
     page.on("request",  lambda req: process_url(req.url))
@@ -120,38 +120,77 @@ def capture_stream(context, match_url: str) -> list:
         page.goto(match_url, wait_until="load", timeout=60000)
         page.wait_for_timeout(4000) 
         
-        # Tắt quảng cáo đếm ngược
+        # BƯỚC 1: Quét X-Quang mã nguồn HTML để mò link giấu kín
+        try:
+            m3u8_pattern = re.compile(r'(https?://[^\s"\'<>]*\.m3u8[^\s"\'<>]*)')
+            flv_pattern = re.compile(r'(https?://[^\s"\'<>]*\.flv[^\s"\'<>]*)')
+            
+            # Quét trang chính
+            html = page.content()
+            for m in m3u8_pattern.findall(html): process_url(m)
+            for m in flv_pattern.findall(html): process_url(m)
+            
+            # Quét các Iframe bên trong (Socolive hay giấu Player trong Iframe)
+            for frame in page.frames:
+                try:
+                    f_html = frame.content()
+                    for m in m3u8_pattern.findall(f_html): process_url(m)
+                    for m in flv_pattern.findall(f_html): process_url(m)
+                except: pass
+        except: pass
+
+        # Nếu quét X-Quang đã ra link, dừng luôn cho nhanh
+        if streams:
+            page.close()
+            return [streams[-1]]
+
+        # BƯỚC 2: Tiêu diệt lớp Khiên tàng hình & Ép Video chạy bằng Javascript
+        try:
+            page.evaluate('''() => {
+                // Xóa mọi thẻ div lơ lửng đè lên trên màn hình (z-index cao)
+                document.querySelectorAll('div').forEach(d => {
+                    const z = parseInt(window.getComputedStyle(d).zIndex);
+                    if(!isNaN(z) && z > 99) d.remove(); 
+                });
+                
+                // Tìm thẻ video và ép nó Play
+                const vids = document.querySelectorAll('video');
+                vids.forEach(v => { 
+                    v.muted = true; // Mute để lách luật Auto-play của trình duyệt
+                    v.play().catch(e => console.log(e)); 
+                });
+            }''')
+        except: pass
+        
+        # BƯỚC 3: Xóa Nút Bỏ Qua và Click vật lý
         for _ in range(2):
-            try:
-                page.locator("text=/Bỏ qua|Skip|Đóng/i").last.click(timeout=1000)
+            try: page.locator("text=/Bỏ qua|Skip|Đóng/i").last.click(timeout=1000)
             except: pass
             page.wait_for_timeout(1000)
             
-        # CHIẾN THUẬT SPAM CLICK: Click 4 lần, mỗi lần cách nhau 1.5s
-        # Nếu trúng quảng cáo tàng hình -> Tab mới mở ra -> Bị hàm popup ở trên tiêu diệt.
-        # Click tiếp theo sẽ trúng video player!
-        for _ in range(4):
+        for _ in range(3):
             try:
                 vp = page.viewport_size
-                if vp: 
-                    # Click hơi nhích lên trên (chiều cao / 3) để dễ trúng nút Play
-                    page.mouse.click(vp["width"] // 2, vp["height"] // 3)
+                if vp: page.mouse.click(vp["width"] // 2, vp["height"] // 2)
             except: pass
             page.wait_for_timeout(1500)
         
-        # Ngồi rình mạng trong 10 giây
         deadline = time.time() + 10
         while time.time() < deadline:
             if len(streams) > 0: 
-                time.sleep(2) # Chờ luồng ổn định để lấy link stream.m3u8 (tránh lấy nhầm master.m3u8)
+                time.sleep(2) 
                 break
             time.sleep(1)
     except: pass
     finally: page.close()
 
-    if not streams: return []
-    # Thường cái link cuối cùng xuất hiện trong Network sẽ là link xịn nhất
-    return [streams[-1]]
+    # LỌC LINK: Ưu tiên link có chứa stream/niues, loại bỏ link quá ngắn
+    valid_streams = [s for s in streams if len(s) > 20]
+    if not valid_streams: return []
+    
+    best_streams = [s for s in valid_streams if "stream" in s.lower() or "niues" in s.lower() or "pull" in s.lower()]
+    if best_streams: return [best_streams[-1]]
+    return [valid_streams[-1]]
 
 def build_channel(m: dict, stream_urls: list) -> dict:
     home = m.get("home", "Unknown")
@@ -188,7 +227,6 @@ def scrape_and_push():
     print(f"🚀 BẮT ĐẦU BOT SOCOLIVE (Giờ VN): {now_str}")
 
     with sync_playwright() as p:
-        # Bật tắt tuỳ ý: headless=True (ẩn) hoặc headless=False (để xem nó chạy)
         browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-setuid-sandbox"])
         context = browser.new_context(viewport={"width": 1920, "height": 1080}, user_agent=_HEADERS["User-Agent"], timezone_id="Asia/Ho_Chi_Minh")
         page = context.new_page()
@@ -217,7 +255,7 @@ def scrape_and_push():
             m["streams"] = capture_stream(context, m["href"])
             
             if m["streams"]: print(f"      ✅ BẮT ĐƯỢC LINK: {m['streams'][0][:80]}...")
-            else: print(f"      ⚠️ Vẫn bị khiên quảng cáo chặn (Không thấy m3u8)")
+            else: print(f"      ⚠️ Đã quét X-Quang nhưng luồng có thể chưa được phát.")
 
     channels = [build_channel(m, m["streams"]) for m in valid_matches]
     content = json.dumps({
@@ -244,4 +282,4 @@ def scrape_and_push():
         print(f"\n✅ Đã lưu dữ liệu ra file {FILE_PATH} (Do không có GH_TOKEN)")
 
 if __name__ == "__main__":
-    scrape_and_push()
+    scrape_and_push
