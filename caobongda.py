@@ -27,7 +27,10 @@ def cao_colatv():
     with sync_playwright() as p:
         print("🚀 Khởi động Thợ Săn ColaTV trên GitHub Actions...")
         browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-web-security"]) 
-        page = browser.new_page()
+        
+        # 💡 SỬA LỖI GIỜ Ở ĐÂY: Ép trình duyệt ảo dùng múi giờ Việt Nam
+        context = browser.new_context(timezone_id="Asia/Ho_Chi_Minh")
+        page = context.new_page()
         
         try:
             page.goto(TARGET_URL, wait_until="domcontentloaded", timeout=60000)
@@ -44,6 +47,7 @@ def cao_colatv():
                 
                 try:
                     giai_dau = the_cha.locator(".match-item__comp").text_content().strip()
+                    # Do trình duyệt đang ở múi giờ VN, biến thoi_gian sẽ lấy đúng 22:00
                     thoi_gian = the_cha.locator(".match-item__time").text_content().strip()
                 except:
                     continue
@@ -87,7 +91,6 @@ def cao_colatv():
         browser.close()
         
     if ket_qua_cuoi_cung:
-        # 💡 CODE ÉP LẤY MÚI GIỜ VIỆT NAM (UTC+7)
         mui_gio_vn = timezone(timedelta(hours=7))
         ngay_hom_nay = datetime.now(mui_gio_vn).strftime("%d/%m/%Y - %H:%M")
         
