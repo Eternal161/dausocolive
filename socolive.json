@@ -1,12 +1,12 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 26/05/2026 - 22:53",
+    "last_updated": "Cập nhật: 26/05/2026 - 22:56",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Ifk Mariehamn vs Lahti | 15:00 26/05",
+                    "name": "Ifk Mariehamn vs Lahti | 22:00 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
                     "labels": [
                         {
@@ -32,7 +32,7 @@
                     ]
                 },
                 {
-                    "name": "Vaasa Vps vs Haka | 15:00 26/05",
+                    "name": "Vaasa Vps vs Haka | 22:00 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
                     "labels": [
                         {
@@ -58,7 +58,7 @@
                     ]
                 },
                 {
-                    "name": "Inter Turku vs Ebk | 15:30 26/05",
+                    "name": "Inter Turku vs Ebk | 22:30 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
                     "labels": [
                         {
@@ -84,7 +84,7 @@
                     ]
                 },
                 {
-                    "name": "Astana B vs Khan Tengri Fc | 14:00 26/05",
+                    "name": "Astana B vs Khan Tengri Fc | 21:00 26/05",
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
                     "labels": [
                         {
@@ -110,7 +110,7 @@
                     ]
                 },
                 {
-                    "name": "Ararat Yerevan vs Bkma | 15:00 26/05",
+                    "name": "Ararat Yerevan vs Bkma | 22:00 26/05",
                     "tournament": "Giải Bóng đá Ngoại hạng Armenia",
                     "labels": [
                         {
@@ -136,7 +136,7 @@
                     ]
                 },
                 {
-                    "name": "Jelgava vs Liepaja | 15:00 26/05",
+                    "name": "Jelgava vs Liepaja | 22:00 26/05",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
                     "labels": [
                         {
