@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 06:30",
+    "last_updated": "Cập nhật: 27/05/2026 - 06:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,6 +164,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nacional vs Coquimbo Unido | 07:30 27/05",
+                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/aa97d18606e06696fd770ed04a5d040b.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e62f69a9de87796972eb59d19c27e59c.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "U De Deportes vs Deportes Tolima | 07:30 27/05",
+                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/415e4ed317b0b0a4aea7c8ddc5cdd658.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "San Lorenzo vs Deportivo Recoleta | 07:30 27/05",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f7e33bab2469f4e5b80d4d47cd92b381.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
