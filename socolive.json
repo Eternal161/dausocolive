@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 03:31",
+    "last_updated": "Cập nhật: 27/05/2026 - 03:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Greuther Furth vs Essen | 01:30 27/05",
-                    "tournament": "Giải bóng đá Hạng ba Đức",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/fb6a5a8355f76699d49ce7b6446885ef.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3144cffbb5aac9554821f1d4292d6470.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "As Saint Etienne vs Ogc Nice | 01:45 27/05",
                     "tournament": "Giải Bóng đá hạng Hai Pháp",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ldu Quito vs Always Ready | 05:00 27/05",
+                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/8b048da33a06a2257101bb110b81e290.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4f5b815aa7bca0be2a325494997ad29e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
                                                 }
                                             ]
                                         }
