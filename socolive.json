@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 03:40",
+    "last_updated": "Cập nhật: 27/05/2026 - 03:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "As Saint Etienne vs Ogc Nice | 01:45 27/05",
-                    "tournament": "Giải Bóng đá hạng Hai Pháp",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9fb247c43a1c4b07d1f2534ea6b9c07a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Kr Reykjavik vs Valur | 02:15 27/05",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/88508431.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sao Paulo vs Boston River | 05:00 27/05",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/31f5171de0e1404fdebcef19cd7cd409.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/213564797bbfa3921e60bb314c92354b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
