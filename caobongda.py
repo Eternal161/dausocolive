@@ -4,6 +4,8 @@ from datetime import datetime
 
 TARGET_URL = "https://colatv48.live"
 
+VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
+
 def lay_m3u8(page, url_tran):
     link_m3u8 = ""
     def handle_request(request):
