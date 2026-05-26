@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 04:10",
+    "last_updated": "Cập nhật: 27/05/2026 - 04:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Kr Reykjavik vs Valur | 02:15 27/05",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/14858f3c16315392bcb7d732bbe9af26.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/b95bc960b3da7a0823037c9f0ad86329.png!w80",
+                    "name": "Gremio vs Montevideo City | 05:00 27/05",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb5004650a388d73f47cc3ca08623cc8.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,35 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Stjarnan Gardabaer vs Vikingur Reykjavik | 02:15 27/05",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6c69fc2cbf514787c61e2b9e5e55674b.jpg!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7d980021e4160be27df269c331beab96.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Flamengo vs Cusco | 07:30 27/05",
+                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/709fd97eaf9a55aa43638746010d287a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
