@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 02:20",
+    "last_updated": "Cập nhật: 27/05/2026 - 02:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Badalona Nu vs Real Madrid Nu | 00:00 27/05",
-                    "tournament": "Giải bóng đá Nữ Siêu cúp Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d6b8690213a0d644cffc8182807d6f3b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Stjarnan Gardabaer vs Vikingur Reykjavik | 02:15 27/05",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/6c69fc2cbf514787c61e2b9e5e55674b.jpg!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7d980021e4160be27df269c331beab96.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
