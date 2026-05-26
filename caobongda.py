@@ -2,10 +2,7 @@ import os
 import re
 import time
 import json
-import uuid
-import hashlib
 import datetime
-import requests
 from github import Github
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 from playwright_stealth import Stealth
