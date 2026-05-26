@@ -1,0 +1,41 @@
+name: Tự động cập nhật Link ColaTV
+
+on:
+  # Cài đặt thời gian chạy tự động (Ví dụ: Chạy mỗi 30 phút một lần)
+  schedule:
+    - cron: '*/30 * * * *'
+  # Cho phép bấm nút chạy thủ công trên GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Kéo kho code về máy chủ GitHub
+      uses: actions/checkout@v4
+
+    - name: Cài đặt Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Cài đặt thư viện Playwright
+      run: |
+        python -m pip install --upgrade pip
+        pip install playwright
+        playwright install chromium
+
+    - name: Chạy Bot cào link m3u8
+      run: python caobongda.py
+
+    - name: Commit và Push socolive.json lên GitHub
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add socolive.json
+        git commit -m "🤖 Cập nhật link trực tiếp ColaTV" || echo "Không có thay đổi nào để commit"
+        git push
