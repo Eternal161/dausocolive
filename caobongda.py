@@ -1,10 +1,7 @@
-import os
-import re
-import time
 import json
-import datetime
-from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
-from playwright_stealth import Stealth
+import time
+from playwright.sync_api import sync_playwright
+from datetime import datetime
 
 TARGET_URL = "https://colatv48.live"
 
