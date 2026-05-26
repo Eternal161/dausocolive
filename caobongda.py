@@ -75,7 +75,14 @@ def cao_colatv():
                     "logo_khach": logo_khach
                 })
             
-            print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá. Bắt đầu lấy link m3u8...\n")
+            print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá.")
+            
+            # 💡 TÍNH NĂNG LIMIT MATCH Ở ĐÂY
+            LIMIT_MATCH = 20 # Dậu chỉnh số lượng trận muốn lấy tối đa (ví dụ 15, 20, 30...)
+            danh_sach_tran_phu_hop = danh_sach_tran_phu_hop[:LIMIT_MATCH]
+            
+            print(f"✂️ Đã áp dụng Limit! Chỉ chui vào lấy m3u8 của {len(danh_sach_tran_phu_hop)} trận đầu tiên...\n")
+            
             ket_qua_cuoi_cung = []
             
             for i, tran in enumerate(danh_sach_tran_phu_hop, 1):
