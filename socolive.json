@@ -1,12 +1,12 @@
 {
-    "playlist_name": "Cola TV",
+    "playlist_name": "Cola TV (Socolive)",
     "last_updated": "26/05/2026",
     "groups": [
         {
-            "name": "Live ColaTV",
+            "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Ifk Mariehamn vs Lahti | 22:00 26/05",
+                    "name": "Ifk Mariehamn vs Lahti | 15:00 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
                     "labels": [
                         {
@@ -32,7 +32,7 @@
                     ]
                 },
                 {
-                    "name": "Vaasa Vps vs Haka | 22:00 26/05",
+                    "name": "Vaasa Vps vs Haka | 15:00 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
                     "labels": [
                         {
@@ -58,7 +58,7 @@
                     ]
                 },
                 {
-                    "name": "Astana B vs Khan Tengri Fc | 21:00 26/05",
+                    "name": "Astana B vs Khan Tengri Fc | 14:00 26/05",
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
                     "labels": [
                         {
@@ -84,7 +84,33 @@
                     ]
                 },
                 {
-                    "name": "Jelgava vs Liepaja | 22:00 26/05",
+                    "name": "Ararat Yerevan vs Bkma | 15:00 26/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Armenia",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jelgava vs Liepaja | 15:00 26/05",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
                     "labels": [
                         {
@@ -110,7 +136,7 @@
                     ]
                 },
                 {
-                    "name": "Japs vs Kups | 22:30 26/05",
+                    "name": "Japs vs Kups | 15:30 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
                     "labels": [
                         {
@@ -126,162 +152,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Inter Turku vs Ebk | 22:30 26/05",
-                    "tournament": "Cúp bóng đá Phần Lan",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hjk vs Mypa | 23:00 26/05",
-                    "tournament": "Cúp bóng đá Phần Lan",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bfc Daugavpils vs Auda | 23:00 26/05",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Levante Las Planas Phu Nu vs Real Madrid Nu | 00:00 27/05",
-                    "tournament": "Giải bóng đá Nữ Siêu cúp Tây Ban Nha",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hapoel Beer Sheva vs Maccabi Tel Aviv | 00:30 27/05",
-                    "tournament": "Cúp Israel",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Nigeria vs Zimbabwe | 01:30 27/05",
-                    "tournament": "Giao hữu Quốc tế",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
