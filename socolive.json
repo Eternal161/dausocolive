@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 26/05/2026 - 22:56",
+    "last_updated": "Cập nhật: 26/05/2026 - 23:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -84,32 +84,6 @@
                     ]
                 },
                 {
-                    "name": "Astana B vs Khan Tengri Fc | 21:00 26/05",
-                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Ararat Yerevan vs Bkma | 22:00 26/05",
                     "tournament": "Giải Bóng đá Ngoại hạng Armenia",
                     "labels": [
@@ -152,6 +126,32 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Japs vs Kups | 22:30 26/05",
+                    "tournament": "Cúp bóng đá Phần Lan",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
