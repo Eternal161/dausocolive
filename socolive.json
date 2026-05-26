@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 26/05/2026 - 23:07",
+    "last_updated": "Cập nhật: 26/05/2026 - 23:12",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -8,6 +8,8 @@
                 {
                     "name": "Ifk Mariehamn vs Lahti | 22:00 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/41140c6f793b378e8cad7087ebce5066.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -34,6 +36,8 @@
                 {
                     "name": "Vaasa Vps vs Haka | 22:00 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -60,6 +64,8 @@
                 {
                     "name": "Inter Turku vs Ebk | 22:30 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/65a2174b662a3a6377aeac75bb7ecabb.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -86,6 +92,8 @@
                 {
                     "name": "Ararat Yerevan vs Bkma | 22:00 26/05",
                     "tournament": "Giải Bóng đá Ngoại hạng Armenia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9594e7abdcb42f6e8a178db6d4f37a94.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/77ca875a242e4b4b404106e58731f61d.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -112,6 +120,8 @@
                 {
                     "name": "Jelgava vs Liepaja | 22:00 26/05",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/066236dc007de501d84a4a146f7597a9.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -138,6 +148,8 @@
                 {
                     "name": "Japs vs Kups | 22:30 26/05",
                     "tournament": "Cúp bóng đá Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/750db83b65bc2cae626ae6324b364a1f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
