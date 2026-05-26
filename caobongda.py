@@ -1,11 +1,8 @@
 import json
-import time
 from playwright.sync_api import sync_playwright
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 TARGET_URL = "https://colatv48.live"
-
-VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 
 def lay_m3u8(page, url_tran):
     link_m3u8 = ""
@@ -90,14 +87,16 @@ def cao_colatv():
         browser.close()
         
     if ket_qua_cuoi_cung:
-        ngay_hom_nay = datetime.now().strftime("%d/%m/%Y")
+        # 💡 CODE ÉP LẤY MÚI GIỜ VIỆT NAM (UTC+7)
+        mui_gio_vn = timezone(timedelta(hours=7))
+        ngay_hom_nay = datetime.now(mui_gio_vn).strftime("%d/%m/%Y - %H:%M")
+        
         socolive_json = {
             "playlist_name": "Cola TV (Socolive)",
-            "last_updated": ngay_hom_nay,
+            "last_updated": f"Cập nhật: {ngay_hom_nay}",
             "groups": [{"name": "Live Bóng Đá", "channels": ket_qua_cuoi_cung}]
         }
         
-        # 💡 LƯU TÊN FILE LÀ socolive.json NHƯ YÊU CẦU
         with open("socolive.json", "w", encoding="utf-8") as f:
             json.dump(socolive_json, f, ensure_ascii=False, indent=4)
             
