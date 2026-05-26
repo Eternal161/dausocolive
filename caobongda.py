@@ -28,7 +28,7 @@ def cao_colatv():
         print("🚀 Khởi động Thợ Săn ColaTV trên GitHub Actions...")
         browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-web-security"]) 
         
-        # 💡 SỬA LỖI GIỜ Ở ĐÂY: Ép trình duyệt ảo dùng múi giờ Việt Nam
+        # Ép trình duyệt ảo dùng múi giờ Việt Nam để lấy đúng giờ đá
         context = browser.new_context(timezone_id="Asia/Ho_Chi_Minh")
         page = context.new_page()
         
@@ -45,10 +45,15 @@ def cao_colatv():
                 link_full = href if href.startswith("http") else f"{TARGET_URL}{href}"
                 the_cha = the_link.locator("xpath=..")
                 
+                logo_nha = ""
+                logo_khach = ""
                 try:
                     giai_dau = the_cha.locator(".match-item__comp").text_content().strip()
-                    # Do trình duyệt đang ở múi giờ VN, biến thoi_gian sẽ lấy đúng 22:00
                     thoi_gian = the_cha.locator(".match-item__time").text_content().strip()
+                    
+                    # 💡 LẤY LOGO TỪ ẢNH F12
+                    logo_nha = the_cha.locator(".match-home img").get_attribute("src")
+                    logo_khach = the_cha.locator(".match-away img").get_attribute("src")
                 except:
                     continue
                 
@@ -65,7 +70,9 @@ def cao_colatv():
                     "url": link_full,
                     "giai_dau": giai_dau,
                     "thoi_gian": thoi_gian,
-                    "ten_tran": ten_tran_dau
+                    "ten_tran": ten_tran_dau,
+                    "logo_nha": logo_nha,
+                    "logo_khach": logo_khach
                 })
             
             print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá. Bắt đầu lấy link m3u8...\n")
@@ -80,6 +87,8 @@ def cao_colatv():
                     channel_data = {
                         "name": formatted_name,
                         "tournament": tran["giai_dau"],
+                        "logo_nha": tran["logo_nha"],     # Gắn logo nhà vào JSON
+                        "logo_khach": tran["logo_khach"], # Gắn logo khách vào JSON
                         "labels": [{"text": "LIVE"}],
                         "sources": [{"contents": [{"streams": [{"stream_links": [{"url": link_m3u8}]}]}]}]
                     }
