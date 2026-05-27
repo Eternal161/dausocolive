@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 01:31",
+    "last_updated": "Cập nhật: 28/05/2026 - 01:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Jamaica vs India | 01:30 28/05",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e7083a9eae16cbc27fa133d41212e4c8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Urozhaynaya vs Molodechno | 00:00 28/05",
                     "tournament": "Cúp Belarus",
@@ -52,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Jamaica vs India | 01:30 28/05",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e7083a9eae16cbc27fa133d41212e4c8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
