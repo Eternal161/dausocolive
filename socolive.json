@@ -1,94 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 09:30",
+    "last_updated": "Cập nhật: 27/05/2026 - 09:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Nacional vs Coquimbo Unido | 07:30 27/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/aa97d18606e06696fd770ed04a5d040b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e62f69a9de87796972eb59d19c27e59c.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Estudiantes La Plata vs Medellin Independiente | 07:30 27/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Santos vs Dep Cuenca | 07:30 27/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/af5d08bcd181c66a5ff7724086d6c933.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Dalian Yingbo B vs Shandong Taishan B | 14:00 27/05",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
@@ -122,6 +38,90 @@
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80",
                     "logo_khach": "https://img.colatv88xd.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Changchun Xidu vs Beijing Technology | 15:00 27/05",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0011800200177bdd6d5197b2bd13e8d9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3f0164c40c878bc710d0e7f83c6f5d71.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Xiamen Feilu vs Jiangxi Beidamen | 15:00 27/05",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/781ec70f5330d740f23ff6ba778ae7e4.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/2d5acabff93b2cc5c965f75b920f14bb.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Seoul Nu vs Hyundai Steel Red Angels Nu | 17:00 27/05",
+                    "tournament": "WK League Nữ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/19ba34d167be9b01eb848a0a777932ac.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ea4ce3a397e17ff504fcb9a4b1c4f740.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
