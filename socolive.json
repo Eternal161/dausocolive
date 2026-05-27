@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 23:50",
+    "last_updated": "Cập nhật: 28/05/2026 - 00:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Fc Ararat Armenia vs Fc Gandzasar | 22:00 27/05",
-                    "tournament": "Giải Bóng đá Ngoại hạng Armenia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/445b142144eafa15449f92563fd1b978.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c00f2b8a2f32ddbc2fa44bb8f7c73a6b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ilves vs Tps | 22:30 27/05",
                     "tournament": "Cúp bóng đá Phần Lan",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Crystal Palace vs Rayo Vallecano | 02:00 28/05",
+                    "tournament": "UEFA Europa Conference League",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
