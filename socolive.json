@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 19:11",
+    "last_updated": "Cập nhật: 27/05/2026 - 19:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -146,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Seoul Nu vs Hyundai Steel Red Angels Nu | 17:00 27/05",
-                    "tournament": "WK League Nữ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/19ba34d167be9b01eb848a0a777932ac.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ea4ce3a397e17ff504fcb9a4b1c4f740.png!w80",
+                    "name": "Ertis Pavlodar vs Ulytau Zhezkazgan | 20:00 27/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
