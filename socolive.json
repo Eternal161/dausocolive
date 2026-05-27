@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 04:10",
+    "last_updated": "Cập nhật: 28/05/2026 - 04:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Crystal Palace vs Rayo Vallecano | 02:00 28/05",
-                    "tournament": "UEFA Europa Conference League",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Fc Cuniburo vs Orense | 03:30 28/05",
                     "tournament": "Cúp Ecuador",
@@ -80,6 +52,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Independiente Del Valle vs Rosario Central | 05:00 28/05",
+                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/cb9797fa8614b9664231a4861ed71875.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/925e9365900b159acf4493eb401fdc18.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Racing Club vs Independiente Petroleros | 05:00 28/05",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/97f1608bfe5c72492cb5e201f93a6cda.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cienciano vs Juventud | 05:00 28/05",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e868bb2eac1923c5aecaddd492860b32.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/928b41b8c6f948cf8b1f515d4b301b80.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
