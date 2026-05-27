@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 15:01",
+    "last_updated": "Cập nhật: 27/05/2026 - 15:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Shanxi Chongde Ronghai vs Qingdao Red Lions | 14:00 27/05",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Xiamen Feilu vs Jiangxi Beidamen | 15:00 27/05",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shanxi Chongde Ronghai vs Qingdao Red Lions | 14:00 27/05",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
