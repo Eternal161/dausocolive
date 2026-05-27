@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 10:10",
+    "last_updated": "Cập nhật: 27/05/2026 - 10:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -135,7 +135,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Altai Semey vs Fc Astana | 18:00 27/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/96717524f82fb5d1366bd0d22c485956.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5c481f41c0a1d43dcb508650562d840f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
