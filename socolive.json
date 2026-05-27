@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 21:01",
+    "last_updated": "Cập nhật: 27/05/2026 - 21:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Buriram vs Selangor | 19:00 27/05",
-                    "tournament": "Asean Club Championship Shopee Cup",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/585f46e1975ca0a4cce84365f5290111.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Barcelona Nu vs Real Sociedad Nu | 00:00 28/05",
+                    "tournament": "Giải bóng đá Nữ Siêu cúp Tây Ban Nha",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/6dfc28d0f38d12ff657e16fb02e040f7.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
