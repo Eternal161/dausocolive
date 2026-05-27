@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 05:30",
+    "last_updated": "Cập nhật: 28/05/2026 - 05:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -118,10 +118,10 @@
                     ]
                 },
                 {
-                    "name": "Fc Cuniburo vs Orense | 03:30 28/05",
-                    "tournament": "Cúp Ecuador",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f72a0b3c57b20a12d1711b178bb2ae32.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6aee0e3c4adf0a133ff26dd20c7ea29f.png!w80",
+                    "name": "Bolivar vs Independiente Rivadavia | 07:30 28/05",
+                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/97b953630af2877305a6bcb90444dc72.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7e779bba58b944c8cfa786d857430383.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -135,7 +135,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
