@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 21:50",
+    "last_updated": "Cập nhật: 27/05/2026 - 22:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Ertis Pavlodar vs Ulytau Zhezkazgan | 20:00 27/05",
-                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Fc Ararat Armenia vs Fc Gandzasar | 22:00 27/05",
                     "tournament": "Giải Bóng đá Ngoại hạng Armenia",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jamaica vs India | 01:30 28/05",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e7083a9eae16cbc27fa133d41212e4c8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
