@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 06:51",
+    "last_updated": "Cập nhật: 27/05/2026 - 07:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Gremio vs Montevideo City | 05:00 27/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb5004650a388d73f47cc3ca08623cc8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Millonarios vs Ohiggins | 05:00 27/05",
                     "tournament": "Siêu Cúp Nam Mỹ",
@@ -62,66 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Lanus vs Mirassol | 05:00 27/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/b20645448c644b701286477f55b11e24.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ldu Quito vs Always Ready | 05:00 27/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8b048da33a06a2257101bb110b81e290.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4f5b815aa7bca0be2a325494997ad29e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Sao Paulo vs Boston River | 05:00 27/05",
+                    "name": "Gremio vs Montevideo City | 05:00 27/05",
                     "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/31f5171de0e1404fdebcef19cd7cd409.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/213564797bbfa3921e60bb314c92354b.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb5004650a388d73f47cc3ca08623cc8.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -135,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
@@ -248,62 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Estudiantes La Plata vs Medellin Independiente | 07:30 27/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Santos vs Dep Cuenca | 07:30 27/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/af5d08bcd181c66a5ff7724086d6c933.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
