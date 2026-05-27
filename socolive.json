@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 20:10",
+    "last_updated": "Cập nhật: 27/05/2026 - 20:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Wuhan Three Towns B vs Guangdong Mingtu | 18:30 27/05",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/606d1fab6be38fe79da58c380fbcd975.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a1149c5d3991bc2f4fd716b7e95c4cb9.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Ertis Pavlodar vs Ulytau Zhezkazgan | 20:00 27/05",
                     "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png!w80",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wuhan Three Towns B vs Guangdong Mingtu | 18:30 27/05",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/606d1fab6be38fe79da58c380fbcd975.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a1149c5d3991bc2f4fd716b7e95c4cb9.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
