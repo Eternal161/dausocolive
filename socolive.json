@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 15:50",
+    "last_updated": "Cập nhật: 27/05/2026 - 16:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,62 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shanxi Chongde Ronghai vs Qingdao Red Lions | 14:00 27/05",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Dalian Yingbo B vs Shandong Taishan B | 14:00 27/05",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/bf15765055eda003a3410454713c8e4d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/9dba54d4d8d45f520aadcf31fdedb6bf.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Guangzhou Dandelion Alpha Fc vs Ganzhou Ruishi | 18:00 27/05",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/69d796093df94d0b2b4ce1a5d2551df0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/72600460b6208fe3c6cb454e7c1ac54b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wuhan Three Towns B vs Guangdong Mingtu | 18:30 27/05",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/606d1fab6be38fe79da58c380fbcd975.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a1149c5d3991bc2f4fd716b7e95c4cb9.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
