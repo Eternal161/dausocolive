@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 17:50",
+    "last_updated": "Cập nhật: 27/05/2026 - 18:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Seoul Nu vs Hyundai Steel Red Angels Nu | 17:00 27/05",
-                    "tournament": "WK League Nữ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/19ba34d167be9b01eb848a0a777932ac.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ea4ce3a397e17ff504fcb9a4b1c4f740.png!w80",
+                    "name": "Guangzhou Dandelion Alpha Fc vs Ganzhou Ruishi | 18:00 27/05",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/69d796093df94d0b2b4ce1a5d2551df0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/72600460b6208fe3c6cb454e7c1ac54b.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Guangzhou Dandelion Alpha Fc vs Ganzhou Ruishi | 18:00 27/05",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/69d796093df94d0b2b4ce1a5d2551df0.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/72600460b6208fe3c6cb454e7c1ac54b.png!w80",
+                    "name": "Seoul Nu vs Hyundai Steel Red Angels Nu | 17:00 27/05",
+                    "tournament": "WK League Nữ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/19ba34d167be9b01eb848a0a777932ac.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ea4ce3a397e17ff504fcb9a4b1c4f740.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
