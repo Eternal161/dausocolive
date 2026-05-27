@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 03:20",
+    "last_updated": "Cập nhật: 28/05/2026 - 03:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Jamaica vs India | 01:30 28/05",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e7083a9eae16cbc27fa133d41212e4c8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Fc Cuniburo vs Orense | 03:30 28/05",
                     "tournament": "Cúp Ecuador",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/f72a0b3c57b20a12d1711b178bb2ae32.png!w80",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Libertad vs Universidad Central | 05:00 28/05",
+                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a82c9684d567971fb6a08d24d027892a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3656d046d7ca027ff1aa38d4b5e4b6bb.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
