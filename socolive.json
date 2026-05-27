@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 27/05/2026 - 19:52",
+    "last_updated": "Cập nhật: 27/05/2026 - 20:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,62 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Guangzhou Dandelion Alpha Fc vs Ganzhou Ruishi | 18:00 27/05",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/69d796093df94d0b2b4ce1a5d2551df0.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/72600460b6208fe3c6cb454e7c1ac54b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Altai Semey vs Fc Astana | 18:00 27/05",
-                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/96717524f82fb5d1366bd0d22c485956.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5c481f41c0a1d43dcb508650562d840f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,6 +62,34 @@
                     ]
                 },
                 {
+                    "name": "Ertis Pavlodar vs Ulytau Zhezkazgan | 20:00 27/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Nantong Haimen vs Shanghai Second | 18:30 27/05",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/4dfc08afd10a8aa30aa5655918faf2c7.png!w80",
@@ -146,10 +118,10 @@
                     ]
                 },
                 {
-                    "name": "Ertis Pavlodar vs Ulytau Zhezkazgan | 20:00 27/05",
-                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png!w80",
+                    "name": "Fc Ararat Armenia vs Fc Gandzasar | 22:00 27/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Armenia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/445b142144eafa15449f92563fd1b978.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c00f2b8a2f32ddbc2fa44bb8f7c73a6b.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +135,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ilves vs Tps | 22:30 27/05",
+                    "tournament": "Cúp bóng đá Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f6526b5434c06d7a6da4a9193fdac95e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f3aa37eff0023279c42b6e99eecc31d0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
