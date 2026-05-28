@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 08:20",
+    "last_updated": "Cập nhật: 28/05/2026 - 08:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Corinthians Paulista vs Platense | 07:30 28/05",
+                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/aa4d61da1df31972e52e1e62f90ec558.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
