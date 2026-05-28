@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 17:20",
+    "last_updated": "Cập nhật: 28/05/2026 - 17:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Zhenis vs Kaspij Aktau | 21:00 28/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/16ccfd6042d1f791302c69eec646e081.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Septemvri Sofia vs Yantra Gabrovo | 21:00 28/05",
+                    "tournament": "Giải vô địch quốc gia Bulgaria",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a6f81856a35217b82fb2e20d28c3dcab.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/adf70d2a31395856a19700a307eadd4a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ordabasy vs Kairat | 22:00 28/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/56445b7fccea061fbee0ac71cbd53a83.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
