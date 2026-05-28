@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 09:20",
+    "last_updated": "Cập nhật: 28/05/2026 - 09:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,118 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Bragantino vs Carabobo | 07:30 28/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9e9d18ccd36d42462fc896e22de890c2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f01ecc34c5814c9b486657bc3143b3b0.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "River Plate vs Blooming | 07:30 28/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1a8ffd06b2866504609c32ee6091ba7c.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fluminense Rj vs Deportivo La Guaira | 07:30 28/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/04f51f4043ddc58415248191d190ace7.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ca Penarol vs Santa Fe | 07:30 28/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d95f60f58aac7368fb6659aa0f27cfbf.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Corinthians Paulista vs Platense | 07:30 28/05",
                     "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/aa4d61da1df31972e52e1e62f90ec558.png!w80",
@@ -164,6 +52,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "El Paso vs Av Alta | 08:00 28/05",
+                    "tournament": "USL Cup",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/327ba784c0f6eb8f2e6ae4494b523d70.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a46dd63b946ae627c352a9400994e6be.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Okzhetpes vs Aktobe | 17:00 28/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0cdeb1ea76b968c9b9147db96e1c6f6f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e4e73b178c9fc00801c83684b02b6d81.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyzylzhar vs Zhetysu Taldykorgan | 18:00 28/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/c61c3199500be14782a4d533db7e52a2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d170d88f6e60eeee57486405474e1f9f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
