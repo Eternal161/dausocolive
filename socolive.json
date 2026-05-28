@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 09:30",
+    "last_updated": "Cập nhật: 28/05/2026 - 09:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Bolivar vs Independiente Rivadavia | 07:30 28/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/97b953630af2877305a6bcb90444dc72.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7e779bba58b944c8cfa786d857430383.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Corinthians Paulista vs Platense | 07:30 28/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/aa4d61da1df31972e52e1e62f90ec558.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "El Paso vs Av Alta | 08:00 28/05",
                     "tournament": "USL Cup",
@@ -136,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bi U17 vs Tay Ban Nha U17 | 18:30 28/05",
+                    "tournament": "Euro U17",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
