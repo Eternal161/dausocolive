@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 20:30",
+    "last_updated": "Cập nhật: 28/05/2026 - 20:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -107,7 +107,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ordabasy vs Kairat | 22:00 28/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/56445b7fccea061fbee0ac71cbd53a83.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
