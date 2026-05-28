@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 10:00",
+    "last_updated": "Cập nhật: 28/05/2026 - 10:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "El Paso vs Av Alta | 08:00 28/05",
-                    "tournament": "USL Cup",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/327ba784c0f6eb8f2e6ae4494b523d70.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a46dd63b946ae627c352a9400994e6be.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Okzhetpes vs Aktobe | 17:00 28/05",
                     "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fk Atyrau vs Tobol | 20:00 28/05",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b411990b3dc114af83c8fdaa26bbf5de.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/88927cd47c8746dd990d0a19fae7b97b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
