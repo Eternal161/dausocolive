@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 21:51",
+    "last_updated": "Cập nhật: 28/05/2026 - 22:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,34 +90,6 @@
                     ]
                 },
                 {
-                    "name": "Septemvri Sofia vs Yantra Gabrovo | 21:00 28/05",
-                    "tournament": "Giải vô địch quốc gia Bulgaria",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a6f81856a35217b82fb2e20d28c3dcab.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/adf70d2a31395856a19700a307eadd4a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Ordabasy vs Kairat | 22:00 28/05",
                     "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/56445b7fccea061fbee0ac71cbd53a83.png!w80",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Estonia U17 vs Croatia U17 | 23:00 28/05",
+                    "tournament": "Euro U17",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/350035841e1182bf4389c52752d8bd0d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
