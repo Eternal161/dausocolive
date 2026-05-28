@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 22:11",
+    "last_updated": "Cập nhật: 28/05/2026 - 22:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -52,34 +52,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fk Atyrau vs Tobol | 20:00 28/05",
-                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b411990b3dc114af83c8fdaa26bbf5de.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/88927cd47c8746dd990d0a19fae7b97b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lokomotive Leipzig vs Wurzburger Kickers | 00:00 29/05",
+                    "tournament": "Giải bóng đá khu vực Đức",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/eaa4ca0a29e611c9800611aa60df09c9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ebcbca8cebeadaedca3871d7caec10c5.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
