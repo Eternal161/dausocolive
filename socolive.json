@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 28/05/2026 - 19:30",
+    "last_updated": "Cập nhật: 28/05/2026 - 19:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Bi U17 vs Tay Ban Nha U17 | 18:30 28/05",
-                    "tournament": "Euro U17",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Fk Atyrau vs Tobol | 20:00 28/05",
                     "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bi U17 vs Tay Ban Nha U17 | 18:30 28/05",
+                    "tournament": "Euro U17",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
