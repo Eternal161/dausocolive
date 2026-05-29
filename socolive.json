@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 11:20",
+    "last_updated": "Cập nhật: 29/05/2026 - 11:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -79,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
@@ -108,6 +108,118 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "West Torrens Birkalla vs Adelaide Comets Fc | 17:30 29/05",
+                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/c524354a372c83245e6d4cb8afbc234f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/861a7e12ebda4bd651b701e069cde5c5.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shanghai Jiading Huilong vs Nantong Zhiyun | 18:00 29/05",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Guangdong Gz Power vs Shenzhen Juniors | 18:30 29/05",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shenyang Urban Fc vs Shanghai Port | 18:35 29/05",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1c4ae95c663ed84758a04627451e3470.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
