@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 07:30",
+    "last_updated": "Cập nhật: 29/05/2026 - 07:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "America De Cali vs Macara | 07:30 29/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d138a4d0829205be8e477b43d95b138d.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Club Atletico Tigre vs Alianza Atl | 07:30 29/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Boca Juniors vs U Catolica | 07:30 29/05",
                     "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
@@ -108,6 +52,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "America De Cali vs Macara | 07:30 29/05",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d138a4d0829205be8e477b43d95b138d.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Club Atletico Tigre vs Alianza Atl | 07:30 29/05",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
                                                 }
                                             ]
                                         }
