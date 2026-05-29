@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 19:30",
+    "last_updated": "Cập nhật: 29/05/2026 - 19:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,34 +90,6 @@
                     ]
                 },
                 {
-                    "name": "West Torrens Birkalla vs Adelaide Comets Fc | 17:30 29/05",
-                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/c524354a372c83245e6d4cb8afbc234f.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/861a7e12ebda4bd651b701e069cde5c5.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Majd Fc vs Hatta | 21:15 29/05",
                     "tournament": "Giải hạng Hai UAE",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/b6a81ed7453842790bcc3a726515b4a4.png!w80",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Al Hamriyah vs United Fc | 21:15 29/05",
+                    "tournament": "Giải hạng Hai UAE",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0c59a7ee212419337f22448dca90fc6e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f1eb0a2465dd34309c64d113ce0c9b96.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
