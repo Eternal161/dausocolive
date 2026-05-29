@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 02:01",
+    "last_updated": "Cập nhật: 30/05/2026 - 02:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Orgryte vs Elfsborg | 00:00 30/05",
-                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9dd02927b1bf3e324b62a3013c140382.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/983e56ee1d89379148cbb1d28384b6af.png!w80",
+                    "name": "Lyon Nu vs Paris Fc Nu | 02:00 30/05",
+                    "tournament": "Giải Vô địch Bóng đá nữ Pháp",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/99415c256a9adec98819ca588bfa8974.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/fabc3fa7f297e32d91291693eb8c1404.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,63 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Kfum Oslo vs Tromso | 00:00 30/05",
-                    "tournament": "Giải vô địch quốc gia Na Uy",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/78581e2ef61df4a79eb3b24254665b88.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/16a410c5355aed84a9ca41b15073db49.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Rosenborg vs Bodo Glimt | 00:00 30/05",
-                    "tournament": "Giải vô địch quốc gia Na Uy",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a2eadc57b3a330eda4b7189352ce344.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Grau vs Ucv Moquegua | 03:00 30/05",
+                    "tournament": "Giải Vô Địch Quốc Gia Peru",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/6a6cce9aa801c9ba65832a685dd144b7.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/19be19d979fd79bf0a2e6a78dfdadc4c.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cucuta vs Fortaleza Ceif | 04:00 30/05",
+                    "tournament": "Cúp Colombia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
