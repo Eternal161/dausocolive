@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 23:50",
+    "last_updated": "Cập nhật: 30/05/2026 - 00:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,10 +90,10 @@
                     ]
                 },
                 {
-                    "name": "Riga Fc vs Grobina | 22:00 29/05",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
+                    "name": "Haka vs Jippo | 22:30 29/05",
+                    "tournament": "Giải hạng 2 Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f2a0ad7b962110a5c535b224ab055d86.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -107,7 +107,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,10 +118,10 @@
                     ]
                 },
                 {
-                    "name": "Dila Gori vs Samgurali | 22:00 29/05",
-                    "tournament": "Giải Vô địch Quốc gia Georgia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8d37df65ec99136141521145783ba119.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a9bea85988465e9accfae7984ac850eb.png!w80",
+                    "name": "Orgryte vs Elfsborg | 00:00 30/05",
+                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9dd02927b1bf3e324b62a3013c140382.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/983e56ee1d89379148cbb1d28384b6af.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -146,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Haka vs Jippo | 22:30 29/05",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f2a0ad7b962110a5c535b224ab055d86.png!w80",
+                    "name": "Kfum Oslo vs Tromso | 00:00 30/05",
+                    "tournament": "Giải vô địch quốc gia Na Uy",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/78581e2ef61df4a79eb3b24254665b88.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/16a410c5355aed84a9ca41b15073db49.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
