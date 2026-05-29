@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 03:31",
+    "last_updated": "Cập nhật: 30/05/2026 - 03:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,90 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Juventude vs America Mg | 07:00 30/05",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Racing Cordoba vs Ferrol Carril Oeste | 07:00 30/05",
-                    "tournament": "Giải bóng đá Hạng nhì Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a79ea4a4b9b2a68db0f95d6a9435b1be.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hume City vs South Melbourne | 11:00 30/05",
-                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
