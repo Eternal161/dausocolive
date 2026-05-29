@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 16:30",
+    "last_updated": "Cập nhật: 29/05/2026 - 16:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Guangdong Gz Power vs Shenzhen Juniors | 18:30 29/05",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
