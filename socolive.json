@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 17:01",
+    "last_updated": "Cập nhật: 29/05/2026 - 17:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,62 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shenyang Urban Fc vs Shanghai Port | 18:35 29/05",
-                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1c4ae95c663ed84758a04627451e3470.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Majd Fc vs Hatta | 21:15 29/05",
-                    "tournament": "Giải hạng Hai UAE",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b6a81ed7453842790bcc3a726515b4a4.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb546c302434af47cf61e8ae3fd53102.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
