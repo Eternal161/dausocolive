@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 09:30",
+    "last_updated": "Cập nhật: 29/05/2026 - 09:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Boca Juniors vs U Catolica | 07:30 29/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d2c51e33f6e7a7a3eed10d03fdb9ffb8.png!w80",
+                    "name": "Shaanxi Union vs Nanjing City | 14:00 29/05",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4453da947baa45c05d9f5b80c79c8aac.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -34,10 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Cruzeiro vs Barcelona Sc | 07:30 29/05",
-                    "tournament": "Giải Vô địch các Câu lạc bộ Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png!w80",
+                    "name": "Heidelberg United vs Dandenong Thunder | 16:30 29/05",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/5cae62255ca170949672a7ce8999b094.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/21b95f24eea9500e1147ed57a68a3ff8.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -51,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "America De Cali vs Macara | 07:30 29/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d138a4d0829205be8e477b43d95b138d.png!w80",
+                    "name": "Wynnum Wolves vs Brisbane U21 | 16:30 29/05",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/8bf0a8154cddf3b29ec15f74f864aebd.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,35 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Club Atletico Tigre vs Alianza Atl | 07:30 29/05",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
