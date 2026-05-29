@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 18:21",
+    "last_updated": "Cập nhật: 29/05/2026 - 18:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,62 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Heidelberg United vs Dandenong Thunder | 16:30 29/05",
-                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/5cae62255ca170949672a7ce8999b094.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/21b95f24eea9500e1147ed57a68a3ff8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb Sydneyyouth vs Nhung Ke Lang Thang Tay Sydney Am | 16:30 29/05",
-                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6fb81e8272c1a862f2afe6e9858391af.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d287684146235d2fddb92f71d78fba02.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Majd Fc vs Hatta | 21:15 29/05",
+                    "tournament": "Giải hạng Hai UAE",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b6a81ed7453842790bcc3a726515b4a4.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb546c302434af47cf61e8ae3fd53102.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
