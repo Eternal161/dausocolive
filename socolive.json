@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 22:40",
+    "last_updated": "Cập nhật: 29/05/2026 - 22:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Al Hamriyah vs United Fc | 21:15 29/05",
-                    "tournament": "Giải hạng Hai UAE",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0c59a7ee212419337f22448dca90fc6e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f1eb0a2465dd34309c64d113ce0c9b96.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Riga Fc vs Grobina | 22:00 29/05",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
@@ -107,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
