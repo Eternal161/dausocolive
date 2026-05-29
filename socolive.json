@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 06:00",
+    "last_updated": "Cập nhật: 30/05/2026 - 06:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Cucuta vs Fortaleza Ceif | 04:00 30/05",
-                    "tournament": "Cúp Colombia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Cobresal vs Nublense | 05:00 30/05",
                     "tournament": "Giải vô địch quốc gia Chile",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Racing Cordoba vs Ferrol Carril Oeste | 07:00 30/05",
+                    "tournament": "Giải bóng đá Hạng nhì Argentina",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a79ea4a4b9b2a68db0f95d6a9435b1be.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
