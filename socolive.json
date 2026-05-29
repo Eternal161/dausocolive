@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 17:50",
+    "last_updated": "Cập nhật: 29/05/2026 - 18:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Shanghai Jiading Huilong vs Nantong Zhiyun | 18:00 29/05",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Heidelberg United vs Dandenong Thunder | 16:30 29/05",
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
@@ -80,34 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shanghai Jiading Huilong vs Nantong Zhiyun | 18:00 29/05",
-                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
