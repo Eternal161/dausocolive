@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 17:40",
+    "last_updated": "Cập nhật: 29/05/2026 - 17:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -52,34 +52,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "North Star vs Brisbane Strikers | 17:15 29/05",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shenyang Urban Fc vs Shanghai Port | 18:35 29/05",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1c4ae95c663ed84758a04627451e3470.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
