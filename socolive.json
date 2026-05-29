@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 29/05/2026 - 22:51",
+    "last_updated": "Cập nhật: 29/05/2026 - 23:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,6 +24,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Andorra vs Iraq | 23:00 29/05",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/15fa1fad1fc582dd65403f6f950b1e21.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/cc40d06ff0a16a793d066dbfa2917bab.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nam Phi vs Nicaragua | 23:00 29/05",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
@@ -62,10 +118,10 @@
                     ]
                 },
                 {
-                    "name": "Riga Fc vs Grobina | 22:00 29/05",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
+                    "name": "Al Hamriyah vs United Fc | 21:15 29/05",
+                    "tournament": "Giải hạng Hai UAE",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0c59a7ee212419337f22448dca90fc6e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f1eb0a2465dd34309c64d113ce0c9b96.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -90,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Dila Gori vs Samgurali | 22:00 29/05",
-                    "tournament": "Giải Vô địch Quốc gia Georgia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8d37df65ec99136141521145783ba119.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a9bea85988465e9accfae7984ac850eb.png!w80",
+                    "name": "Riga Fc vs Grobina | 22:00 29/05",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -107,35 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Haka vs Jippo | 22:30 29/05",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f2a0ad7b962110a5c535b224ab055d86.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
