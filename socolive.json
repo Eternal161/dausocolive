@@ -1,12 +1,12 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 06:40",
+    "last_updated": "Cập nhật: 31/05/2026 - 06:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Ecuador vs A Rap Saudi | 06:30 31/05",
+                    "name": "Ecuador vs A Rap Saudi | 07:00 31/05",
                     "tournament": "Giao hữu Quốc tế",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80",
                     "logo_khach": "https://img.colatv88xd.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
@@ -108,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mexico vs Australia | 09:00 31/05",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Broadmeadow Magic vs Lambton Jarvis | 10:00 31/05",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4f0ff310b253f34bfd414c5b2502082c.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1dafccf630517babe6ebab069431eb9c.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
                                                 }
                                             ]
                                         }
