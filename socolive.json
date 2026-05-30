@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 13:31",
+    "last_updated": "Cập nhật: 30/05/2026 - 13:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,6 +90,34 @@
                     ]
                 },
                 {
+                    "name": "Gamba Osaka vs Tokyo Verdy | 14:00 30/05",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/2a8adb34e764602183a7bee8f51726e4.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "V Varen Nagasaki vs Mito Hollyhock | 15:00 30/05",
                     "tournament": "Giải vô địch quốc gia Nhật Bản",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/b28ace839956d8eacce11926ea5e43b3.png!w80",
@@ -108,34 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Quy Nhon Binh Dinh vs Bac Ninh | 16:00 30/05",
-                    "tournament": "Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d8a1a7a944d3701818056b1632ad6ed5.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
