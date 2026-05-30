@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 14:01",
+    "last_updated": "Cập nhật: 30/05/2026 - 14:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Nagoya Grampus vs Machida | 12:00 30/05",
-                    "tournament": "Giải vô địch quốc gia Nhật Bản",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Vissel Kobe vs Kashima Antlers | 12:00 30/05",
-                    "tournament": "Giải vô địch quốc gia Nhật Bản",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Cerezo Osaka vs Tokyo | 13:00 30/05",
                     "tournament": "Giải vô địch quốc gia Nhật Bản",
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Truong Tuoi Dong Nai vs Dong Tam Long An | 16:00 30/05",
+                    "tournament": "Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/347d428c24e85dbda67f7817e7d80ebf.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Qingdao West Coast vs Shanghai Shenhua | 17:00 30/05",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/383d42e0d0843463b538bc3367d0c4c9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
