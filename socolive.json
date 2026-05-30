@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 20:40",
+    "last_updated": "Cập nhật: 30/05/2026 - 20:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Chengdu Rongcheng vs Shandong Taishan | 18:35 30/05",
-                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/85c080cf02a7161687ddd5b5800dc303.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Molde vs Sandefjord | 21:00 30/05",
+                    "tournament": "Giải vô địch quốc gia Na Uy",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d33c046e5f96387c208d1fa63a9a918a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/6277e37ca37add055bcf859d528147c8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
