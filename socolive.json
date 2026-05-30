@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 02:50",
+    "last_updated": "Cập nhật: 31/05/2026 - 03:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Colegiales vs Agropecuario | 01:00 31/05",
-                    "tournament": "Giải bóng đá Hạng nhì Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d22566a52f9dc6784a88e3f1f1685231.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/82c7dcf4a3073c69601c49b2e726af2a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Flamengo vs Coritiba | 02:00 31/05",
                     "tournament": "Giải bóng đá Hạng nhất Brasil",
