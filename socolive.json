@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 22:20",
+    "last_updated": "Cập nhật: 30/05/2026 - 22:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Paris Saint Germain vs Arsenal | 23:00 30/05",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Molde vs Sandefjord | 21:00 30/05",
                     "tournament": "Giải vô địch quốc gia Na Uy",
@@ -52,118 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "R Sociedad B vs Cultural Leonesa | 21:15 30/05",
-                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d29164c8a90c597e5333f1bf14f289f2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/9e1ea120267168064e638954f4e6f1e0.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Paris Saint Germain vs Arsenal | 23:00 30/05",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Colegiales vs Agropecuario | 01:00 31/05",
-                    "tournament": "Giải bóng đá Hạng nhì Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d22566a52f9dc6784a88e3f1f1685231.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/82c7dcf4a3073c69601c49b2e726af2a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Flamengo vs Coritiba | 02:00 31/05",
-                    "tournament": "Giải bóng đá Hạng nhất Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
