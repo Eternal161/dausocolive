@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 11:50",
+    "last_updated": "Cập nhật: 30/05/2026 - 12:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Nagoya Grampus vs Machida | 12:00 30/05",
-                    "tournament": "Giải vô địch quốc gia Nhật Bản",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Vissel Kobe vs Kashima Antlers | 12:00 30/05",
                     "tournament": "Giải vô địch quốc gia Nhật Bản",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nagoya Grampus vs Machida | 12:00 30/05",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
