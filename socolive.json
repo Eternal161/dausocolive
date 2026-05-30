@@ -1,122 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 21:01",
+    "last_updated": "Cập nhật: 30/05/2026 - 21:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Scotland vs Curacao | 19:00 30/05",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hjk vs Ifk Mariehamn | 19:00 30/05",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/fd1a9c51505300dec9c26e5847114851.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/41140c6f793b378e8cad7087ebce5066.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Chongqing Tonglianglong vs Beijing Guoan | 19:00 30/05",
-                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shenzhen Peng City vs Qingdao Hainiu Fc | 19:00 30/05",
-                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Malmo Ff vs Halmstad | 20:00 30/05",
                     "tournament": "Giải Vô địch Quốc gia Thụy Điển",
@@ -150,6 +38,118 @@
                     "tournament": "Giải vô địch quốc gia Na Uy",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/d33c046e5f96387c208d1fa63a9a918a.png!w80",
                     "logo_khach": "https://img.colatv88xd.cc/football/team/6277e37ca37add055bcf859d528147c8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kups vs Inter Turku | 21:00 30/05",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "R Sociedad B vs Cultural Leonesa | 21:15 30/05",
+                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d29164c8a90c597e5333f1bf14f289f2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/9e1ea120267168064e638954f4e6f1e0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paris Saint Germain vs Arsenal | 23:00 30/05",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Colegiales vs Agropecuario | 01:00 31/05",
+                    "tournament": "Giải bóng đá Hạng nhì Argentina",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d22566a52f9dc6784a88e3f1f1685231.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/82c7dcf4a3073c69601c49b2e726af2a.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
