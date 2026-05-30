@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 13:01",
+    "last_updated": "Cập nhật: 30/05/2026 - 13:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -135,7 +135,119 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Quy Nhon Binh Dinh vs Bac Ninh | 16:00 30/05",
+                    "tournament": "Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d8a1a7a944d3701818056b1632ad6ed5.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Truong Tuoi Dong Nai vs Dong Tam Long An | 16:00 30/05",
+                    "tournament": "Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/347d428c24e85dbda67f7817e7d80ebf.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Qingdao West Coast vs Shanghai Shenhua | 17:00 30/05",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/383d42e0d0843463b538bc3367d0c4c9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyoto Sanga vs Kashiwa Reysol | 17:00 30/05",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
