@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 09:50",
+    "last_updated": "Cập nhật: 30/05/2026 - 10:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Atletico Fc vs Clb Millonarios | 08:10 30/05",
-                    "tournament": "Cúp Colombia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/2efb310d5e0ffe6cd96dcf192ae06624.jpg!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Nagoya Grampus vs Machida | 12:00 30/05",
                     "tournament": "Giải vô địch quốc gia Nhật Bản",
@@ -51,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
@@ -90,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Velago Ikoma vs As Cam Kyoto | 12:00 30/05",
-                    "tournament": "Giải bóng đá Vùng Kansai Nhật Bản",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/bcaa4cbd8410535bbb0402f6536d1fdd.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/44d5848d4c4e45e3a0d14fb46aae5cfa.png!w80",
+                    "name": "Cerezo Osaka vs Tokyo | 13:00 30/05",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -107,7 +79,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gamba Osaka vs Tokyo Verdy | 14:00 30/05",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/2a8adb34e764602183a7bee8f51726e4.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
