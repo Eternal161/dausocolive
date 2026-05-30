@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 15:30",
+    "last_updated": "Cập nhật: 30/05/2026 - 15:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Truong Tuoi Dong Nai vs Dong Tam Long An | 16:00 30/05",
-                    "tournament": "Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/347d428c24e85dbda67f7817e7d80ebf.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Quy Nhon Binh Dinh vs Bac Ninh | 16:00 30/05",
                     "tournament": "Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/d8a1a7a944d3701818056b1632ad6ed5.png!w80",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Truong Tuoi Dong Nai vs Dong Tam Long An | 16:00 30/05",
+                    "tournament": "Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/347d428c24e85dbda67f7817e7d80ebf.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
