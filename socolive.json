@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 07:10",
+    "last_updated": "Cập nhật: 30/05/2026 - 07:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Cobresal vs Nublense | 05:00 30/05",
-                    "tournament": "Giải vô địch quốc gia Chile",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a5e650365ee5c40efb649bf12015eb6d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1cc8fde7becd389f88e35e0b498202bd.png!w80",
+                    "name": "Racing Cordoba vs Ferrol Carril Oeste | 07:00 30/05",
+                    "tournament": "Giải bóng đá Hạng nhì Argentina",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a79ea4a4b9b2a68db0f95d6a9435b1be.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Racing Cordoba vs Ferrol Carril Oeste | 07:00 30/05",
-                    "tournament": "Giải bóng đá Hạng nhì Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a79ea4a4b9b2a68db0f95d6a9435b1be.png!w80",
+                    "name": "Atletico Fc vs Clb Millonarios | 08:10 30/05",
+                    "tournament": "Cúp Colombia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/2efb310d5e0ffe6cd96dcf192ae06624.jpg!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
                                                 }
                                             ]
                                         }
