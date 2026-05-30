@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 21:50",
+    "last_updated": "Cập nhật: 30/05/2026 - 22:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Malmo Ff vs Halmstad | 20:00 30/05",
-                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/339c6acafe9c245dc5d8627c60528ca2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d84614f172a18a18947a7567a9625b45.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Molde vs Sandefjord | 21:00 30/05",
                     "tournament": "Giải vô địch quốc gia Na Uy",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Flamengo vs Coritiba | 02:00 31/05",
+                    "tournament": "Giải bóng đá Hạng nhất Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
