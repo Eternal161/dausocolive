@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 02:30",
+    "last_updated": "Cập nhật: 31/05/2026 - 02:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Paris Saint Germain vs Arsenal | 23:00 30/05",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Colegiales vs Agropecuario | 01:00 31/05",
                     "tournament": "Giải bóng đá Hạng nhì Argentina",
@@ -80,6 +52,118 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Athletico Pr vs Mirassol | 02:00 31/05",
+                    "tournament": "Giải bóng đá Hạng nhất Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/b20645448c644b701286477f55b11e24.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Granada Cf vs Sporting Gijon | 02:00 31/05",
+                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/fc749b5065db363497b7d93c966b0a51.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bahia vs Botafogo Rj | 03:30 31/05",
+                    "tournament": "Giải bóng đá Hạng nhất Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5d83c47462e5afb6f1add0ad508c300b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Instituto vs Lanus | 04:00 31/05",
+                    "tournament": "Cúp Argentina",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
