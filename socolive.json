@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 30/05/2026 - 08:50",
+    "last_updated": "Cập nhật: 30/05/2026 - 09:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Racing Cordoba vs Ferrol Carril Oeste | 07:00 30/05",
-                    "tournament": "Giải bóng đá Hạng nhì Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a79ea4a4b9b2a68db0f95d6a9435b1be.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Atletico Fc vs Clb Millonarios | 08:10 30/05",
                     "tournament": "Cúp Colombia",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/88508431.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Racing Cordoba vs Ferrol Carril Oeste | 07:00 30/05",
+                    "tournament": "Giải bóng đá Hạng nhì Argentina",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a79ea4a4b9b2a68db0f95d6a9435b1be.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
