@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 01:20",
+    "last_updated": "Cập nhật: 31/05/2026 - 01:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,90 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Athletico Pr vs Mirassol | 02:00 31/05",
-                    "tournament": "Giải bóng đá Hạng nhất Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/b20645448c644b701286477f55b11e24.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Granada Cf vs Sporting Gijon | 02:00 31/05",
-                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/fc749b5065db363497b7d93c966b0a51.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bahia vs Botafogo Rj | 03:30 31/05",
-                    "tournament": "Giải bóng đá Hạng nhất Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5d83c47462e5afb6f1add0ad508c300b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
