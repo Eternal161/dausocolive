@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 23:00",
+    "last_updated": "Cập nhật: 31/05/2026 - 23:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,62 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/88508431.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bragantino vs Sport Club Internacional | 21:00 31/05",
-                    "tournament": "Giải bóng đá Hạng nhất Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9e9d18ccd36d42462fc896e22de890c2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Brighton Nu vs Manchester City Nu | 21:00 31/05",
-                    "tournament": "Cúp FA Anh, Nữ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8bdf53dba36eabed4350f4ba768900b3.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,10 +62,38 @@
                     ]
                 },
                 {
-                    "name": "Racing Santander vs Cadiz Cf | 23:30 31/05",
+                    "name": "Kaa Gent vs Racing Genk | 23:30 31/05",
+                    "tournament": "Giải vô địch quốc gia Bỉ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/59e9be1ed056bdc0025f6064316485fe.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0c1fd660c61fbfae819c5e37ba0e1e45.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Castellon vs Clb Eibar | 23:30 31/05",
                     "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8db7260a18b1be68e8710cfdbf6be3df.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/13ad117ddb310052841244f0d1ed3c1e.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/230be7f4f23de1cb08877a72cd08f619.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -146,10 +118,10 @@
                     ]
                 },
                 {
-                    "name": "Kaa Gent vs Racing Genk | 23:30 31/05",
-                    "tournament": "Giải vô địch quốc gia Bỉ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/59e9be1ed056bdc0025f6064316485fe.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/0c1fd660c61fbfae819c5e37ba0e1e45.png!w80",
+                    "name": "F Constanta vs Chindia Targoviste | 00:30 01/06",
+                    "tournament": "Giải Vô địch quốc gia Romania",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/3091777d4e5cf166b1039ac3fffe05ae.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/275c4eca0c3dd431c353013d073479b9.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +135,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Estudiantes La Plata vs Rosario Central | 01:30 01/06",
+                    "tournament": "Cúp Argentina",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/925e9365900b159acf4493eb401fdc18.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
