@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 23:41",
+    "last_updated": "Cập nhật: 31/05/2026 - 23:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,90 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Duc vs Phan Lan | 01:45 01/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Palmeiras vs Chapecoense Sc | 02:00 01/06",
-                    "tournament": "Giải bóng đá Hạng nhất Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Cordoba vs Huesca | 02:00 01/06",
-                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6d999bbeb544de88d29c17b5a1670272.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
