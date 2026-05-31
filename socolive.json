@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 03:20",
+    "last_updated": "Cập nhật: 01/06/2026 - 03:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,62 +62,6 @@
                     ]
                 },
                 {
-                    "name": "F Constanta vs Chindia Targoviste | 00:30 01/06",
-                    "tournament": "Giải Vô địch quốc gia Romania",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3091777d4e5cf166b1039ac3fffe05ae.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/275c4eca0c3dd431c353013d073479b9.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Estudiantes La Plata vs Rosario Central | 01:30 01/06",
-                    "tournament": "Cúp Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/925e9365900b159acf4493eb401fdc18.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Palmeiras vs Chapecoense Sc | 02:00 01/06",
                     "tournament": "Giải bóng đá Hạng nhất Brasil",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80",
@@ -136,6 +80,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brazil vs Panama | 04:30 01/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cruzeiro vs Fluminense Rj | 06:30 01/06",
+                    "tournament": "Giải bóng đá Hạng nhất Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
