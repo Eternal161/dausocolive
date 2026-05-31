@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 01:20",
+    "last_updated": "Cập nhật: 01/06/2026 - 01:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Kaa Gent vs Racing Genk | 23:30 31/05",
-                    "tournament": "Giải vô địch quốc gia Bỉ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/59e9be1ed056bdc0025f6064316485fe.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/0c1fd660c61fbfae819c5e37ba0e1e45.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Castellon vs Clb Eibar | 23:30 31/05",
-                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/230be7f4f23de1cb08877a72cd08f619.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "F Constanta vs Chindia Targoviste | 00:30 01/06",
                     "tournament": "Giải Vô địch quốc gia Romania",
@@ -164,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "My vs Senegal | 02:30 01/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/863907225a3fb211eaa3afae27572869.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
