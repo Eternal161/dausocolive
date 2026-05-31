@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 16:30",
+    "last_updated": "Cập nhật: 31/05/2026 - 16:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Hwaseong vs Gyeongnam Fc | 14:30 31/05",
-                    "tournament": "Giải K2 Hàn Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b41e9e7759d0ab396a862fb8c80b5d27.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/25a9ab8b2b697879c4b5bb1433922c54.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Olympic Fc vs Brisbane | 15:15 31/05",
                     "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/88508431.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Buriram vs Prachuap | 18:00 31/05",
+                    "tournament": "Cúp Liên đoàn bóng đá Thái Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/8c93ecb503f1153597997e095e0e3bc2.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
