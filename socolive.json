@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 04:20",
+    "last_updated": "Cập nhật: 01/06/2026 - 04:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "My vs Senegal | 02:30 01/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/863907225a3fb211eaa3afae27572869.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Brazil vs Panama | 04:30 01/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "My vs Senegal | 02:30 01/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/863907225a3fb211eaa3afae27572869.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,62 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Viet Nam U19 vs Dong Timor U19 | 16:00 01/06",
-                    "tournament": "AFF Championship U19",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Vanraure vs Fukushima United Fc | 17:00 01/06",
-                    "tournament": "J2/J3 100 Year Vision League",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3b0ad7d22d856a34a523cf4cecde0789.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5eefc68533b087e949e4fb09f70889b9.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
