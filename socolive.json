@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 11:00",
+    "last_updated": "Cập nhật: 31/05/2026 - 11:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Mexico vs Australia | 09:00 31/05",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Broadmeadow Magic vs Lambton Jarvis | 10:00 31/05",
                     "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
@@ -79,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "West Adelaide vs Adelaide City Fc | 14:15 31/05",
+                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9387d0a789713efc4d22f39c269b89cc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
