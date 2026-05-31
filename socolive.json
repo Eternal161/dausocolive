@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 20:40",
+    "last_updated": "Cập nhật: 31/05/2026 - 20:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Wuhan Three Towns vs Yunnan Yukun | 18:35 31/05",
-                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Hacken vs Hammarby | 19:00 31/05",
                     "tournament": "Giải Vô địch Quốc gia Thụy Điển",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/93920efdf720a6e94d3ab5e43ae3b504.png!w80",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ac Oulu vs Jaro | 20:00 31/05",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/348fa7d49029584354427690fe88f874.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
