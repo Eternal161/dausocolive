@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 31/05/2026 - 07:40",
+    "last_updated": "Cập nhật: 31/05/2026 - 07:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Tampico Madero vs Tepatitlan De Morelos | 08:00 31/05",
-                    "tournament": "Giải hạng hai Mexico",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8ca7ce17e1edd9f9e517060d10cb0680.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/918216791a55f9785f385c94c34cda51.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "South Korea vs Trinidad Tobago | 08:00 31/05",
                     "tournament": "Giao hữu Quốc tế",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Broadmeadow Magic vs Lambton Jarvis | 10:00 31/05",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4f0ff310b253f34bfd414c5b2502082c.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1dafccf630517babe6ebab069431eb9c.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/88508431.m3u8"
                                                 }
                                             ]
                                         }
