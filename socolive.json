@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 20:31",
+    "last_updated": "Cập nhật: 01/06/2026 - 20:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Indonesia U19 vs Myanmar U19 | 20:00 01/06",
-                    "tournament": "AFF Championship U19",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Nhat Ban U19 vs Bo Bien Nga U23 | 20:00 01/06",
                     "tournament": "Toulon Tournament",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Indonesia U19 vs Myanmar U19 | 20:00 01/06",
+                    "tournament": "AFF Championship U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
