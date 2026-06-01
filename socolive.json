@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 20:21",
+    "last_updated": "Cập nhật: 01/06/2026 - 20:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Dan Mach U17 vs Y U17 | 18:30 01/06",
-                    "tournament": "Euro U17",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Phap U17 vs Montenegro U17 | 18:30 01/06",
-                    "tournament": "Euro U17",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Indonesia U19 vs Myanmar U19 | 20:00 01/06",
                     "tournament": "AFF Championship U19",
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bulgaria vs Montenegro | 23:00 01/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/3c057cb2b41f22c0e740974d7a428918.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Slovakia vs Malta | 23:00 01/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e2fcc738438c4e7ca4b605ef8764db73.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
