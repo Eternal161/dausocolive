@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 21:50",
+    "last_updated": "Cập nhật: 01/06/2026 - 22:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Nhat Ban U19 vs Bo Bien Nga U23 | 20:00 01/06",
-                    "tournament": "Toulon Tournament",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/07daf24dd0dc945b0c7de32271d1f484.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "El Masry vs Zed Fc | 21:00 01/06",
                     "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nhat Ban U19 vs Bo Bien Nga U23 | 20:00 01/06",
+                    "tournament": "Toulon Tournament",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/07daf24dd0dc945b0c7de32271d1f484.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
