@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 19:20",
+    "last_updated": "Cập nhật: 01/06/2026 - 19:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,34 +90,6 @@
                     ]
                 },
                 {
-                    "name": "Tajikistan vs Palestine | 20:00 01/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/72fb22982ac69857cb2432f13589836e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Nhat Ban U19 vs Bo Bien Nga U23 | 20:00 01/06",
                     "tournament": "Toulon Tournament",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/07daf24dd0dc945b0c7de32271d1f484.png!w80",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Molodechno vs Dinamo Minsk 2 | 22:00 01/06",
+                    "tournament": "Giải hạng Hai Belarus",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0febece7ccfde5cb982f544a821832cc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e9626addec90806fa6d8b291155f8d1e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
