@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 07:00",
+    "last_updated": "Cập nhật: 01/06/2026 - 07:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -108,34 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Vanraure vs Fukushima United Fc | 17:00 01/06",
-                    "tournament": "J2/J3 100 Year Vision League",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3b0ad7d22d856a34a523cf4cecde0789.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5eefc68533b087e949e4fb09f70889b9.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
