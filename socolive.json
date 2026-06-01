@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 02/06/2026 - 02:31",
+    "last_updated": "Cập nhật: 02/06/2026 - 02:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,62 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tho Nhi Ky vs Bac Macedonia | 00:30 02/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Voluntari vs Fc Hermannstadt | 00:30 02/06",
-                    "tournament": "Giải Vô địch quốc gia Romania",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f105da768299b0eece32a15bb3c30574.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/732ac055b269060b9864fe152a82c9cf.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
