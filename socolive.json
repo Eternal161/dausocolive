@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 22:50",
+    "last_updated": "Cập nhật: 01/06/2026 - 23:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "El Masry vs Zed Fc | 21:00 01/06",
-                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Molodechno vs Dinamo Minsk 2 | 22:00 01/06",
-                    "tournament": "Giải hạng Hai Belarus",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0febece7ccfde5cb982f544a821832cc.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e9626addec90806fa6d8b291155f8d1e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Bulgaria vs Montenegro | 23:00 01/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -108,6 +52,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "El Masry vs Zed Fc | 21:00 01/06",
+                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Molodechno vs Dinamo Minsk 2 | 22:00 01/06",
+                    "tournament": "Giải hạng Hai Belarus",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0febece7ccfde5cb982f544a821832cc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e9626addec90806fa6d8b291155f8d1e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
