@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 09:01",
+    "last_updated": "Cập nhật: 01/06/2026 - 09:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Palestino vs A Italiano | 07:00 01/06",
-                    "tournament": "Giải vô địch quốc gia Chile",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/93aebb72f5f275d332976c73a7731186.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7a8bb950293508aeb3199de3c45dd418.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Viet Nam U19 vs Dong Timor U19 | 16:00 01/06",
                     "tournament": "AFF Championship U19",
@@ -90,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Melbourne Victory Fc Young vs Melbourne Knights | 17:30 01/06",
-                    "tournament": "Giải bóng đá Hạng nhất bang Victoria của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e1cb64d87c630dfeebd887026bf5ec2c.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/99fb201f1b3949c2f36e9d87a48f3c7e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Dan Mach U17 vs Y U17 | 18:30 01/06",
                     "tournament": "Euro U17",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80",
@@ -164,62 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Indonesia U19 vs Myanmar U19 | 20:00 01/06",
-                    "tournament": "AFF Championship U19",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tajikistan vs Palestine | 20:00 01/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/72fb22982ac69857cb2432f13589836e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
