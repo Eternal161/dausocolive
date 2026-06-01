@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 01/06/2026 - 20:50",
+    "last_updated": "Cập nhật: 01/06/2026 - 21:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "El Masry vs Zed Fc | 21:00 01/06",
+                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Nhat Ban U19 vs Bo Bien Nga U23 | 20:00 01/06",
                     "tournament": "Toulon Tournament",
@@ -62,10 +90,10 @@
                     ]
                 },
                 {
-                    "name": "El Masry vs Zed Fc | 21:00 01/06",
-                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
+                    "name": "Clb Rochedale Rovers vs Clb Magic United Tfa | 16:30 03/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/030a377635b3ac3fe5cbb49221594110.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/8522ff180fb732ae561a83c85f24d3fb.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -136,34 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Slovakia vs Malta | 23:00 01/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e2fcc738438c4e7ca4b605ef8764db73.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
