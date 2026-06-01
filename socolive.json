@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 02/06/2026 - 00:10",
+    "last_updated": "Cập nhật: 02/06/2026 - 00:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,34 +90,6 @@
                     ]
                 },
                 {
-                    "name": "Molodechno vs Dinamo Minsk 2 | 22:00 01/06",
-                    "tournament": "Giải hạng Hai Belarus",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0febece7ccfde5cb982f544a821832cc.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e9626addec90806fa6d8b291155f8d1e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Wadi Degla vs Enppi | 00:00 02/06",
                     "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/0b565bf79378453da0982dfcf95ccc98.png!w80",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Voluntari vs Fc Hermannstadt | 00:30 02/06",
+                    "tournament": "Giải Vô địch quốc gia Romania",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f105da768299b0eece32a15bb3c30574.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/732ac055b269060b9864fe152a82c9cf.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
