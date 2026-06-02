@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 02/06/2026 - 07:50",
+    "last_updated": "Cập nhật: 02/06/2026 - 08:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Canada vs Uzbekistan | 08:00 02/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Canada vs Uzbekistan | 08:00 02/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80",
+                    "name": "Thai Lan U19 vs Brunei U19 | 16:00 02/06",
+                    "tournament": "AFF Championship U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -135,7 +163,91 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wynnum Wolves vs Brisbane U21 | 16:30 02/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/8bf0a8154cddf3b29ec15f74f864aebd.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "North Star vs Brisbane Strikers | 17:15 02/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brunei vs Dong Timor | 19:15 02/06",
+                    "tournament": "Giải bóng đá Đông Nam Á",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
