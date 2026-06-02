@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 02/06/2026 - 10:10",
+    "last_updated": "Cập nhật: 02/06/2026 - 10:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Canada vs Uzbekistan | 08:10 02/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Thai Lan U19 vs Brunei U19 | 16:00 02/06",
                     "tournament": "AFF Championship U19",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brunei vs Dong Timor | 19:15 02/06",
+                    "tournament": "Giải bóng đá Đông Nam Á",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
