@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 02/06/2026 - 22:41",
+    "last_updated": "Cập nhật: 02/06/2026 - 22:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Al Kahraba vs Al Karma | 22:00 02/06",
-                    "tournament": "Giải Ngoại hạng Iraq",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/80e44a97384b61801716ab030c10bfd1.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/0aacd83d44fdd8d10edd99a4d1202af6.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Croatia vs Bi | 23:00 02/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -52,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Saudi Arabia U21 vs Colombia U19 | 23:30 02/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/c1c4f9675236790ff492252cfa28218a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Savedalens vs If Boljan | 00:30 03/06",
+                    "tournament": "Giải bóng đá Nữ Hạng nhất Thụy Điển",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/bc4e888f62c1be1a6264ec627051c2a4.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3d52360fe5fd62c7542106374d34cf2b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wales vs Ghana | 01:45 03/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/75800f73fa80f935216b8cfbedf77bfa.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
