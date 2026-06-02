@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 03/06/2026 - 02:20",
+    "last_updated": "Cập nhật: 03/06/2026 - 02:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,62 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Ma Roc vs Madagascar | 00:20 03/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/b3a153ec4be947cbee37d78cead6552b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Savedalens vs If Boljan | 00:30 03/06",
-                    "tournament": "Giải bóng đá Nữ Hạng nhất Thụy Điển",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/bc4e888f62c1be1a6264ec627051c2a4.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3d52360fe5fd62c7542106374d34cf2b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Haiti vs New Zealand | 07:00 03/06",
                     "tournament": "Giao hữu Quốc tế",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",
@@ -108,6 +52,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Barracas Central vs Huracan | 07:10 03/06",
+                    "tournament": "Cúp Argentina",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Junior vs Atletico Nacional | 07:30 03/06",
+                    "tournament": "Giải vô địch quốc gia Colombia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
