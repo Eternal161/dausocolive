@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 02/06/2026 - 08:01",
+    "last_updated": "Cập nhật: 02/06/2026 - 08:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Colombia vs Costa Rica | 06:00 02/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Canada vs Uzbekistan | 08:00 02/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -62,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Ca Penarol vs Central Espanol | 06:00 02/06",
-                    "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d95f60f58aac7368fb6659aa0f27cfbf.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7387c2c385ae09a16c7d0f96e5e86c94.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Universitario De Vinto vs Aurora | 07:00 02/06",
                     "tournament": "Giải bóng đá Hạng nhất Bolivia",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/78806733b03788c901fd2f2cda1f0bd2.png!w80",
@@ -108,34 +52,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tecnico U vs Barcelona Sc | 07:30 02/06",
-                    "tournament": "Giải vô địch quốc gia Ecuador",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a5c19caa8f0d2c476156ece6470b15a0.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
@@ -192,62 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "North Star vs Brisbane Strikers | 17:15 02/06",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Brunei vs Dong Timor | 19:15 02/06",
-                    "tournament": "Giải bóng đá Đông Nam Á",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
