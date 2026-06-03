@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 03:30",
+    "last_updated": "Cập nhật: 04/06/2026 - 03:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Luxembourg vs Y | 01:45 04/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a878dbebc902328b41dbf02aa87abb58.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ha Lan vs Algeria | 01:45 04/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Real Potosi vs Academiadb | 07:00 04/06",
+                    "tournament": "Giải bóng đá Hạng nhất Bolivia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/eff8641b50533907bfa87b743397f978.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/b448723b3ab2268f6de57096ccf30f8c.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
