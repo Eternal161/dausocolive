@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 02:21",
+    "last_updated": "Cập nhật: 04/06/2026 - 02:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -146,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Gualaceo vs Mushuc Runa | 03:30 04/06",
-                    "tournament": "Cúp Ecuador",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3dfa700c1f084e5a18fc926d6f7ae427.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f84d3c03b83f445cb752a403995e0a11.png!w80",
+                    "name": "Clb Boca Juniors Reserve vs Clb Defensa Y Justicia Reserves | 05:00 04/06",
+                    "tournament": "Giải bóng đá trẻ Argentina",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4bafadf0099da512fff203d30a62ddd1.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/534b29da2bedc9762e0511a6d3816297.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
