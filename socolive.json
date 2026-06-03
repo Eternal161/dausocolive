@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 01:01",
+    "last_updated": "Cập nhật: 04/06/2026 - 01:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Renaissance Zemamra vs Yacoub El Mansour | 23:00 03/06",
-                    "tournament": "Giải bóng đá hạng nhất Morocco",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/fb9a0320f63552dab8ea47945c685a08.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/00db7f2d3e7efe055db29255e17c13a0.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ba Lan vs Nigeria | 01:45 04/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7967d550a306a50276991b19ddb4d72e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
                                                 }
                                             ]
                                         }
