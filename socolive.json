@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 03/06/2026 - 11:00",
+    "last_updated": "Cập nhật: 03/06/2026 - 11:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,6 +80,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Trung Quoc Nu vs Nga Nu | 18:35 03/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nhat Ban U19 vs Bo Dao Nha U20 | 20:00 03/06",
+                    "tournament": "Toulon Tournament",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/07daf24dd0dc945b0c7de32271d1f484.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7421513831e839a215c3bea5f9333d0a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
