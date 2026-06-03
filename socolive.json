@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 03/06/2026 - 18:50",
+    "last_updated": "Cập nhật: 03/06/2026 - 19:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Rochedale Rovers vs Magic United Tfa | 17:00 03/06",
-                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/030a377635b3ac3fe5cbb49221594110.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/8522ff180fb732ae561a83c85f24d3fb.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Philippines vs Guam | 18:30 03/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Latvia U17 vs Albania U17 | 22:00 03/06",
+                    "tournament": "Euro U17",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/848ef33f5e745846994a756f211e530b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
