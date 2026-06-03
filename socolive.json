@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 01:41",
+    "last_updated": "Cập nhật: 04/06/2026 - 01:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,62 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Real Potosi vs Academiadb | 07:00 04/06",
-                    "tournament": "Giải bóng đá Hạng nhất Bolivia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/eff8641b50533907bfa87b743397f978.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/b448723b3ab2268f6de57096ccf30f8c.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Birmingham vs Louisville City Fc | 07:00 04/06",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/c3c17ec375bc22a7138c863ee91a3858.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/8f4c8b7e2cd333ab2e32d65bcbd3c7ff.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
