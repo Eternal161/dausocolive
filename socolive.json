@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 05:00",
+    "last_updated": "Cập nhật: 04/06/2026 - 05:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Raja Casablanca vs Berkane | 03:00 04/06",
-                    "tournament": "Giải bóng đá hạng nhất Morocco",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a3aa0a3edad49e47cf6018481e51054e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/643cec02806b6e82d15d0570d39febca.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Clb Boca Juniors Reserve vs Clb Defensa Y Justicia Reserves | 05:00 04/06",
                     "tournament": "Giải bóng đá trẻ Argentina",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Panama vs Dominican | 07:45 04/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
