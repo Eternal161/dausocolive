@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 03/06/2026 - 09:00",
+    "last_updated": "Cập nhật: 03/06/2026 - 09:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Barracas Central vs Huracan | 07:10 03/06",
-                    "tournament": "Cúp Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Junior vs Atletico Nacional | 07:30 03/06",
                     "tournament": "Giải vô địch quốc gia Colombia",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bo Dao Nha U19 vs Kazakhstan U19 | 16:00 03/06",
+                    "tournament": "Euro U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
