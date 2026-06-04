@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 09:40",
+    "last_updated": "Cập nhật: 04/06/2026 - 09:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Panama vs Dominican | 07:45 04/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Han Quoc vs El Salvador | 08:00 04/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dai Hoc Van Hien vs Khanh Hoa | 16:00 04/06",
+                    "tournament": "Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/6d4c74bfc709d561f3bed627af4218f3.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
