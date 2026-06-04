@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 05:00",
+    "last_updated": "Cập nhật: 05/06/2026 - 05:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Far Rabat vs Difaa El Jadidi | 03:00 05/06",
-                    "tournament": "Giải bóng đá hạng nhất Morocco",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/cded7b7cce01069ad7d13ebf14a03723.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ff72f737712274ec5124e6da29814c45.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Cuenca Juniors vs Clb Macara | 06:30 05/06",
                     "tournament": "Cúp Ecuador",
