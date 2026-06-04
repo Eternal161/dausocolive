@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 10:10",
+    "last_updated": "Cập nhật: 04/06/2026 - 10:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Han Quoc vs El Salvador | 08:00 04/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Myanmar U19 vs Viet Nam U19 | 16:00 04/06",
                     "tournament": "AFF Championship U19",
@@ -51,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
@@ -80,6 +52,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Maldives vs Pakistan | 18:00 04/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Campuchia vs Bhutan | 19:00 04/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/59bf3958a6ff253e596c3a9bb9ecd1f2.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
