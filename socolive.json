@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 01:01",
+    "last_updated": "Cập nhật: 05/06/2026 - 01:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Liban vs Yemen | 23:00 04/06",
-                    "tournament": "Cúp Quốc gia Châu Á",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a576eafbce762079f7d1f77fca1c5cc2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/aa0f9de3c3f38177051c3c8741dac037.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Thuy Dien vs Hy Lap | 00:00 05/06",
                     "tournament": "Giao hữu Quốc tế",
