@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 08:50",
+    "last_updated": "Cập nhật: 04/06/2026 - 09:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Birmingham vs Louisville City Fc | 07:00 04/06",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/c3c17ec375bc22a7138c863ee91a3858.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/8f4c8b7e2cd333ab2e32d65bcbd3c7ff.png!w80",
+                    "name": "Myanmar U19 vs Viet Nam U19 | 16:00 04/06",
+                    "tournament": "AFF Championship U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
