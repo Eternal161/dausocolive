@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 04/06/2026 - 07:00",
+    "last_updated": "Cập nhật: 04/06/2026 - 07:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Clb Boca Juniors Reserve vs Clb Defensa Y Justicia Reserves | 05:00 04/06",
-                    "tournament": "Giải bóng đá trẻ Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4bafadf0099da512fff203d30a62ddd1.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/534b29da2bedc9762e0511a6d3816297.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Birmingham vs Louisville City Fc | 07:00 04/06",
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ke Cuop Virginia vs Loudoun United Fc 2 | 07:00 04/06",
+                    "tournament": "Giải USL League Two",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/148473597548cd3c6b978ff36f00cce3.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/cd4dae95726ddafc27b4c3143f31ac6b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
