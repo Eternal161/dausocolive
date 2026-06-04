@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 06:30",
+    "last_updated": "Cập nhật: 05/06/2026 - 06:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Cuenca Juniors vs Clb Macara | 06:30 05/06",
-                    "tournament": "Cúp Ecuador",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d6ac81c9df675adcaea6ef3220b02430.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d138a4d0829205be8e477b43d95b138d.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Cong Hoa Sec vs Guatemala | 07:00 05/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brunei U19 vs Malaysia U19 | 16:00 05/06",
+                    "tournament": "AFF Championship U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d754f7302ec0da60aeb079c36b4938d4.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
