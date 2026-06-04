@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 01:50",
+    "last_updated": "Cập nhật: 05/06/2026 - 02:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Thuy Dien vs Hy Lap | 00:00 05/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Andorra vs Dtqg Liechtenstein | 00:00 05/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/15fa1fad1fc582dd65403f6f950b1e21.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a7ce4026f43a4491f1284bb38d96f440.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tay Ban Nha vs Iraq | 02:00 05/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -136,6 +80,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cuenca Juniors vs Clb Macara | 06:30 05/06",
+                    "tournament": "Cúp Ecuador",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d6ac81c9df675adcaea6ef3220b02430.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d138a4d0829205be8e477b43d95b138d.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cong Hoa Sec vs Guatemala | 07:00 05/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
