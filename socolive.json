@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 08:50",
+    "last_updated": "Cập nhật: 05/06/2026 - 09:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Cong Hoa Sec vs Guatemala | 07:00 05/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Mexico vs Serbia | 09:00 05/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dandenong City vs Heidelberg United | 16:45 05/06",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/3a4dae29240839fa156aad32c63b0795.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5cae62255ca170949672a7ce8999b094.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
