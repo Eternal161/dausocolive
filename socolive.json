@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 01:01",
+    "last_updated": "Cập nhật: 06/06/2026 - 01:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Georgia vs Bahrain | 23:00 05/06",
+                    "name": "Hungary vs Phan Lan | 00:45 06/06",
                     "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/22b55de76e6a8c7258e4661e8343ff3e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -90,38 +90,10 @@
                     ]
                 },
                 {
-                    "name": "Belarus vs Syria | 23:00 05/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/447d5c2ba3e790ec434c0bee994095ed.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4c5a3c0ad7ea6b1b0643c072cf0b479a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ba Lan Nu vs Phap Nu | 23:00 05/06",
+                    "name": "Ireland Nu vs Ha Lan Nu | 01:30 06/06",
                     "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/351524c3cf93fe09ac0193c20d58ef75.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d2cdd82e1ddce2459f970a6400d32978.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/2107247866469ec06905d20b73d54cd9.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -146,10 +118,10 @@
                     ]
                 },
                 {
-                    "name": "Hungary vs Phan Lan | 00:45 06/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/22b55de76e6a8c7258e4661e8343ff3e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png!w80",
+                    "name": "Duc Nu vs Na Uy Nu | 01:35 06/06",
+                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f157d175fc5293c5ac350409519194cc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/8ac13b94a68e59b58cd3b404e2d5db3e.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +135,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tay Ban Nha Nu vs Anh Nu | 02:00 06/06",
+                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f27224dc51f44cc69dcd4a95ecefbfe9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ba0919a3d4e783cc951017c913dd1d6a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
