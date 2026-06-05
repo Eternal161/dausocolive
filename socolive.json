@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 23:11",
+    "last_updated": "Cập nhật: 05/06/2026 - 23:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Bosnia Herzegovina Nu vs Lithuania Nu | 22:00 05/06",
-                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/5301386c592331424197d34172de723a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Georgia vs Bahrain | 23:00 05/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bosnia Herzegovina Nu vs Lithuania Nu | 22:00 05/06",
+                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/5301386c592331424197d34172de723a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
