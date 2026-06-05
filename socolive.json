@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 23:50",
+    "last_updated": "Cập nhật: 06/06/2026 - 00:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Nga vs Burkina Faso | 00:00 06/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/2e667fca5e24ac13dcee94ddc4aa751a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Georgia vs Bahrain | 23:00 05/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -90,34 +118,6 @@
                     ]
                 },
                 {
-                    "name": "Bosnia Herzegovina Nu vs Lithuania Nu | 22:00 05/06",
-                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/5301386c592331424197d34172de723a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Ba Lan Nu vs Phap Nu | 23:00 05/06",
                     "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80",
@@ -146,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Nga vs Burkina Faso | 00:00 06/06",
+                    "name": "Hungary vs Phan Lan | 00:45 06/06",
                     "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/2e667fca5e24ac13dcee94ddc4aa751a.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/22b55de76e6a8c7258e4661e8343ff3e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
