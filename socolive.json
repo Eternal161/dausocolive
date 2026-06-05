@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 08:10",
+    "last_updated": "Cập nhật: 05/06/2026 - 08:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Green Gully vs Avondale Fc | 16:30 05/06",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ff2e694966de559719f778b5c79ea2ad.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
