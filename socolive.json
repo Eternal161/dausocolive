@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 20:01",
+    "last_updated": "Cập nhật: 05/06/2026 - 20:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Kamatamare Sanuki vs Nagano | 17:00 05/06",
-                    "tournament": "J2/J3 100 Year Vision League",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/939efe234ca3f91c42df88abb1dfa395.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1eaad94a9f7a2d7000407ad8a2b324b5.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Cau Lac Bo Bong Da Nhat Chieu Yuqi vs Dalian Kewei | 18:30 05/06",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Singapore U19 vs Thai Lan U19 | 20:00 05/06",
+                    "tournament": "AFF Championship U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
