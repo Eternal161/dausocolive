@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 03:50",
+    "last_updated": "Cập nhật: 06/06/2026 - 04:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Tay Ban Nha Nu vs Anh Nu | 02:00 06/06",
-                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f27224dc51f44cc69dcd4a95ecefbfe9.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ba0919a3d4e783cc951017c913dd1d6a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bo Dao Nha Nu vs Latvia Nu | 02:00 06/06",
-                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7f167ea0b0f10768d3c3793231705779.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Wanderers Fc vs Danubio Fc | 05:00 06/06",
                     "tournament": "Giải vô địch quốc gia Uruguay",
@@ -136,6 +80,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Canada vs Ireland | 06:30 06/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c940e50f90b9e73f42045c05d49c6e17.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Haiti vs Peru | 07:00 06/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
