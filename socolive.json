@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 05/06/2026 - 10:10",
+    "last_updated": "Cập nhật: 05/06/2026 - 10:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -108,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kamatamare Sanuki vs Nagano | 17:00 05/06",
+                    "tournament": "J2/J3 100 Year Vision League",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/939efe234ca3f91c42df88abb1dfa395.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1eaad94a9f7a2d7000407ad8a2b324b5.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
