@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 23:50",
+    "last_updated": "Cập nhật: 07/06/2026 - 00:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Estonia vs Quan Dao Faroe | 22:00 06/06",
-                    "tournament": "Cúp Baltic",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/350035841e1182bf4389c52752d8bd0d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/90c34175923a36ab7a5de4b981c1972f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Bo Dao Nha vs Chile | 00:45 07/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Qatar vs El Salvador | 03:00 07/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
