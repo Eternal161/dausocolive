@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 06:50",
+    "last_updated": "Cập nhật: 06/06/2026 - 07:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -52,34 +52,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Wanderers Fc vs Danubio Fc | 05:00 06/06",
-                    "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/08ba7292cb615ed5b17fa7636854c43a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/160c9f3f589e2fb4578e984d2e692d18.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
