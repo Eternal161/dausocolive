@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 08:50",
+    "last_updated": "Cập nhật: 06/06/2026 - 09:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Haiti vs Peru | 07:00 06/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Vancouver Whitecaps 2 vs Portland 2 | 08:00 06/06",
                     "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
@@ -80,6 +52,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Chiba vs Avispa Fukuoka | 12:00 06/06",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tokyo vs Cerezo Osaka | 12:00 06/06",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
