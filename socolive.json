@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 10:21",
+    "last_updated": "Cập nhật: 06/06/2026 - 10:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -108,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mito Hollyhock vs V Varen Nagasaki | 13:00 06/06",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9ead844240532c4e12d3eb45d2087924.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/b28ace839956d8eacce11926ea5e43b3.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
