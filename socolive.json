@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 16:20",
+    "last_updated": "Cập nhật: 06/06/2026 - 16:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hwaseong vs Suwon Samsung Bluewings | 17:30 06/06",
+                    "tournament": "Giải K2 Hàn Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b41e9e7759d0ab396a862fb8c80b5d27.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/b7d71976c00a588ae7b9d077e6f94810.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
