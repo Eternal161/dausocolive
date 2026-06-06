@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 19:01",
+    "last_updated": "Cập nhật: 06/06/2026 - 19:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Myanmar vs Guam | 18:30 06/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/25e016f0840e4b586dcbc6cbba55961b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Kawasaki Frontale vs Sanfrecce Hiroshima | 17:00 06/06",
-                    "tournament": "Giải vô địch quốc gia Nhật Bản",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Hwaseong vs Suwon Samsung Bluewings | 17:30 06/06",
                     "tournament": "Giải K2 Hàn Quốc",
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Campuchia U19 vs Philippines U19 | 20:00 06/06",
+                    "tournament": "AFF Championship U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bi vs Tunisia | 20:00 06/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/33982309.m3u8"
                                                 }
                                             ]
                                         }
