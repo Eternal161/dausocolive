@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 18:20",
+    "last_updated": "Cập nhật: 06/06/2026 - 18:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Myanmar vs Guam | 18:30 06/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/25e016f0840e4b586dcbc6cbba55961b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Kawasaki Frontale vs Sanfrecce Hiroshima | 17:00 06/06",
                     "tournament": "Giải vô địch quốc gia Nhật Bản",
@@ -80,34 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Myanmar vs Guam | 18:30 06/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/25e016f0840e4b586dcbc6cbba55961b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
