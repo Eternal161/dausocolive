@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 23:20",
+    "last_updated": "Cập nhật: 06/06/2026 - 23:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Atl Madrid B vs Ponferradina | 23:30 06/06",
-                    "tournament": "La Liga Royal Spanish Football Federation",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/5403eb5d4e6eefc9e2ad1c645ddae452.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/04c7e590f2591a9caaf2faacb9e3a060.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bolivia vs Scotland | 03:00 07/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/17d0194350341e7466cd67969ac39e2e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
