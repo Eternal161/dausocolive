@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 16:00",
+    "last_updated": "Cập nhật: 06/06/2026 - 16:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Tokyo Verdy vs Gamba Osaka | 14:00 06/06",
-                    "tournament": "Giải vô địch quốc gia Nhật Bản",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/2a8adb34e764602183a7bee8f51726e4.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Yokohama F Marinos vs Shimizu S Pulse | 15:00 06/06",
                     "tournament": "Giải vô địch quốc gia Nhật Bản",
@@ -62,10 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Urawa Reds vs Fagiano Okayama | 14:00 06/06",
+                    "name": "Kashiwa Reysol vs Kyoto Sanga | 16:00 06/06",
                     "tournament": "Giải vô địch quốc gia Nhật Bản",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kawasaki Frontale vs Sanfrecce Hiroshima | 17:00 06/06",
+                    "tournament": "Giải vô địch quốc gia Nhật Bản",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
