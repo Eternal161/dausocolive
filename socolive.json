@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 06/06/2026 - 13:20",
+    "last_updated": "Cập nhật: 06/06/2026 - 13:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -146,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Tokyo Verdy vs Gamba Osaka | 14:00 06/06",
+                    "name": "Urawa Reds vs Fagiano Okayama | 14:00 06/06",
                     "tournament": "Giải vô địch quốc gia Nhật Bản",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/2a8adb34e764602183a7bee8f51726e4.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
