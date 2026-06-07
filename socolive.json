@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 05:10",
+    "last_updated": "Cập nhật: 08/06/2026 - 05:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Ecuador vs Guatemala | 03:00 08/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "San Martin Tucuman vs Quilmes | 03:30 08/06",
                     "tournament": "Giải bóng đá Hạng nhì Argentina",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Austin Fc Ii vs Los Angeles Fc Ii | 07:30 08/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/711b58aca949c7b98ae560b5d9f17c55.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5d34bc7cb1b44bb5889dc4548c8e3b24.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
