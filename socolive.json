@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 03:30",
+    "last_updated": "Cập nhật: 08/06/2026 - 03:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,10 +90,10 @@
                     ]
                 },
                 {
-                    "name": "Ca Cerro vs Ca Penarol | 01:00 08/06",
-                    "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/327368d0bd89e670a231bf92bb790675.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d95f60f58aac7368fb6659aa0f27cfbf.png!w80",
+                    "name": "Ecuador vs Guatemala | 03:00 08/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -107,7 +107,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
