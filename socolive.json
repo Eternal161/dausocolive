@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 07/06/2026 - 09:10",
+    "last_updated": "Cập nhật: 07/06/2026 - 09:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -108,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "South Melbourne vs Altona Magic | 12:30 07/06",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5fe8e44d486217553612d132ac6346c6.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
