@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 04:40",
+    "last_updated": "Cập nhật: 08/06/2026 - 04:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -118,10 +118,10 @@
                     ]
                 },
                 {
-                    "name": "Colombia vs Jordan | 06:00 08/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80",
+                    "name": "Cincinnati Ii vs New England Revolution B | 05:00 08/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b3d3c4686cfda0c027e46767e0a0a561.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f1f1aa7f3ed994a4418b6b10bd3f5df3.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -135,7 +135,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
