@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 06:20",
+    "last_updated": "Cập nhật: 08/06/2026 - 06:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,6 +62,34 @@
                     ]
                 },
                 {
+                    "name": "Khu Bao Ton Dong Dat San Jose vs Real Monarchs | 07:00 08/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/bd1a5523d23101bd406ffda4250c5360.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Austin Fc Ii vs Los Angeles Fc Ii | 07:30 08/06",
                     "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/711b58aca949c7b98ae560b5d9f17c55.png!w80",
@@ -108,34 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Kingborough Lions vs Devonport City | 12:00 08/06",
-                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/42e8b0755549e790199f442c4f074d6b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6b6c9fe9473814369d86c2659b35039c.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
