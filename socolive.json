@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 07/06/2026 - 19:50",
+    "last_updated": "Cập nhật: 07/06/2026 - 20:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Indonesia U19 vs Viet Nam U19 | 20:00 07/06",
+                    "tournament": "AFF Championship U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Ha Noi vs Thanh Pho Ho Chi Minh | 18:00 07/06",
                     "tournament": "Giải vô địch quốc gia Việt Nam",
@@ -34,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Xm Hai Phong vs Nam Dinh | 18:00 07/06",
-                    "tournament": "Giải vô địch quốc gia Việt Nam",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Phu Dong Ninh Binh vs Hong Linh Ha Tinh | 18:00 07/06",
                     "tournament": "Giải vô địch quốc gia Việt Nam",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80",
@@ -80,90 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Seoul E Land Fc vs Cheongju Jikji | 17:30 07/06",
-                    "tournament": "Giải K2 Hàn Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b25d37216425034b6695ec3c3119d07d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a9c344b4196017fb183285a2fabd0b3f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shb Da Nang vs Dong A Thanh Hoa | 18:00 07/06",
-                    "tournament": "Giải vô địch quốc gia Việt Nam",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Song Lam Nghe An vs Pvf Cand | 18:00 07/06",
-                    "tournament": "Giải vô địch quốc gia Việt Nam",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
