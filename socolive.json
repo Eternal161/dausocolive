@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 07/06/2026 - 17:31",
+    "last_updated": "Cập nhật: 07/06/2026 - 17:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "South Melbourne vs Adelaide U21 | 15:30 07/06",
-                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9387d0a789713efc4d22f39c269b89cc.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4179d3ee85aa9fbb149be924db04ac07.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Seoul E Land Fc vs Cheongju Jikji | 17:30 07/06",
                     "tournament": "Giải K2 Hàn Quốc",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/33982309.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Song Lam Nghe An vs Pvf Cand | 18:00 07/06",
+                    "tournament": "Giải vô địch quốc gia Việt Nam",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
