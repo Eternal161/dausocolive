@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 07/06/2026 - 08:50",
+    "last_updated": "Cập nhật: 07/06/2026 - 09:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -23,35 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Curacao vs Aruba | 07:00 07/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/cff843c1f724a378bd0ae42d842ef807.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tokushima vs Iwaki Fc | 11:05 07/06",
+                    "tournament": "J2/J3 100 Year Vision League",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/16abd42b0f397022049d05f786a6182d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/fe52c67f0590ffcce6879aebfd39f165.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
