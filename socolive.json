@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 05:30",
+    "last_updated": "Cập nhật: 08/06/2026 - 05:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Defensor Sp vs Boston River | 04:30 08/06",
-                    "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/213564797bbfa3921e60bb314c92354b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Amsg Fc vs Stars Fc | 10:00 08/06",
+                    "tournament": "Giải USL League Two",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/faab6b1fed58694f92c40ac22245ae01.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/2eb45b9ab8d30132c466778a2a5e66f6.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
