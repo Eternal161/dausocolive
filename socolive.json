@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 07/06/2026 - 12:20",
+    "last_updated": "Cập nhật: 07/06/2026 - 12:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Blaublitz Akita vs Kagoshima United | 12:00 07/06",
-                    "tournament": "J2/J3 100 Year Vision League",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7800ea1ee29937dbf7866cb6a275ef64.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ee938da6f631119cd2995f69f067c44b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/68848594.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Oita Trinita vs Yamagata | 14:00 07/06",
                     "tournament": "J2/J3 100 Year Vision League",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/68bbaa087749b718f6399542f3f51e6d.png!w80",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Seoul E Land Fc vs Cheongju Jikji | 17:30 07/06",
+                    "tournament": "Giải K2 Hàn Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b25d37216425034b6695ec3c3119d07d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a9c344b4196017fb183285a2fabd0b3f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
