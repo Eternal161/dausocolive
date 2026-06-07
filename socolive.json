@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 07/06/2026 - 14:40",
+    "last_updated": "Cập nhật: 07/06/2026 - 14:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/68848594.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shb Da Nang vs Dong A Thanh Hoa | 18:00 07/06",
+                    "tournament": "Giải vô địch quốc gia Việt Nam",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
