@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 07/06/2026 - 16:01",
+    "last_updated": "Cập nhật: 07/06/2026 - 16:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Oita Trinita vs Yamagata | 14:00 07/06",
-                    "tournament": "J2/J3 100 Year Vision League",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/68bbaa087749b718f6399542f3f51e6d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5f12aeb3876fe101ab8b486ff9ea679a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "South Melbourne vs Adelaide U21 | 15:30 07/06",
                     "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Becamex Binh Duong vs Hoang Anh Gia Lai | 18:00 07/06",
+                    "tournament": "Giải vô địch quốc gia Việt Nam",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/8781d3f729c7f3a9baacbee4385f7c84.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/df2ae58b9e658494b940b0bd782901b8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
