@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 04:01",
+    "last_updated": "Cập nhật: 08/06/2026 - 04:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Hy Lap vs Y | 02:00 08/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ma Roc vs Na Uy | 02:00 08/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ecuador vs Guatemala | 03:00 08/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -90,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Las Palmas vs Malaga | 02:00 08/06",
-                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "San Martin Tucuman vs Quilmes | 03:30 08/06",
                     "tournament": "Giải bóng đá Hạng nhì Argentina",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/b6cd6f7995d906fc541b42b8219df67a.png!w80",
@@ -136,6 +52,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensor Sp vs Boston River | 04:30 08/06",
+                    "tournament": "Giải vô địch quốc gia Uruguay",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/213564797bbfa3921e60bb314c92354b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ohiggins vs Palestino | 05:00 08/06",
+                    "tournament": "Copa de la Liga",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/5b7e2bd8e447df96759bba3e225960ea.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/93aebb72f5f275d332976c73a7731186.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
