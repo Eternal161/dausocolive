@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 07/06/2026 - 20:20",
+    "last_updated": "Cập nhật: 07/06/2026 - 20:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Pitea vs Enkopings Sk | 19:00 07/06",
-                    "tournament": "Giải hạng Ba Thụy Điển",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b54085c29e27a9e536edd805213c7e6f.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/cb3e0f29c5ef84d0eb6f19fdd62fba5b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Liechtenstein vs Dao Sip | 20:00 07/06",
                     "tournament": "Giao hữu Quốc tế",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/a7ce4026f43a4491f1284bb38d96f440.png!w80",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dong Timor U19 vs Myanmar U19 | 20:00 07/06",
+                    "tournament": "AFF Championship U19",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
