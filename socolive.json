@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 08:50",
+    "last_updated": "Cập nhật: 08/06/2026 - 09:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Khu Bao Ton Dong Dat San Jose vs Real Monarchs | 07:00 08/06",
-                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/bd1a5523d23101bd406ffda4250c5360.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Austin Fc Ii vs Los Angeles Fc Ii | 07:30 08/06",
                     "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bo Bien Nga U23 vs Canada U20 | 20:00 08/06",
+                    "tournament": "Toulon Tournament",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
