@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 22:41",
+    "last_updated": "Cập nhật: 08/06/2026 - 22:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Zed Fc vs Wadi Degla | 21:00 08/06",
-                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/0b565bf79378453da0982dfcf95ccc98.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ktp Kotka vs Haka | 22:30 08/06",
                     "tournament": "Giải hạng 2 Phần Lan",
@@ -107,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
@@ -192,62 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Liverpool M vs Cerro Largo | 05:00 09/06",
-                    "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/051be0a9b61dedb583315fb75eaa8308.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/20bd29045f9e765f9162647ec74b9d75.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Atletico Nacional vs Junior | 05:00 09/06",
-                    "tournament": "Giải vô địch quốc gia Colombia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
