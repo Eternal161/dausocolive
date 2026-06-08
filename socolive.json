@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 22:01",
+    "last_updated": "Cập nhật: 08/06/2026 - 22:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Singapore U19 vs Brunei U19 | 20:00 08/06",
-                    "tournament": "AFF Championship U19",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",
+                    "name": "Zed Fc vs Wadi Degla | 21:00 08/06",
+                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0b565bf79378453da0982dfcf95ccc98.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
@@ -51,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Phap vs Bac Ireland | 02:10 09/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
                                                 }
                                             ]
                                         }
