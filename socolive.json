@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 09/06/2026 - 04:00",
+    "last_updated": "Cập nhật: 09/06/2026 - 04:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Phap vs Bac Ireland | 02:10 09/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Liverpool M vs Cerro Largo | 05:00 09/06",
                     "tournament": "Giải vô địch quốc gia Uruguay",
@@ -79,7 +51,63 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "America Mg vs Atletico Clube Goianiense | 06:00 09/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vila Nova vs Botafogo | 06:00 09/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
