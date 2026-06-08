@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 09/06/2026 - 01:50",
+    "last_updated": "Cập nhật: 09/06/2026 - 02:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Enppi vs El Masry | 00:30 09/06",
-                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1bd9415259f9b04af4c6164660af9a48.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,6 +90,34 @@
                     ]
                 },
                 {
+                    "name": "Enppi vs El Masry | 00:30 09/06",
+                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1bd9415259f9b04af4c6164660af9a48.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1e724366f6bee2eb1e7dd707a3f7f671.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Liverpool M vs Cerro Largo | 05:00 09/06",
                     "tournament": "Giải vô địch quốc gia Uruguay",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/051be0a9b61dedb583315fb75eaa8308.png!w80",
@@ -164,6 +164,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "America Mg vs Atletico Clube Goianiense | 06:00 09/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vila Nova vs Botafogo | 06:00 09/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
