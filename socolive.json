@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 09/06/2026 - 03:40",
+    "last_updated": "Cập nhật: 09/06/2026 - 03:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Ha Lan vs Uzbekistan | 01:45 09/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Niger vs Mauritania | 02:00 09/06",
                     "tournament": "Giao hữu Quốc tế",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/cd0ec9035e74c703a7e3128db75fdc65.png!w80",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ha Lan vs Uzbekistan | 01:45 09/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
