@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 08/06/2026 - 14:50",
+    "last_updated": "Cập nhật: 08/06/2026 - 15:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Kingborough Lions vs Devonport City | 12:00 08/06",
-                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/42e8b0755549e790199f442c4f074d6b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6b6c9fe9473814369d86c2659b35039c.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Melbourne Victory U21 vs Juventus Brunswick | 17:15 08/06",
                     "tournament": "Giải bóng đá Hạng nhất bang Victoria của Úc",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Zed Fc vs Wadi Degla | 21:00 08/06",
+                    "tournament": "Cúp Liên đoàn Bóng đá Ai Cập",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0b565bf79378453da0982dfcf95ccc98.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
