@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 09/06/2026 - 18:21",
+    "last_updated": "Cập nhật: 09/06/2026 - 18:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Thanh Pho Ipswich vs Thanh Pho Robina Xanh | 16:30 09/06",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/dd862973fbf229b051221b037f67a27c.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a58223bbf9e0578395899d482403dc9a.png!w80",
+                    "name": "Trung Quoc vs Thai Lan | 18:35 09/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Trung Quoc vs Thai Lan | 18:35 09/06",
+                    "name": "Oman vs Kuwait | 19:00 09/06",
                     "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/500739868ce9f7f0857260404eab4d41.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,34 +118,6 @@
                     ]
                 },
                 {
-                    "name": "Oman vs Kuwait | 19:00 09/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/500739868ce9f7f0857260404eab4d41.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Uc U19 vs Campuchia U19 | 20:00 09/06",
                     "tournament": "AFF Championship U19",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Indonesia vs Mozambique | 20:00 09/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
