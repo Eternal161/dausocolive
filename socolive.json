@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 01:51",
+    "last_updated": "Cập nhật: 10/06/2026 - 02:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Hungary vs Kazakhstan | 00:00 10/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/22b55de76e6a8c7258e4661e8343ff3e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Nga vs Trinidad Tobago | 00:00 10/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Egypt U19 vs Nga U19 | 00:10 10/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Almeria vs Castellon | 02:00 10/06",
+                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d019943fa39f97f70cf49601cccbfa4b.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Phap Nu vs Ireland Nu | 02:00 10/06",
+                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/351524c3cf93fe09ac0193c20d58ef75.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d2cdd82e1ddce2459f970a6400d32978.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
