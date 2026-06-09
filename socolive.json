@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 00:51",
+    "last_updated": "Cập nhật: 10/06/2026 - 01:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,10 +90,10 @@
                     ]
                 },
                 {
-                    "name": "Slovenia Nu vs Duc Nu | 23:00 09/06",
-                    "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e4ba31fba036a999321d5460f7f2d1d1.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f157d175fc5293c5ac350409519194cc.png!w80",
+                    "name": "Egypt U19 vs Nga U19 | 00:10 10/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -107,7 +107,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,10 +118,10 @@
                     ]
                 },
                 {
-                    "name": "Sjk Akatemia vs Jippo | 23:00 09/06",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1673aae6c71fb628e98a6b2306ae14d6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/f2a0ad7b962110a5c535b224ab055d86.png!w80",
+                    "name": "San Marino vs Azerbaijan | 01:00 10/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9bdc3efe2bdc1946dbb253b2d101b484.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f653d5976458f0dcce2b3939259acffa.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -135,7 +135,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
@@ -146,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Na Uy Nu vs Ao Nu | 23:00 09/06",
+                    "name": "Anh Nu vs Ukraine Nu | 02:00 10/06",
                     "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8ac13b94a68e59b58cd3b404e2d5db3e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/ba0919a3d4e783cc951017c913dd1d6a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
