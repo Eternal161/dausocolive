@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 09/06/2026 - 19:01",
+    "last_updated": "Cập nhật: 09/06/2026 - 19:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Philippines vs Myanmar | 18:30 09/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Campuchia vs Hong Kong | 19:00 09/06",
                     "tournament": "Giao hữu Quốc tế",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Philippines vs Myanmar | 18:30 09/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
