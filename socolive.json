@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 09/06/2026 - 09:00",
+    "last_updated": "Cập nhật: 09/06/2026 - 09:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Minnesota United B vs Sporting Kansas City 2 | 07:00 09/06",
-                    "tournament": "MLS Next Pro",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0dea9d20b78bf22e53d6f5cdb94d2e5b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a3c5593b106980072677a648800a11d8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dong Timor vs Brunei | 16:00 09/06",
+                    "tournament": "Giải bóng đá Đông Nam Á",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
