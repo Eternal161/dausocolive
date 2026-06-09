@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 09/06/2026 - 06:50",
+    "last_updated": "Cập nhật: 09/06/2026 - 07:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Liverpool M vs Cerro Largo | 05:00 09/06",
-                    "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/051be0a9b61dedb583315fb75eaa8308.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/20bd29045f9e765f9162647ec74b9d75.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Atletico Nacional vs Junior | 05:00 09/06",
                     "tournament": "Giải vô địch quốc gia Colombia",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Minnesota United B vs Sporting Kansas City 2 | 07:00 09/06",
+                    "tournament": "MLS Next Pro",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0dea9d20b78bf22e53d6f5cdb94d2e5b.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a3c5593b106980072677a648800a11d8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
