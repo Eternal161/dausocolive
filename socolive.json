@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 02:01",
+    "last_updated": "Cập nhật: 10/06/2026 - 02:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Egypt U19 vs Nga U19 | 00:10 10/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "San Marino vs Azerbaijan | 01:00 10/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Almeria vs Castellon | 02:00 10/06",
+                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d019943fa39f97f70cf49601cccbfa4b.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,34 +118,6 @@
                     ]
                 },
                 {
-                    "name": "Almeria vs Castellon | 02:00 10/06",
-                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d019943fa39f97f70cf49601cccbfa4b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Phap Nu vs Ireland Nu | 02:00 10/06",
                     "tournament": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/351524c3cf93fe09ac0193c20d58ef75.png!w80",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nueve De Octubre vs Fc Cuniburo | 03:30 10/06",
+                    "tournament": "Giải hạng 2 Ecuador",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9b047f2c9480200eb8bfef52d34852a6.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f72a0b3c57b20a12d1711b178bb2ae32.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
