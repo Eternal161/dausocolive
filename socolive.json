@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 16:11",
+    "last_updated": "Cập nhật: 10/06/2026 - 16:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,6 +90,34 @@
                     ]
                 },
                 {
+                    "name": "Hiep Si Oconnor vs Tigers Fc | 16:30 10/06",
+                    "tournament": "Giải bóng đá Hạng nhất Thủ đô Canberra của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9c5d8aed0ea026342914defad5a9a782.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e929e8c047ce3b503112d3132c1aa88f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Democratic Rep Congo U23 vs Saudi Arabia U21 | 18:30 10/06",
                     "tournament": "Toulon Tournament",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/49d342a8f5ce9acffb799b04c0ca43aa.png!w80",
@@ -108,34 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Saudi Arabia Nu vs Lao U16 Nu | 19:00 10/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3c0e5ac39f498925105382f020f76a55.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
