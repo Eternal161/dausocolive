@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 06:40",
+    "last_updated": "Cập nhật: 11/06/2026 - 06:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -108,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cd El Nacional vs Cd Vargas Torres | 07:00 11/06",
+                    "tournament": "Giải hạng 2 Ecuador",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/eed5c3c3c14be4180be2114f1eda1890.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5ba3582d40295a433f5a947d601188b1.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
