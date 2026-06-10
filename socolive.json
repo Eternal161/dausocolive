@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 16:30",
+    "last_updated": "Cập nhật: 10/06/2026 - 16:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Wynnum Wolves vs Eastern Suburbs Brisbane | 16:30 10/06",
-                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e529be33935e79024a46400f621a5683.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Sydney Olympic vs Sd Raiders Fc | 16:30 10/06",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Terdu vs Buxdu | 19:30 10/06",
+                    "tournament": "Bóng đá Hạng 2 Uzbekistan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/59d954b4e0f648530960462a6ca6a835.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/93a1f3c0f21911f243bb18729f8f8c9a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
