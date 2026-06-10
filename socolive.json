@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 14:11",
+    "last_updated": "Cập nhật: 10/06/2026 - 14:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,90 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Terdu vs Buxdu | 19:30 10/06",
-                    "tournament": "Bóng đá Hạng 2 Uzbekistan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/59d954b4e0f648530960462a6ca6a835.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/93a1f3c0f21911f243bb18729f8f8c9a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shurtan Guzor vs Fk Gazalkent | 20:00 10/06",
-                    "tournament": "Bóng đá Hạng 2 Uzbekistan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e3f43baa257e74cda43f756dd4049a22.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5866a054076a612b1cc7cefd7241aecc.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Kups vs Vaasa Vps | 21:00 10/06",
-                    "tournament": "Cúp bóng đá Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
