@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 10:50",
+    "last_updated": "Cập nhật: 10/06/2026 - 11:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Democratic Rep Congo U23 vs Saudi Arabia U21 | 18:30 10/06",
-                    "tournament": "Toulon Tournament",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/49d342a8f5ce9acffb799b04c0ca43aa.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c1c4f9675236790ff492252cfa28218a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
