@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 09:00",
+    "last_updated": "Cập nhật: 10/06/2026 - 09:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Birmingham vs Corpus Christi Fc | 07:00 10/06",
-                    "tournament": "USL Cup",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/c3c17ec375bc22a7138c863ee91a3858.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e11f58ba6522a5c6ab7b037e2cd110e9.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Wynnum Wolves vs Eastern Suburbs Brisbane | 16:30 10/06",
                     "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
@@ -108,6 +80,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sydney Olympic vs Sd Raiders Fc | 16:30 10/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d4a819a35678fd3d1c1f3e45c16f00b5.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/41cd928a2816821bdb7995c3ea6031a6.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Democratic Rep Congo U23 vs Saudi Arabia U21 | 18:30 10/06",
+                    "tournament": "Toulon Tournament",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/49d342a8f5ce9acffb799b04c0ca43aa.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c1c4f9675236790ff492252cfa28218a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
