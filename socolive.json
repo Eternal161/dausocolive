@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 06:30",
+    "last_updated": "Cập nhật: 11/06/2026 - 06:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bolivia vs Dtqg Algeria | 07:00 11/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/17d0194350341e7466cd67969ac39e2e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
