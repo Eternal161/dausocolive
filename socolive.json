@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 21:51",
+    "last_updated": "Cập nhật: 10/06/2026 - 22:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Shurtan Guzor vs Fk Gazalkent | 20:00 10/06",
-                    "tournament": "Bóng đá Hạng 2 Uzbekistan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e3f43baa257e74cda43f756dd4049a22.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5866a054076a612b1cc7cefd7241aecc.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Terdu vs Buxdu | 19:30 10/06",
-                    "tournament": "Bóng đá Hạng 2 Uzbekistan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/59d954b4e0f648530960462a6ca6a835.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/93a1f3c0f21911f243bb18729f8f8c9a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Kups vs Vaasa Vps | 21:00 10/06",
                     "tournament": "Cúp bóng đá Phần Lan",
@@ -136,6 +80,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Colombia U19 vs Tunisia U23 | 00:00 11/06",
+                    "tournament": "Toulon Tournament",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Malaga vs Las Palmas | 02:00 11/06",
+                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bo Dao Nha vs Nigeria | 02:45 11/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7967d550a306a50276991b19ddb4d72e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
