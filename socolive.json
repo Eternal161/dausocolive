@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 10/06/2026 - 20:41",
+    "last_updated": "Cập nhật: 10/06/2026 - 20:50",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Shurtan Guzor vs Fk Gazalkent | 20:00 10/06",
+                    "tournament": "Bóng đá Hạng 2 Uzbekistan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e3f43baa257e74cda43f756dd4049a22.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5866a054076a612b1cc7cefd7241aecc.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Saudi Arabia Nu vs Lao U16 Nu | 19:00 10/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -52,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shurtan Guzor vs Fk Gazalkent | 20:00 10/06",
-                    "tournament": "Bóng đá Hạng 2 Uzbekistan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e3f43baa257e74cda43f756dd4049a22.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5866a054076a612b1cc7cefd7241aecc.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
