@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 01:50",
+    "last_updated": "Cập nhật: 11/06/2026 - 02:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Colombia U19 vs Tunisia U23 | 00:00 11/06",
-                    "tournament": "Toulon Tournament",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Malaga vs Las Palmas | 02:00 11/06",
                     "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Goias vs Clb Gremio Novorizontin | 06:00 11/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/86cb19586d66a7d65de64a3bad288c1f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
