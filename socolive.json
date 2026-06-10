@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 03:50",
+    "last_updated": "Cập nhật: 11/06/2026 - 04:00",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Bo Dao Nha vs Nigeria | 02:45 11/06",
-                    "tournament": "Giao hữu Quốc tế",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7967d550a306a50276991b19ddb4d72e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Malaga vs Las Palmas | 02:00 11/06",
-                    "tournament": "Giải bóng đá Hạng nhì Tây Ban Nha",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Anh vs Costa Rica | 04:00 11/06",
                     "tournament": "Giao hữu Quốc tế",
@@ -90,6 +34,34 @@
                     ]
                 },
                 {
+                    "name": "Bo Dao Nha vs Nigeria | 02:45 11/06",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7967d550a306a50276991b19ddb4d72e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Tampa Bay vs Charleston Battery | 06:00 11/06",
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/969d795fc7010b8500619a8f8a44d5c8.png!w80",
@@ -108,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb Goias vs Clb Gremio Novorizontin | 06:00 11/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/86cb19586d66a7d65de64a3bad288c1f.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
