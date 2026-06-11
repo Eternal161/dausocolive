@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 11:20",
+    "last_updated": "Cập nhật: 11/06/2026 - 11:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fk Yelimay Semey B vs Jaiyq | 19:00 11/06",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/6e1508c9ed47664bfe25e353a37e4c50.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c83d1d71c8993bf33db0def8547d8d40.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
