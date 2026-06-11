@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 12/06/2026 - 04:01",
+    "last_updated": "Cập nhật: 12/06/2026 - 04:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Mexico vs Nam Phi | 02:00 12/06",
+                    "name": "Han Quoc vs Cong Hoa Sec | 09:00 12/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/97312754.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb Helsingborg vs Landskrona Bois | 00:00 12/06",
-                    "tournament": "Giải hạng hai Thuỵ Điển",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a26176c395984600e2f00a3bf67f0784.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d39fe6e26091aeafd9098f6c61433716.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
