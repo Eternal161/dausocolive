@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 22:11",
+    "last_updated": "Cập nhật: 11/06/2026 - 22:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Indonesia U19 vs Uc U19 | 20:15 11/06",
-                    "tournament": "AFF Championship U19",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tampere United vs Ols Oulu | 22:30 11/06",
                     "tournament": "Giải hạng Ba Phần Lan",
@@ -62,6 +34,34 @@
                     ]
                 },
                 {
+                    "name": "Ppj Akatemia vs Atlantis | 23:00 11/06",
+                    "tournament": "Giải hạng Ba Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b4e88d62f0776cd73f04113966df8fab.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/96d88421aeacf631667ac074746f546b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Bo Dao Nha U20 vs Canada U20 | 00:00 12/06",
                     "tournament": "Toulon Tournament",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/7421513831e839a215c3bea5f9333d0a.png!w80",
@@ -80,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Helsingborg vs Landskrona Bois | 00:00 12/06",
+                    "tournament": "Giải hạng hai Thuỵ Điển",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a26176c395984600e2f00a3bf67f0784.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d39fe6e26091aeafd9098f6c61433716.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
