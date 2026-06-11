@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 07:30",
+    "last_updated": "Cập nhật: 11/06/2026 - 07:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Detroit vs El Paso | 06:30 11/06",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/2b49326ff81f7fb77b009d6f6027254c.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/327ba784c0f6eb8f2e6ae4494b523d70.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,10 +90,10 @@
                     ]
                 },
                 {
-                    "name": "Tampa Bay vs Charleston Battery | 07:30 11/06",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/969d795fc7010b8500619a8f8a44d5c8.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d6c87740307bf1edfc79b4b09a2dc3bf.png!w80",
+                    "name": "Vancouver Whitecaps B vs North Texas | 08:00 11/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1f016d803156bf00de9ea3c09cb5a3fe.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
