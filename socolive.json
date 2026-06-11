@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 12/06/2026 - 00:21",
+    "last_updated": "Cập nhật: 12/06/2026 - 00:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Tampere United vs Ols Oulu | 22:30 11/06",
-                    "tournament": "Giải hạng Ba Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/eb5c01ec9096c37f7d8a50ff4b3760c6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ac7eff3881ff1aa697280c7316a3a65e.png!w80",
+                    "name": "Mexico vs Nam Phi | 02:00 12/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bo Dao Nha U20 vs Canada U20 | 00:00 12/06",
+                    "tournament": "Toulon Tournament",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7421513831e839a215c3bea5f9333d0a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -52,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Mexico vs Nam Phi | 02:00 12/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
                                                 }
                                             ]
                                         }
