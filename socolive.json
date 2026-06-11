@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 10:10",
+    "last_updated": "Cập nhật: 11/06/2026 - 10:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Vancouver Whitecaps B vs North Texas | 08:00 11/06",
-                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1f016d803156bf00de9ea3c09cb5a3fe.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Monterey Bay Fc vs Sporting Jax | 09:00 11/06",
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/88508431.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nam Dinh vs Thanh Pho Ho Chi Minh | 18:00 11/06",
+                    "tournament": "Cúp Quốc gia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
