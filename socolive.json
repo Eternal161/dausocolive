@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 11/06/2026 - 20:31",
+    "last_updated": "Cập nhật: 11/06/2026 - 20:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Venezuela U20 vs Nhat Ban U19 | 18:30 11/06",
-                    "tournament": "Toulon Tournament",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1497b622f19bff76e70da1113805e94e.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/07daf24dd0dc945b0c7de32271d1f484.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Fk Yelimay Semey B vs Jaiyq | 19:00 11/06",
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tampere United vs Ols Oulu | 22:30 11/06",
+                    "tournament": "Giải hạng Ba Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/eb5c01ec9096c37f7d8a50ff4b3760c6.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ac7eff3881ff1aa697280c7316a3a65e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
