@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 12/06/2026 - 11:00",
+    "last_updated": "Cập nhật: 12/06/2026 - 11:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,6 +24,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Manly United vs Sydney Utd | 16:30 12/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Marconi Stallions vs Clb Sydneyyouth | 17:00 12/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e1605aa2375e5aa780e43e89a0f1b080.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/6fb81e8272c1a862f2afe6e9858391af.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
