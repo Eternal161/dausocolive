@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 12/06/2026 - 23:50",
+    "last_updated": "Cập nhật: 13/06/2026 - 00:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Ktp Kotka vs Ekenas | 22:30 12/06",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8cb20ccb4136279d11c5a40c3015a561.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/809acdd49b4b1e55e7393c7575189e81.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Japs vs Pk 35 Vantaa | 22:30 12/06",
                     "tournament": "Giải hạng 2 Phần Lan",
