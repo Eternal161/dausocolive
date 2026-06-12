@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 12/06/2026 - 20:01",
+    "last_updated": "Cập nhật: 12/06/2026 - 20:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Adelaide Comets Fc vs Tay Adelaide Sc | 18:00 12/06",
-                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/861a7e12ebda4bd651b701e069cde5c5.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/9387d0a789713efc4d22f39c269b89cc.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Marconi Stallions vs Clb Sydneyyouth | 17:00 12/06",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Khan Tengri Fc vs Shakhtar Karagandy | 21:00 12/06",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/05cf441029dee335fd968c6bf40f9ad5.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
