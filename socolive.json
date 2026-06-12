@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 04:21",
+    "last_updated": "Cập nhật: 13/06/2026 - 04:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Canada vs Bosnia Herzegovina | 02:00 13/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5301386c592331424197d34172de723a.png!w80",
+                    "name": "Atletico Clube Goianiense vs Crb | 05:00 13/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/96413c5ef284eec6c6e0d76c87732471.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -34,38 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Ktp Kotka vs Ekenas | 22:30 12/06",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/8cb20ccb4136279d11c5a40c3015a561.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/809acdd49b4b1e55e7393c7575189e81.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Japs vs Pk 35 Vantaa | 22:30 12/06",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/750db83b65bc2cae626ae6324b364a1f.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7c9d28445e942782d96e08afb3046d2a.png!w80",
+                    "name": "A Italiano vs La Serena | 07:00 13/06",
+                    "tournament": "Giải vô địch quốc gia Chile",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a8bb950293508aeb3199de3c45dd418.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4217fbd9136652e934cb9e88cc462eef.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -90,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Liepaja vs Super Nova | 23:00 12/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/066236dc007de501d84a4a146f7597a9.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6ecfe734e6971ff83a4a3808b669d059.png!w80",
+                    "name": "My vs Paraguay | 08:00 13/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e6092477694f4a62bbb63cf64ee19fe6.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -107,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
                                                 }
                                             ]
                                         }
@@ -118,10 +90,10 @@
                     ]
                 },
                 {
-                    "name": "Dinamo Batumi vs Dila Gori | 00:00 13/06",
-                    "tournament": "Giải Vô địch Quốc gia Georgia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/90947f03d78b6634fe6ad3014329bc14.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/8d37df65ec99136141521145783ba119.png!w80",
+                    "name": "Adamstown Rosebuds Fc vs Broadmeadow Magic | 11:00 13/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f5038a16d8e257c41d345a76913cb1a9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4f0ff310b253f34bfd414c5b2502082c.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -135,35 +107,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Atletico Clube Goianiense vs Crb | 05:00 13/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/96413c5ef284eec6c6e0d76c87732471.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
