@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 12/06/2026 - 23:11",
+    "last_updated": "Cập nhật: 12/06/2026 - 23:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -146,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Iceland Nu vs Slovenia Nu | 23:00 12/06",
-                    "tournament": "European League Women",
-                    "logo_nha": "https://img.colatv88xd.cc/volleyball/team/1ccd49a310b9e3e9493557121c230d95.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/volleyball/team/6196b217c74313ed212d0aaa350dd6d1.png!w80",
+                    "name": "Liepaja vs Super Nova | 23:00 12/06",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/066236dc007de501d84a4a146f7597a9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/6ecfe734e6971ff83a4a3808b669d059.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -163,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
