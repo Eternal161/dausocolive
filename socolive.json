@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 11:30",
+    "last_updated": "Cập nhật: 13/06/2026 - 11:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Langwarrin vs Manningham United Blues | 12:00 13/06",
-                    "tournament": "Giải bóng đá Hạng nhất bang Victoria của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/6d063b943bbc6a433e52adea38f1bfe6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/9311a5cd0d16e0acaf001e1403e4d860.png!w80",
+                    "name": "Nhung Ke Lang Thang Tay Sydney Am vs St George City Fa | 12:00 13/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d287684146235d2fddb92f71d78fba02.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/008068851d82f62413011a3228c3c674.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -108,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Changchun Yatai vs Dalian Kuncheng | 14:30 13/06",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/aa8cfda1c890f28a3a62fff6f1c6f6a0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f18777d99ff4bb84e077d3030e26cfcc.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
