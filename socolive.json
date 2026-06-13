@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 21:10",
+    "last_updated": "Cập nhật: 13/06/2026 - 21:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Grobina vs Rigas Futbola Skola | 20:00 13/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/83a9f5e1089098a8df85932d23f74191.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Thai Lan U19 vs Uc U19 | 20:15 13/06",
                     "tournament": "AFF Championship U19",
@@ -62,10 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Vaasa Vps vs Kups | 21:00 13/06",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
+                    "name": "Grobina vs Rigas Futbola Skola | 20:00 13/06",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/83a9f5e1089098a8df85932d23f74191.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
