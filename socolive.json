@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 20:21",
+    "last_updated": "Cập nhật: 13/06/2026 - 20:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Nanjing City vs Shanghai Jiading Huilong | 18:30 13/06",
-                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4453da947baa45c05d9f5b80c79c8aac.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Inter Turku vs Ac Oulu | 19:00 13/06",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vaasa Vps vs Kups | 21:00 13/06",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
