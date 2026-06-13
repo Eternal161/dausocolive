@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 13:01",
+    "last_updated": "Cập nhật: 13/06/2026 - 13:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Weston Workers vs Belmont Swansea United Sc | 11:00 13/06",
-                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4d775084e58b983ddde3215469fa53f6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7affb38b4397f603e686f9a696e668a6.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Nhung Ke Lang Thang Tay Sydney Am vs St George City Fa | 12:00 13/06",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
@@ -108,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Metrostars Sc vs Sturt Lions | 14:45 13/06",
+                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/265c51481ea1074a0252b76392ed1e1e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7056766af9c6ccb837fc20bb7185b6a9.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
