@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 14/06/2026 - 00:01",
+    "last_updated": "Cập nhật: 14/06/2026 - 00:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Clb Metalurgi Rustavi vs Fc Meshakhte Tkibuli | 22:00 13/06",
-                    "tournament": "Giải Vô địch Quốc gia Georgia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/cc6d0105f751057a74ad7580822737f7.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6c4026b1738fc21db081f031cf8c8d39.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Lahti vs Sjk | 23:00 13/06",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brazil vs Ma Roc | 05:00 14/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
