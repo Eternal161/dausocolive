@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 19:11",
+    "last_updated": "Cập nhật: 13/06/2026 - 19:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,62 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Adelaide U21 vs Adelaide City Fc | 17:00 13/06",
-                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4179d3ee85aa9fbb149be924db04ac07.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hebei Kungfu vs Suzhou Dongwu | 18:30 13/06",
-                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0408f34aeb9005f8f65c4c2e80478235.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb318757b867c541d704d93053aa1bfb.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,6 +80,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Adelaide U21 vs Adelaide City Fc | 17:00 13/06",
+                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4179d3ee85aa9fbb149be924db04ac07.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hebei Kungfu vs Suzhou Dongwu | 18:30 13/06",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0408f34aeb9005f8f65c4c2e80478235.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb318757b867c541d704d93053aa1bfb.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
