@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 19:31",
+    "last_updated": "Cập nhật: 13/06/2026 - 19:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -118,34 +118,6 @@
                     ]
                 },
                 {
-                    "name": "Hebei Kungfu vs Suzhou Dongwu | 18:30 13/06",
-                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0408f34aeb9005f8f65c4c2e80478235.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb318757b867c541d704d93053aa1bfb.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Ilves vs Tps | 19:00 13/06",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/f6526b5434c06d7a6da4a9193fdac95e.png!w80",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Grobina vs Rigas Futbola Skola | 20:00 13/06",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/83a9f5e1089098a8df85932d23f74191.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
