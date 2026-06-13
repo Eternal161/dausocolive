@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 14/06/2026 - 00:50",
+    "last_updated": "Cập nhật: 14/06/2026 - 01:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Lahti vs Sjk | 23:00 13/06",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1102270dc5201968f3eeffbc20da56bc.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ifk Mariehamn vs Clb Gnistan Helsinki | 23:00 13/06",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/41140c6f793b378e8cad7087ebce5066.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a19ee4a4454087b98d1f2bb9058a337e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Samgurali vs Torpedo Kutaisi | 00:00 14/06",
                     "tournament": "Giải Vô địch Quốc gia Georgia",
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Atlanta United Fc Ii vs Chattanooga | 06:00 14/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/edb062572326167a76fc8a5542c8a71a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/58acfb611aacd5c14358ff8f94004f70.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nublense vs Huachipato | 07:00 14/06",
+                    "tournament": "Giải vô địch quốc gia Chile",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1cc8fde7becd389f88e35e0b498202bd.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/251e701387b629039e7d035f2f18e744.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
