@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 09:01",
+    "last_updated": "Cập nhật: 13/06/2026 - 09:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,10 +34,10 @@
                     ]
                 },
                 {
-                    "name": "A Italiano vs La Serena | 07:00 13/06",
-                    "tournament": "Giải vô địch quốc gia Chile",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a8bb950293508aeb3199de3c45dd418.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4217fbd9136652e934cb9e88cc462eef.png!w80",
+                    "name": "Adamstown Rosebuds Fc vs Broadmeadow Magic | 11:00 13/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f5038a16d8e257c41d345a76913cb1a9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4f0ff310b253f34bfd414c5b2502082c.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -51,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
