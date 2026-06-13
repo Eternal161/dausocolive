@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 17:51",
+    "last_updated": "Cập nhật: 13/06/2026 - 18:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Indonesia U19 vs Campuchia U19 | 16:00 13/06",
-                    "tournament": "AFF Championship U19",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Broadbeach United vs St George Willawong | 16:15 13/06",
                     "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dingnan Ganlian vs Guangdong Gz Power | 19:00 13/06",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b34589daf40274c74efdf970f5f41672.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
