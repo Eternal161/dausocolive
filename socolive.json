@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 08:10",
+    "last_updated": "Cập nhật: 13/06/2026 - 08:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,10 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Atletico Clube Goianiense vs Crb | 05:00 13/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/96413c5ef284eec6c6e0d76c87732471.png!w80",
+                    "name": "A Italiano vs La Serena | 07:00 13/06",
+                    "tournament": "Giải vô địch quốc gia Chile",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7a8bb950293508aeb3199de3c45dd418.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4217fbd9136652e934cb9e88cc462eef.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -51,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
