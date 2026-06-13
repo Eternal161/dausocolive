@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 13/06/2026 - 14:31",
+    "last_updated": "Cập nhật: 13/06/2026 - 14:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Maitland vs Valentine | 13:30 13/06",
-                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4d44d0661cc1d382c732bc98d8535354.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d9182d4de8845a5d84bf9599e28b04ea.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Changchun Yatai vs Dalian Kuncheng | 14:30 13/06",
                     "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Maitland vs Valentine | 13:30 13/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4d44d0661cc1d382c732bc98d8535354.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d9182d4de8845a5d84bf9599e28b04ea.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,90 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Broadbeach United vs St George Willawong | 16:15 13/06",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/40e331bba4de0186e268d8ba8e10f1d4.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4fb9cb872deb76fb3c475916de8e5b35.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Adelaide U21 vs Adelaide City Fc | 17:00 13/06",
-                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4179d3ee85aa9fbb149be924db04ac07.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hebei Kungfu vs Suzhou Dongwu | 18:30 13/06",
-                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0408f34aeb9005f8f65c4c2e80478235.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/bb318757b867c541d704d93053aa1bfb.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
