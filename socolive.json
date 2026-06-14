@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 05:41",
+    "last_updated": "Cập nhật: 15/06/2026 - 05:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,90 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Sjk Akatemia vs Haka | 22:30 15/06",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1673aae6c71fb628e98a6b2306ae14d6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tay Ban Nha vs Cape Verde | 23:00 15/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/9877c66299c5b98d81fed12827d87e4b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Norrkoping vs Varbergs | 00:05 16/06",
-                    "tournament": "Giải hạng hai Thuỵ Điển",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/bf86b68b6c392717d62eaff46e500d2d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/58ab90673191945bef014a69046a2fb8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
