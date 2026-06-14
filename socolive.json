@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 05:11",
+    "last_updated": "Cập nhật: 15/06/2026 - 05:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Bo Bien Nga vs Ecuador | 06:00 15/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Botafogo vs Operario | 05:00 15/06",
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
@@ -52,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bo Bien Nga vs Ecuador | 06:00 15/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
