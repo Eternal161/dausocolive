@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 14/06/2026 - 18:51",
+    "last_updated": "Cập nhật: 14/06/2026 - 19:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,34 +90,6 @@
                     ]
                 },
                 {
-                    "name": "Fc Ulaanbaatar vs Khoromkhon Club | 17:00 14/06",
-                    "tournament": "Giải ngoại hạng Mông Cổ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d791c6fe5a95188fb27f677dbf19388e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Nantong Zhiyun vs Yanbian Longding | 18:30 14/06",
                     "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ljungskile vs Ostersunds | 20:00 14/06",
+                    "tournament": "Giải hạng hai Thuỵ Điển",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/bf424cb7b0dea050a42b9739eb261a3a.jpg!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/180a441bce969086051a43d26bf1b3f4.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
