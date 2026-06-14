@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 14/06/2026 - 09:01",
+    "last_updated": "Cập nhật: 14/06/2026 - 09:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Nublense vs Huachipato | 07:00 14/06",
-                    "tournament": "Giải vô địch quốc gia Chile",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1cc8fde7becd389f88e35e0b498202bd.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/251e701387b629039e7d035f2f18e744.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
