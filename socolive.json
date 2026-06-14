@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 01:10",
+    "last_updated": "Cập nhật: 15/06/2026 - 01:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,6 +80,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gagra vs Dinamo Tbilisi | 23:00 14/06",
+                    "tournament": "Giải Vô địch Quốc gia Georgia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e450729cae3ba8210e9a08134b9258a1.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ad24ca32a65ee246b1c20af06f4acb97.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Deportes Concepcion vs Deportes Limache | 23:30 14/06",
+                    "tournament": "Giải vô địch quốc gia Chile",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a14751ea68523dd03173b441cf5da14d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/cac9460a93766d0f63c33b15003d9572.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Union La Calera vs U De Chile | 02:00 15/06",
+                    "tournament": "Giải vô địch quốc gia Chile",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f9b2e922f6ca83c14def96049ccbfe42.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/731ea9512aeffe6fd2896bc1a7a60662.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
