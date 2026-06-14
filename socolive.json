@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 14/06/2026 - 14:52",
+    "last_updated": "Cập nhật: 14/06/2026 - 15:02",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Rockdale City Suns vs Sd Raiders Fc | 13:30 14/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e811c8feb7f55ae2b6fea9ed20c96374.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/41cd928a2816821bdb7995c3ea6031a6.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Qingdao Red Lions vs Shanghai Port B | 15:00 14/06",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
