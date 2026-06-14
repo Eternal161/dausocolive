@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 05:51",
+    "last_updated": "Cập nhật: 15/06/2026 - 06:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,90 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Westchester Sc vs Greenville Triumph | 06:00 15/06",
-                    "tournament": "USL League One",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9ffe2e4428207cc8a9ad6735442d5150.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/5dbc9a62431184ca78d587065674c4a2.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Thuy Dien vs Tunisia | 09:00 15/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bff Academy U19 vs Fc Paro | 19:00 15/06",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9d4caac656f50e75750c905733ce6114.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ae37aedbd9647e80fe75821a00a31516.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
