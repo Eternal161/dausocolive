@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 22:21",
+    "last_updated": "Cập nhật: 15/06/2026 - 22:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Sjk Akatemia vs Haka | 22:30 15/06",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/1673aae6c71fb628e98a6b2306ae14d6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tay Ban Nha vs Cape Verde | 23:00 15/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -62,10 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Ka Akureyri vs Fram Reykjavik | 01:00 16/06",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/5aa5f2f1a954448fd5bef463a34830b0.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/acb0d80017e970d0e7f20528091e5361.png!w80",
+                    "name": "Sjk Akatemia vs Haka | 22:30 15/06",
+                    "tournament": "Giải hạng 2 Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1673aae6c71fb628e98a6b2306ae14d6.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -90,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Bi vs Ai Cap | 02:00 16/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
+                    "name": "Ka Akureyri vs Fram Reykjavik | 01:00 16/06",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/5aa5f2f1a954448fd5bef463a34830b0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/acb0d80017e970d0e7f20528091e5361.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -107,35 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "A Rap Saudi vs Uruguay | 05:00 16/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
