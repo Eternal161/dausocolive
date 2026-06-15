@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 07:20",
+    "last_updated": "Cập nhật: 15/06/2026 - 07:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,10 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Botafogo vs Operario | 05:00 15/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/d10de41c21595dcf71ffbf4c3c105660.png!w80",
+                    "name": "Westchester Sc vs Greenville Triumph | 06:05 15/06",
+                    "tournament": "USL League One",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9ffe2e4428207cc8a9ad6735442d5150.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/5dbc9a62431184ca78d587065674c4a2.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -51,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Gremio Novorizontin vs Nautico | 05:00 15/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png!w80",
+                    "name": "Thuy Dien vs Tunisia | 09:00 15/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -79,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
