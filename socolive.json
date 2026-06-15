@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 21:51",
+    "last_updated": "Cập nhật: 15/06/2026 - 22:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Phu Nu Banfield vs Racing Club Nu | 01:00 16/06",
-                    "tournament": "Giải bóng đá Nữ Argentina",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3c5534418479341c52ee668eef8af1e1.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/2d4e356bad42cc2c7e98aec5580bcf36.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
