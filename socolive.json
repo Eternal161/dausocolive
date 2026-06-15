@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 16/06/2026 - 06:31",
+    "last_updated": "Cập nhật: 16/06/2026 - 06:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -108,6 +108,146 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Rochedale Rovers vs Moreton Bay Utd | 16:15 16/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/030a377635b3ac3fe5cbb49221594110.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a3e3ccdb89e29c21ae1908c3597c318f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Gold Coast Knights vs Clb Queensland Lions Sc | 16:30 16/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Bayswater City vs Perth Sao Do | 18:00 16/06",
+                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/15809b305455c1e964ccd454cc180e51.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f4e70082100fd164fd55016ca61cbf35.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fremantle City vs Olympic Kingsway | 18:00 16/06",
+                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a2db56c9ef2c5e1c6efb6e93f31ef7f9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e86e55edb020614b621b0cf82cf64b5c.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Al Ahed vs Sagesse Sc | 19:30 16/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/2e1e51f1d382444ac21027df0f23519d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ca1261bd7071088e4cf292fd03be814b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
