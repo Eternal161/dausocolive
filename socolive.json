@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 08:00",
+    "last_updated": "Cập nhật: 15/06/2026 - 08:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,6 +80,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bff Academy U19 vs Fc Paro | 19:00 15/06",
+                    "tournament": "Giải bóng đá hàng đầu Bhutan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9d4caac656f50e75750c905733ce6114.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ae37aedbd9647e80fe75821a00a31516.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sjk Akatemia vs Haka | 22:30 15/06",
+                    "tournament": "Giải hạng 2 Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1673aae6c71fb628e98a6b2306ae14d6.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tay Ban Nha vs Cape Verde | 23:00 15/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/9877c66299c5b98d81fed12827d87e4b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
