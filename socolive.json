@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 15/06/2026 - 20:51",
+    "last_updated": "Cập nhật: 15/06/2026 - 21:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Bff Academy U19 vs Fc Paro | 19:00 15/06",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/9d4caac656f50e75750c905733ce6114.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ae37aedbd9647e80fe75821a00a31516.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Sjk Akatemia vs Haka | 22:30 15/06",
                     "tournament": "Giải hạng 2 Phần Lan",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bi vs Ai Cap | 02:00 16/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
