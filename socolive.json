@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 16/06/2026 - 01:01",
+    "last_updated": "Cập nhật: 16/06/2026 - 01:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Tay Ban Nha vs Cape Verde | 23:00 15/06",
+                    "name": "Bi vs Ai Cap | 02:00 16/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/9877c66299c5b98d81fed12827d87e4b.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Bi vs Ai Cap | 02:00 16/06",
+                    "name": "A Rap Saudi vs Uruguay | 05:00 16/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -80,6 +80,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Londrina vs Clb Avai | 07:00 16/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/d790c903117459a4afb308ad63d353f9.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Criciuma vs Clb Ceara | 07:00 16/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/1105c0c62d761d64b6f4c3e34f460278.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
