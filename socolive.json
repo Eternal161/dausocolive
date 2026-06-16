@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 16/06/2026 - 11:10",
+    "last_updated": "Cập nhật: 16/06/2026 - 11:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Al Ahed vs Sagesse Sc | 19:30 16/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/2e1e51f1d382444ac21027df0f23519d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ca1261bd7071088e4cf292fd03be814b.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
