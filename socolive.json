@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 16/06/2026 - 22:31",
+    "last_updated": "Cập nhật: 16/06/2026 - 22:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Al Ahed vs Sagesse Sc | 20:00 16/06",
-                    "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/2e1e51f1d382444ac21027df0f23519d.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ca1261bd7071088e4cf292fd03be814b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Bfc Daugavpils vs Super Nova | 22:00 16/06",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fortaleza vs Clb America Mg | 06:00 17/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
