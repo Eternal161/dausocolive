@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 17/06/2026 - 04:10",
+    "last_updated": "Cập nhật: 17/06/2026 - 04:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Argentina vs Dtqg Algeria | 08:00 17/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
                                                 }
                                             ]
                                         }
