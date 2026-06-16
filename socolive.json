@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 16/06/2026 - 10:00",
+    "last_updated": "Cập nhật: 16/06/2026 - 10:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -52,6 +52,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Redlands United vs Sunshine Coast Wanderers Fc | 16:30 16/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/5e2d4f203eeb88f0d994b4db76cf3926.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c1c3f0f2b0eb7d7667f4b3ca3c75b2d5.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Gold Coast Knights vs Clb Queensland Lions Sc | 16:30 16/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Bayswater City vs Perth Sao Do | 18:00 16/06",
+                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/15809b305455c1e964ccd454cc180e51.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/f4e70082100fd164fd55016ca61cbf35.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
