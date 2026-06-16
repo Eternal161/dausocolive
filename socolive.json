@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 16/06/2026 - 17:31",
+    "last_updated": "Cập nhật: 16/06/2026 - 17:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,34 +90,6 @@
                     ]
                 },
                 {
-                    "name": "Fremantle City vs Olympic Kingsway | 18:00 16/06",
-                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/a2db56c9ef2c5e1c6efb6e93f31ef7f9.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/e86e55edb020614b621b0cf82cf64b5c.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Clb Bayswater City vs Perth Sao Do | 18:00 16/06",
                     "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/15809b305455c1e964ccd454cc180e51.png!w80",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fremantle City vs Olympic Kingsway | 18:00 16/06",
+                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a2db56c9ef2c5e1c6efb6e93f31ef7f9.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/e86e55edb020614b621b0cf82cf64b5c.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
