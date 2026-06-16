@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 16/06/2026 - 23:51",
+    "last_updated": "Cập nhật: 17/06/2026 - 00:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Bfc Daugavpils vs Super Nova | 22:00 16/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/6ecfe734e6971ff83a4a3808b669d059.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Grobina vs Liepaja | 23:00 16/06",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
