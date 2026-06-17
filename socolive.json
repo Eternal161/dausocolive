@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 17/06/2026 - 20:21",
+    "last_updated": "Cập nhật: 17/06/2026 - 20:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,6 +164,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Riga Fc vs Rigas Futbola Skola | 23:00 17/06",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/83a9f5e1089098a8df85932d23f74191.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bo Dao Nha vs Dr Congo | 00:00 18/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/49d342a8f5ce9acffb799b04c0ca43aa.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Gnistan Helsinki vs Clb Lahti | 01:00 18/06",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/a19ee4a4454087b98d1f2bb9058a337e.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
