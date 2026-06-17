@@ -1,150 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 02:01",
+    "last_updated": "Cập nhật: 18/06/2026 - 02:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Bo Dao Nha vs Dr Congo | 00:00 18/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.boostopia.io/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/49d342a8f5ce9acffb799b04c0ca43aa.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hjk vs Inter Turku | 22:00 17/06",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.boostopia.io/football/team/fd1a9c51505300dec9c26e5847114851.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tps vs Clb Kups | 22:00 17/06",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.boostopia.io/football/team/f3aa37eff0023279c42b6e99eecc31d0.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Saburtalo Tbilisi vs Clb Metalurgi Rustavi | 22:00 17/06",
-                    "tournament": "Giải Vô địch Quốc gia Georgia",
-                    "logo_nha": "https://img.boostopia.io/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/cc6d0105f751057a74ad7580822737f7.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Riga Fc vs Rigas Futbola Skola | 23:00 17/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.boostopia.io/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/83a9f5e1089098a8df85932d23f74191.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Dtqg Anh vs Croatia | 03:00 18/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -192,6 +52,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vancouver Whitecaps B vs San Jose Earthquakes B | 08:00 18/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.boostopia.io/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Uzbekistan vs Colombia | 09:00 18/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.boostopia.io/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
