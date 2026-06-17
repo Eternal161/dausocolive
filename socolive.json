@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 17/06/2026 - 22:41",
+    "last_updated": "Cập nhật: 17/06/2026 - 22:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Kairat vs Kyzylzhar | 21:00 17/06",
-                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/c61c3199500be14782a4d533db7e52a2.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Hjk vs Inter Turku | 22:00 17/06",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
@@ -150,6 +122,34 @@
                     "tournament": "Giải vô địch bóng đá thế giới",
                     "logo_nha": "https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
                     "logo_khach": "https://img.colatv88xd.cc/football/team/49d342a8f5ce9acffb799b04c0ca43aa.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/97312754.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dtqg Anh vs Croatia | 03:00 18/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
