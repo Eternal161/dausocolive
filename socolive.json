@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 17/06/2026 - 18:51",
+    "last_updated": "Cập nhật: 17/06/2026 - 19:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Gyeongju Fc Nu vs Hwacheon Nu | 17:00 17/06",
-                    "tournament": "WK League Nữ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/cc35fb970f1464e1468bafebb54a2ca6.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Sejong Sportstoto Nu vs Hyundai Steel Red Angels Nu | 17:00 17/06",
-                    "tournament": "WK League Nữ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/51bbefa8069e06c0e2911f4c690feb29.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/ea4ce3a397e17ff504fcb9a4b1c4f740.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Molodechno vs Clb Bate | 20:00 17/06",
                     "tournament": "Cúp Belarus",
@@ -164,6 +108,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tps vs Clb Kups | 22:00 17/06",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/f3aa37eff0023279c42b6e99eecc31d0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Saburtalo Tbilisi vs Clb Metalurgi Rustavi | 22:00 17/06",
+                    "tournament": "Giải Vô địch Quốc gia Georgia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/cc6d0105f751057a74ad7580822737f7.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
