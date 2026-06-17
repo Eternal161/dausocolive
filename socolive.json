@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 17/06/2026 - 21:51",
+    "last_updated": "Cập nhật: 17/06/2026 - 22:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Molodechno vs Clb Bate | 20:00 17/06",
-                    "tournament": "Cúp Belarus",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/0febece7ccfde5cb982f544a821832cc.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/8d6900ddedb1a461a7908fd698e3eeed.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Kairat vs Kyzylzhar | 21:00 17/06",
                     "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Riga Fc vs Rigas Futbola Skola | 23:00 17/06",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/83a9f5e1089098a8df85932d23f74191.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
