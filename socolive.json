@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 17/06/2026 - 15:50",
+    "last_updated": "Cập nhật: 17/06/2026 - 16:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Bo Cau O Buganut vs Fc Ulaanbaatar | 14:00 17/06",
-                    "tournament": "Giải ngoại hạng Mông Cổ",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/83e44ba57d434d8cbf781f7ee0b249bd.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Canberra White Eagles vs Canberra Croatia | 16:30 17/06",
                     "tournament": "Giải bóng đá Hạng nhất Thủ đô Canberra của Úc",
@@ -136,6 +108,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Molodechno vs Clb Bate | 20:00 17/06",
+                    "tournament": "Cúp Belarus",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/0febece7ccfde5cb982f544a821832cc.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/8d6900ddedb1a461a7908fd698e3eeed.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
