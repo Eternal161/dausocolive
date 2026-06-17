@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 17/06/2026 - 10:00",
+    "last_updated": "Cập nhật: 17/06/2026 - 10:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Dtqg Ao vs Jordan | 11:00 17/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Argentina vs Dtqg Algeria | 08:00 17/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -34,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Dtqg Ao vs Jordan | 11:00 17/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80",
+                    "name": "Bo Cau O Buganut vs Fc Ulaanbaatar | 14:00 17/06",
+                    "tournament": "Giải ngoại hạng Mông Cổ",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/83e44ba57d434d8cbf781f7ee0b249bd.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -51,7 +79,63 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Canberra White Eagles vs Canberra Croatia | 16:30 17/06",
+                    "tournament": "Giải bóng đá Hạng nhất Thủ đô Canberra của Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/2e2ec6721545fb4ceaa95fba18202359.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/0e8a5b04bcb76a376d0f0ddf9f54fbaa.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Thanh Pho Trang Woodville vs Tay Torrens Birkalla | 16:45 17/06",
+                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/2c2d46d2dee049dbc7db6a2cc9e7096d.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/c524354a372c83245e6d4cb8afbc234f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
