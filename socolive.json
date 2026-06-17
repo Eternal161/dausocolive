@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 17/06/2026 - 08:01",
+    "last_updated": "Cập nhật: 17/06/2026 - 08:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,10 +34,10 @@
                     ]
                 },
                 {
-                    "name": "Fortaleza vs Clb America Mg | 06:00 17/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.colatv88xd.cc/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png!w80",
-                    "logo_khach": "https://img.colatv88xd.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80",
+                    "name": "Dtqg Ao vs Jordan | 11:00 17/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.colatv88xd.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
+                    "logo_khach": "https://img.colatv88xd.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -51,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
