@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 04:41",
+    "last_updated": "Cập nhật: 18/06/2026 - 04:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -52,6 +52,146 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vancouver Whitecaps B vs San Jose Earthquakes B | 08:00 18/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.boostopia.io/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Uzbekistan vs Colombia | 09:00 18/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.boostopia.io/football/team/effa571bc3ca24dd7d1f2513bf849a52.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tacoma Defiance vs Houston Dynamo B | 09:00 18/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.boostopia.io/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/9484f4276a3067b584ed3a073d350c98.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Khovd Western vs Khangarid Klub | 14:00 18/06",
+                    "tournament": "Giải ngoại hạng Mông Cổ",
+                    "logo_nha": "https://img.boostopia.io/football/team/9ae36debba0abd59c01de2e60fc42648.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/124cf7822c597b8b3f19b5b77dfd1953.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Ac Oulu vs Ifk Mariehamn | 16:59 18/06",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.boostopia.io/football/team/348fa7d49029584354427690fe88f874.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/41140c6f793b378e8cad7087ebce5066.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
