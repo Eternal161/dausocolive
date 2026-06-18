@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 14:51",
+    "last_updated": "Cập nhật: 18/06/2026 - 15:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,6 +62,34 @@
                     ]
                 },
                 {
+                    "name": "Tobol Kostanai B vs Ekibastuz | 17:00 18/06",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.boostopia.io/football/team/71ee8803b35df20d3a96b33955dfa14c.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/d8baf3ab5d39bcdab1d636a69e0e8086.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Astana B vs Kairat Almaty Ii | 18:00 18/06",
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
                     "logo_nha": "https://img.boostopia.io/football/team/eea48912dacd0411ebfd9749ac55cba9.png!w80",
@@ -80,34 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Akademiya Ontustik vs Fk Yelimay Semey B | 19:00 18/06",
-                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
-                    "logo_nha": "https://img.boostopia.io/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/6e1508c9ed47664bfe25e353a37e4c50.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
@@ -163,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
