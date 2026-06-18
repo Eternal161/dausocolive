@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 17:01",
+    "last_updated": "Cập nhật: 18/06/2026 - 17:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Meshakhte Tkibuli vs Gagra | 20:30 18/06",
+                    "tournament": "Giải Vô địch Quốc gia Georgia",
+                    "logo_nha": "https://img.boostopia.io/football/team/6c4026b1738fc21db081f031cf8c8d39.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/e450729cae3ba8210e9a08134b9258a1.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Wydad Ac vs Fus Rabat | 21:00 18/06",
+                    "tournament": "Giải bóng đá hạng nhất Morocco",
+                    "logo_nha": "https://img.boostopia.io/football/team/d01e355bc3e95af3c33dbd9bfb0ee39f.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/1f0293c89e32800cf5132bd8ed169fec.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/75915087.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cong Hoa Sec vs Nam Phi | 23:00 18/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.boostopia.io/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
