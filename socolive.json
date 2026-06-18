@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 19:51",
+    "last_updated": "Cập nhật: 18/06/2026 - 20:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Astana B vs Kairat Almaty Ii | 18:00 18/06",
-                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
-                    "logo_nha": "https://img.boostopia.io/football/team/eea48912dacd0411ebfd9749ac55cba9.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/a45149dd3ce5f0114a126fac0f44adbc.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Akademiya Ontustik vs Fk Yelimay Semey B | 19:00 18/06",
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
@@ -164,62 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb Dinamo Tbilisi vs Samgurali | 23:00 18/06",
-                    "tournament": "Giải Vô địch Quốc gia Georgia",
-                    "logo_nha": "https://img.boostopia.io/football/team/ad24ca32a65ee246b1c20af06f4acb97.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/a9bea85988465e9accfae7984ac850eb.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Thuy Si vs Dtqg Bosnia Herzegovina | 02:00 19/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.boostopia.io/football/team/4402fbc939277321386d11fd427eb2b6.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/5301386c592331424197d34172de723a.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
