@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 15:41",
+    "last_updated": "Cập nhật: 18/06/2026 - 15:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,62 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fk Arys vs Fk Kaspiy Aktau B | 20:00 18/06",
-                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
-                    "logo_nha": "https://img.boostopia.io/football/team/dff243319f536af2557bca3e82143a73.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/651ba39aae3985527e69ba4511a29fb5.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fc Meshakhte Tkibuli vs Gagra | 20:30 18/06",
-                    "tournament": "Giải Vô địch Quốc gia Georgia",
-                    "logo_nha": "https://img.boostopia.io/football/team/6c4026b1738fc21db081f031cf8c8d39.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/e450729cae3ba8210e9a08134b9258a1.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
