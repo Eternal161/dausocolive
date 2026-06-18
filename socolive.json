@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 12:31",
+    "last_updated": "Cập nhật: 18/06/2026 - 12:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fk Arys vs Fk Kaspiy Aktau B | 20:00 18/06",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.boostopia.io/football/team/dff243319f536af2557bca3e82143a73.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/651ba39aae3985527e69ba4511a29fb5.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Wydad Ac vs Fus Rabat | 21:00 18/06",
+                    "tournament": "Giải bóng đá hạng nhất Morocco",
+                    "logo_nha": "https://img.boostopia.io/football/team/d01e355bc3e95af3c33dbd9bfb0ee39f.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/1f0293c89e32800cf5132bd8ed169fec.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
