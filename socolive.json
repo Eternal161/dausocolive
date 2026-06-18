@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 09:01",
+    "last_updated": "Cập nhật: 18/06/2026 - 09:10",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -52,34 +52,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tacoma Defiance vs Houston Dynamo B | 09:00 18/06",
-                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
-                    "logo_nha": "https://img.boostopia.io/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/9484f4276a3067b584ed3a073d350c98.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
