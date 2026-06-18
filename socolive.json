@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 23:30",
+    "last_updated": "Cập nhật: 18/06/2026 - 23:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -23,35 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb Wydad Ac vs Fus Rabat | 21:00 18/06",
-                    "tournament": "Giải bóng đá hạng nhất Morocco",
-                    "logo_nha": "https://img.boostopia.io/football/team/d01e355bc3e95af3c33dbd9bfb0ee39f.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/1f0293c89e32800cf5132bd8ed169fec.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/75915087.m3u8"
+                                                    "url": "https://live05.msdht.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Thuy Si vs Dtqg Bosnia Herzegovina | 02:00 19/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.boostopia.io/football/team/4402fbc939277321386d11fd427eb2b6.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/5301386c592331424197d34172de723a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
