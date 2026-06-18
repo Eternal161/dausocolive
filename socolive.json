@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 09:40",
+    "last_updated": "Cập nhật: 18/06/2026 - 09:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -52,6 +52,118 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tacoma Defiance vs Houston Dynamo B | 09:00 18/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.boostopia.io/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/9484f4276a3067b584ed3a073d350c98.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Khovd Western vs Khangarid Klub | 14:00 18/06",
+                    "tournament": "Giải ngoại hạng Mông Cổ",
+                    "logo_nha": "https://img.boostopia.io/football/team/9ae36debba0abd59c01de2e60fc42648.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/124cf7822c597b8b3f19b5b77dfd1953.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Ac Oulu vs Ifk Mariehamn | 16:59 18/06",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.boostopia.io/football/team/348fa7d49029584354427690fe88f874.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/41140c6f793b378e8cad7087ebce5066.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tobol Kostanai B vs Ekibastuz | 17:00 18/06",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.boostopia.io/football/team/71ee8803b35df20d3a96b33955dfa14c.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/d8baf3ab5d39bcdab1d636a69e0e8086.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
