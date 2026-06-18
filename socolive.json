@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 18/06/2026 - 08:20",
+    "last_updated": "Cập nhật: 18/06/2026 - 08:30",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Vancouver Whitecaps B vs San Jose Earthquakes B | 08:00 18/06",
-                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
-                    "logo_nha": "https://img.boostopia.io/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80",
-                    "logo_khach": "https://img.boostopia.io/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Uzbekistan vs Colombia | 09:00 18/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vancouver Whitecaps B vs San Jose Earthquakes B | 08:00 18/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.boostopia.io/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80",
+                    "logo_khach": "https://img.boostopia.io/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
