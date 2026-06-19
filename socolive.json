@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 04:10",
+    "last_updated": "Cập nhật: 20/06/2026 - 04:20",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "My vs Uc | 02:00 20/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Scotland vs Ma Roc | 05:00 20/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -80,6 +52,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tho Nhi Ky vs Paraguay | 10:00 20/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e6092477694f4a62bbb63cf64ee19fe6.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hume City vs Green Gully | 11:00 20/06",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Robina City vs Logan Lightning | 11:30 20/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a58223bbf9e0578395899d482403dc9a.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/fe2e6a095e8db9a20e494635a93f579e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
