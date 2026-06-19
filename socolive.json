@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 19/06/2026 - 07:11",
+    "last_updated": "Cập nhật: 19/06/2026 - 07:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Canada vs Qatar | 05:00 19/06",
+                    "name": "Mexico vs Han Quoc | 08:00 19/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
@@ -80,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Mexico vs Han Quoc | 08:00 19/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
@@ -192,6 +164,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bentleigh Greens vs South Melbourne | 16:30 19/06",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
