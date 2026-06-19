@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 19/06/2026 - 19:21",
+    "last_updated": "Cập nhật: 19/06/2026 - 19:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Caboolture Fc vs Brisbane Strikers | 17:30 19/06",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/335dad7f811f451658b42b2688eef5a9.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Lanzhou Longyuan vs Tianjin Jinmen Tiger | 18:30 19/06",
                     "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
                     "logo_nha": "https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Caboolture Fc vs Brisbane Strikers | 17:30 19/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/335dad7f811f451658b42b2688eef5a9.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
