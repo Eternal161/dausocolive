@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 19/06/2026 - 19:51",
+    "last_updated": "Cập nhật: 19/06/2026 - 20:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Shenzhen Juniors vs Shenzhen Peng City | 18:00 19/06",
-                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Lanzhou Longyuan vs Tianjin Jinmen Tiger | 18:30 19/06",
                     "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
@@ -220,6 +192,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "My vs Dtqg Uc | 02:00 20/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
