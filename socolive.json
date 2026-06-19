@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 19/06/2026 - 17:31",
+    "last_updated": "Cập nhật: 19/06/2026 - 17:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -118,34 +118,6 @@
                     ]
                 },
                 {
-                    "name": "Shenzhen Juniors vs Shenzhen Peng City | 18:00 19/06",
-                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Shaanxi Union vs Zhejiang Professional | 18:00 19/06",
                     "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
                     "logo_nha": "https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80",
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shenzhen Juniors vs Shenzhen Peng City | 18:00 19/06",
+                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
