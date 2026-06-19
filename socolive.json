@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 19/06/2026 - 16:51",
+    "last_updated": "Cập nhật: 19/06/2026 - 17:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -62,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Dalian Yingbo B vs Nantong Haimen | 17:00 19/06",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/bf15765055eda003a3410454713c8e4d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/4dfc08afd10a8aa30aa5655918faf2c7.png!w80",
+                    "name": "Oakleigh Cannons U23 vs Melbourne City U23 | 17:15 19/06",
+                    "tournament": "Aus NPL U23",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c57774951b3b354cd3d1e0237087a661.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b3ed873dedc965a5132280343f593cf6.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -108,62 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Oakleigh Cannons vs Melbourne City Npl | 17:15 19/06",
-                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/4024dec852e8e27a4078cce29d93657f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Oakleigh Cannons U23 vs Melbourne City U23 | 17:15 19/06",
-                    "tournament": "Aus NPL U23",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c57774951b3b354cd3d1e0237087a661.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b3ed873dedc965a5132280343f593cf6.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
@@ -248,6 +192,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hangzhou Linping vs Dalian Yingbo | 18:30 19/06",
+                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lanzhou Longyuan vs Tianjin Jinmen Tiger | 18:30 19/06",
+                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e0080960b4e935d70f4037aaf3a0b917.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
