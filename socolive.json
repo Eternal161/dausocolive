@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 01:20",
+    "last_updated": "Cập nhật: 20/06/2026 - 01:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Ranheim Il vs Tia Chop Oslo | 00:00 20/06",
-                    "tournament": "Giải hạng nhất quốc gia Na Uy",
-                    "logo_nha": "https://img.gvapi.cc/football/team/91fb347003b5ca9288f782d2a0f39ddd.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/45ef3a6405f82be7ef1b029acdb2587e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "My vs Uc | 02:00 20/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -52,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ranheim Il vs Tia Chop Oslo | 00:00 20/06",
+                    "tournament": "Giải hạng nhất quốc gia Na Uy",
+                    "logo_nha": "https://img.gvapi.cc/football/team/91fb347003b5ca9288f782d2a0f39ddd.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/45ef3a6405f82be7ef1b029acdb2587e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
