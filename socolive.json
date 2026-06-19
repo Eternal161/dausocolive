@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 19/06/2026 - 20:21",
+    "last_updated": "Cập nhật: 19/06/2026 - 20:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Lanzhou Longyuan vs Tianjin Jinmen Tiger | 18:30 19/06",
-                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e0080960b4e935d70f4037aaf3a0b917.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Guangdong Gz Power vs Beijing Guoan | 18:30 19/06",
-                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Hangzhou Linping vs Dalian Yingbo | 18:30 19/06",
                     "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
@@ -80,6 +24,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lanzhou Longyuan vs Tianjin Jinmen Tiger | 18:30 19/06",
+                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e0080960b4e935d70f4037aaf3a0b917.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
