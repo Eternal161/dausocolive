@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 19/06/2026 - 16:41",
+    "last_updated": "Cập nhật: 19/06/2026 - 16:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,6 +90,34 @@
                     ]
                 },
                 {
+                    "name": "Caboolture Fc vs Brisbane Strikers | 17:30 19/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/335dad7f811f451658b42b2688eef5a9.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Oakleigh Cannons vs Melbourne City Npl | 17:15 19/06",
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80",
@@ -118,10 +146,10 @@
                     ]
                 },
                 {
-                    "name": "Caboolture Fc vs Brisbane Strikers | 17:30 19/06",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/335dad7f811f451658b42b2688eef5a9.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
+                    "name": "Oakleigh Cannons U23 vs Melbourne City U23 | 17:15 19/06",
+                    "tournament": "Aus NPL U23",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c57774951b3b354cd3d1e0237087a661.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b3ed873dedc965a5132280343f593cf6.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -135,7 +163,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/02456966.m3u8"
+                                                    "url": "https://live05.msdht.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
@@ -220,34 +248,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hangzhou Linping vs Dalian Yingbo | 18:30 19/06",
-                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
