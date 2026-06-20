@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 13:31",
+    "last_updated": "Cập nhật: 20/06/2026 - 13:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Robina City vs Logan Lightning | 11:30 20/06",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a58223bbf9e0578395899d482403dc9a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/fe2e6a095e8db9a20e494635a93f579e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ws Wanderers U21 vs Sutherland Sharks | 12:00 20/06",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
@@ -220,6 +192,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Boeun Sangmu Nu vs Suwon Fmc Nu | 17:00 20/06",
+                    "tournament": "WK League Nữ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8df2032f7b49b5537a934396a1710828.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8de91d390f36c35944456e8eb51346b3.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
