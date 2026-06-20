@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 19:51",
+    "last_updated": "Cập nhật: 20/06/2026 - 20:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Wuxi Wugou vs Qingdao Hainiu Fc | 18:00 20/06",
-                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -90,10 +62,10 @@
                     ]
                 },
                 {
-                    "name": "Thai Nguyen Nu vs Phong Phu Ha Nam Nu | 18:00 20/06",
-                    "tournament": "Women's National League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w80",
+                    "name": "Wuxi Wugou vs Qingdao Hainiu Fc | 18:00 20/06",
+                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -107,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -136,34 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Chengdu Rongcheng B vs Yichun Grand Tiger | 19:00 20/06",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/971baf2cd794e40faa9d10a176a86170.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -220,6 +164,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Londrina vs Athletic Mg | 21:00 20/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ed16dd3c5970174b77eb04b0ea5b0960.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
