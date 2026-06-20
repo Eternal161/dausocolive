@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 16:01",
+    "last_updated": "Cập nhật: 20/06/2026 - 16:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -52,34 +52,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Manly United vs St George Fc | 14:10 20/06",
-                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8467022e5f2d8204773bddb6cb7d8182.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -220,6 +192,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Thai Nguyen Nu vs Phong Phu Ha Nam Nu | 18:00 20/06",
+                    "tournament": "Women's National League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
