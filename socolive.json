@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 15:31",
+    "last_updated": "Cập nhật: 20/06/2026 - 15:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -80,6 +80,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shanghai Jiading Huilong vs Cau Lac Bo Bong Da Tongliangloong Trung Khanh | 16:00 20/06",
+                    "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
@@ -192,34 +220,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Thai Nguyen Nu vs Phong Phu Ha Nam Nu | 18:00 20/06",
-                    "tournament": "Women's National League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
