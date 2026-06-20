@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 09:41",
+    "last_updated": "Cập nhật: 20/06/2026 - 09:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Brazil vs Haiti | 07:30 20/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tho Nhi Ky vs Paraguay | 10:00 20/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -220,34 +192,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Caroline Springs George Cross vs Dandenong City | 15:00 20/06",
-                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e9fe5248e24a1ccdffa4af70e767ffa7.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3a4dae29240839fa156aad32c63b0795.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
