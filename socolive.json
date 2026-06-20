@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 23:31",
+    "last_updated": "Cập nhật: 20/06/2026 - 23:40",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Ha Lan vs Thuy Dien | 00:00 21/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Ordabasy vs Kaspij Aktau | 22:00 20/06",
                     "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
@@ -34,34 +62,6 @@
                     ]
                 },
                 {
-                    "name": "Londrina vs Athletic Mg | 21:00 20/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ed16dd3c5970174b77eb04b0ea5b0960.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Fk Vitebsk vs Dinamo Brest | 22:30 20/06",
                     "tournament": "Giải Bóng đá Ngoại hạng Belarus",
                     "logo_nha": "https://img.gvapi.cc/football/team/8b355f026ef01a8bd444fc7148cce6ce.png!w80",
@@ -80,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ha Lan vs Thuy Dien | 00:00 21/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -192,62 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb Vila Nova vs Nautico | 05:00 21/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ecuador vs Curacao | 07:00 21/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
