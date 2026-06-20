@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 20/06/2026 - 18:51",
+    "last_updated": "Cập nhật: 20/06/2026 - 19:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,62 +90,6 @@
                     ]
                 },
                 {
-                    "name": "Boeun Sangmu Nu vs Suwon Fmc Nu | 17:00 20/06",
-                    "tournament": "WK League Nữ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8df2032f7b49b5537a934396a1710828.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8de91d390f36c35944456e8eb51346b3.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Cong Dan Chuncheon vs Siheung City | 17:00 20/06",
-                    "tournament": "Giải K3 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/0a7005643b95cb63e27b829ef79ebff5.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b0cba801d31e0086325dc1bd81639be8.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.msdht.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Thai Nguyen Nu vs Phong Phu Ha Nam Nu | 18:00 20/06",
                     "tournament": "Women's National League",
                     "logo_nha": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
@@ -220,6 +164,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.msdht.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bfc Daugavpils vs Grobina | 20:00 20/06",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Slavia Mozyr vs Fk Isloch Minsk | 20:30 20/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5d2cb6fdc8934f80107352ea5efb7e64.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/aed0f0a3abd1cb4e732b2135a575f227.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.msdht.app/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
