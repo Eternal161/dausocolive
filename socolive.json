@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 21/06/2026 - 20:51",
+    "last_updated": "Cập nhật: 21/06/2026 - 21:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,90 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bate Borisov vs Arsenal Dzyarzhynsk | 22:00 21/06",
-                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8d6900ddedb1a461a7908fd698e3eeed.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b6fe0f6bee10ea26ea2bad41ce165daa.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Assyriska vs Karlstad | 22:00 21/06",
-                    "tournament": "Giải hạng Ba Thụy Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4774fa0c6dbfe9da64bdb7c8407053a3.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/729404b28f3bd32761c667a668453f4c.jpg!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tay Ban Nha vs A Rap Saudi | 23:00 21/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
