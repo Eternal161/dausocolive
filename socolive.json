@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 21/06/2026 - 22:11",
+    "last_updated": "Cập nhật: 21/06/2026 - 22:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Jelgava vs Tukums 2000 | 20:00 21/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80",
+                    "name": "Bate Borisov vs Arsenal Dzyarzhynsk | 22:00 21/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8d6900ddedb1a461a7908fd698e3eeed.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b6fe0f6bee10ea26ea2bad41ce165daa.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -80,34 +80,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bate Borisov vs Arsenal Dzyarzhynsk | 22:00 21/06",
-                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8d6900ddedb1a461a7908fd698e3eeed.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b6fe0f6bee10ea26ea2bad41ce165daa.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -234,6 +206,34 @@
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
                     "logo_nha": "https://img.gvapi.cc/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Uruguay vs Cape Verde | 05:00 22/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/9877c66299c5b98d81fed12827d87e4b.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
