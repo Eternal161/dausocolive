@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 21/06/2026 - 19:01",
+    "last_updated": "Cập nhật: 21/06/2026 - 19:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kristianstads Ff vs Laholms | 21:00 21/06",
+                    "tournament": "Giải hạng Ba Thụy Điển",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9e688f86466bd4f8de6709209f7eeec1.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/2fd76dad37ed7dc15859170dc2990b5e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Avai vs Cuiaba | 21:00 21/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d790c903117459a4afb308ad63d353f9.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a9e3f5956f84947cbd6503823dcffbb0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bate Borisov vs Arsenal Dzyarzhynsk | 22:00 21/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8d6900ddedb1a461a7908fd698e3eeed.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b6fe0f6bee10ea26ea2bad41ce165daa.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
