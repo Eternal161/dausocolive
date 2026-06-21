@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 22/06/2026 - 01:51",
+    "last_updated": "Cập nhật: 22/06/2026 - 02:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,62 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tacoma Defiance vs Real Monarchs | 09:00 22/06",
-                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/bd1a5523d23101bd406ffda4250c5360.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Thimphu Fc vs Fc Tsirang | 19:00 22/06",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1d938529554163e4502a5948a7b78e0f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
