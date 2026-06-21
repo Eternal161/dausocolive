@@ -1,15 +1,15 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 22/06/2026 - 04:11",
+    "last_updated": "Cập nhật: 22/06/2026 - 04:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Bi vs Iran | 02:00 22/06",
+                    "name": "Uruguay vs Cape Verde | 05:00 22/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/9877c66299c5b98d81fed12827d87e4b.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                    "url": "https://live05.apusport.com/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
@@ -38,34 +38,6 @@
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
                     "logo_nha": "https://img.gvapi.cc/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Uruguay vs Cape Verde | 05:00 22/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/9877c66299c5b98d81fed12827d87e4b.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -192,6 +164,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Khovd Western vs Khovd | 18:00 22/06",
+                    "tournament": "Giải ngoại hạng Mông Cổ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9ae36debba0abd59c01de2e60fc42648.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c8550c96c10f3e6cc1e5525c35fdb220.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
