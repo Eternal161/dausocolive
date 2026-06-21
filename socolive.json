@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 21/06/2026 - 14:31",
+    "last_updated": "Cập nhật: 21/06/2026 - 14:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,90 +136,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fc Minsk vs Bc Maxline | 20:00 21/06",
-                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
-                    "logo_nha": "https://img.gvapi.cc/football/team/fd06ba41a2de13ab86456debdc68a330.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8888bb52a971c98b7518618bf61e7ad2.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/43612277.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Brage vs Varnamo | 20:00 21/06",
-                    "tournament": "Giải hạng hai Thuỵ Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/109d2dd3608f669ca17920c511c2a41e.jpg!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d4122e5bd6993271be41a1d941521a00.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ariana vs Bk Olympic | 21:00 21/06",
-                    "tournament": "Giải hạng Ba Thụy Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ca12e8bdae01ac6f251d59ea6472a476.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/7081a9ee5d50032dc5537accf39da060.jpg!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
