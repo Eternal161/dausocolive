@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 21/06/2026 - 19:21",
+    "last_updated": "Cập nhật: 21/06/2026 - 19:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -34,34 +34,6 @@
                     ]
                 },
                 {
-                    "name": "Brage vs Varnamo | 20:00 21/06",
-                    "tournament": "Giải hạng hai Thuỵ Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/109d2dd3608f669ca17920c511c2a41e.jpg!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d4122e5bd6993271be41a1d941521a00.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Jelgava vs Tukums 2000 | 20:00 21/06",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
                     "logo_nha": "https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80",
@@ -80,6 +52,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brage vs Varnamo | 20:00 21/06",
+                    "tournament": "Giải hạng hai Thuỵ Điển",
+                    "logo_nha": "https://img.gvapi.cc/football/team/109d2dd3608f669ca17920c511c2a41e.jpg!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d4122e5bd6993271be41a1d941521a00.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
