@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 21/06/2026 - 21:51",
+    "last_updated": "Cập nhật: 21/06/2026 - 22:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,90 +164,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tay Ban Nha vs A Rap Saudi | 23:00 21/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Deportivo Madryn vs Los Andes | 01:00 22/06",
-                    "tournament": "Giải bóng đá Hạng nhì Argentina",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e360a21ac8b1197a7108e1c8129d707b.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a5f4e3112868e5c8a21b1cd87e9393f0.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bi vs Iran | 02:00 22/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
