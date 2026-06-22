@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 23/06/2026 - 02:21",
+    "last_updated": "Cập nhật: 23/06/2026 - 02:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Argentina vs Austria | 00:00 23/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Clb Shamrock Rovers vs Derry City | 02:00 23/06",
                     "tournament": "Giải vô địch quốc gia Ireland",
@@ -107,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/99121525.m3u8"
+                                                    "url": "https://live05.apusport.com/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Qingdao Red Lions vs Dalian Kewei | 15:00 23/06",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f35049a8706d6eaaeb708a3c80a992d0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
