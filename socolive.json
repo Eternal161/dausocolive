@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 22/06/2026 - 13:41",
+    "last_updated": "Cập nhật: 22/06/2026 - 13:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -24,34 +24,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Khovd Western vs Khovd | 18:00 22/06",
-                    "tournament": "Giải ngoại hạng Mông Cổ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9ae36debba0abd59c01de2e60fc42648.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/c8550c96c10f3e6cc1e5525c35fdb220.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -220,6 +192,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Telavi vs Dusheti | 23:00 22/06",
+                    "tournament": "Giải hạng Hai Georgia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d246e8b5da797f0c098fe42830aee0ae.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cb1f5ff40d929707f0bf350fef4508f3.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Argentina vs Austria | 00:00 23/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Shamrock Rovers vs Derry City | 02:00 23/06",
+                    "tournament": "Giải vô địch quốc gia Ireland",
+                    "logo_nha": "https://img.gvapi.cc/football/team/52a0b0ec8cb8af8d29711d63ed1d0c8c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1fdb25b1b1cf8b92138ba7c5c9fff621.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/43612277.m3u8"
                                                 }
                                             ]
                                         }
