@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 22/06/2026 - 22:11",
+    "last_updated": "Cập nhật: 22/06/2026 - 22:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Gareji Sagarejo vs Odishi 1919 | 20:00 22/06",
-                    "tournament": "Giải hạng Hai Georgia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/70c0ed0b8d96e44bc512210395d5bbd6.jpg!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/002e406c00a7ce20bfbf3561068d0b28.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Dila Gori vs Metalurgi Rustavi | 22:00 22/06",
                     "tournament": "Giải Vô địch Quốc gia Georgia",
@@ -164,6 +136,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/43612277.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Phap vs Iraq | 04:00 23/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cc40d06ff0a16a793d066dbfa2917bab.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Ponte Preta vs Clb Gremio Novorizontin | 06:00 23/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fb735adffa94a7306c7f68b9609d929f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
