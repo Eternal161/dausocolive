@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 22/06/2026 - 20:51",
+    "last_updated": "Cập nhật: 22/06/2026 - 21:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Thimphu Fc vs Fc Tsirang | 19:00 22/06",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1d938529554163e4502a5948a7b78e0f.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/90725470.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Gareji Sagarejo vs Odishi 1919 | 20:00 22/06",
                     "tournament": "Giải hạng Hai Georgia",
@@ -248,6 +220,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Ponte Preta vs Clb Gremio Novorizontin | 06:00 23/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fb735adffa94a7306c7f68b9609d929f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
