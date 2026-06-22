@@ -1,15 +1,71 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 22/06/2026 - 14:01",
+    "last_updated": "Cập nhật: 22/06/2026 - 14:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
                 {
-                    "name": "Gareji Sagarejo vs Odishi 1919 | 20:00 22/06",
-                    "tournament": "Giải hạng Hai Georgia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/70c0ed0b8d96e44bc512210395d5bbd6.jpg!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/002e406c00a7ce20bfbf3561068d0b28.png!w80",
+                    "name": "Tho San Fc vs Cau Lac Bo Khoromkhon | 15:00 22/06",
+                    "tournament": "Giải ngoại hạng Mông Cổ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/e8082f36740ea4295a8bc67e28741933.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d791c6fe5a95188fb27f677dbf19388e.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Khovd Western vs Khovd | 18:00 22/06",
+                    "tournament": "Giải ngoại hạng Mông Cổ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9ae36debba0abd59c01de2e60fc42648.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c8550c96c10f3e6cc1e5525c35fdb220.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Thimphu Fc vs Fc Tsirang | 19:00 22/06",
+                    "tournament": "Giải bóng đá hàng đầu Bhutan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1d938529554163e4502a5948a7b78e0f.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
@@ -34,10 +90,122 @@
                     ]
                 },
                 {
+                    "name": "Gareji Sagarejo vs Odishi 1919 | 20:00 22/06",
+                    "tournament": "Giải hạng Hai Georgia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/70c0ed0b8d96e44bc512210395d5bbd6.jpg!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/002e406c00a7ce20bfbf3561068d0b28.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Clb Merani Martvili vs Gori | 20:00 22/06",
                     "tournament": "Giải hạng Hai Georgia",
                     "logo_nha": "https://img.gvapi.cc/football/team/f066ebd73032bfa49bcb1df5741aa12d.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/7e2d7b927a910fa9be8ad1a92b78f592.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Kolkheti Poti vs Shuturmi | 21:00 22/06",
+                    "tournament": "Giải hạng Hai Georgia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3e75d199095628a23b4c95b9f015477b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8e2e1379b8b295701aafc6cf0ee3c116.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/90725470.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dila Gori vs Metalurgi Rustavi | 22:00 22/06",
+                    "tournament": "Giải Vô địch Quốc gia Georgia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8d37df65ec99136141521145783ba119.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cc6d0105f751057a74ad7580822737f7.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Rigas Futbola Skola vs Yeu Tinh United | 22:00 22/06",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/83a9f5e1089098a8df85932d23f74191.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c448d89be2d910901ba43cd76bde1267.png!w80",
                     "labels": [
                         {
                             "text": "LIVE"
