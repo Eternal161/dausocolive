@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 22/06/2026 - 08:31",
+    "last_updated": "Cập nhật: 22/06/2026 - 08:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -136,6 +136,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/75915087.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gareji Sagarejo vs Odishi 1919 | 20:00 22/06",
+                    "tournament": "Giải hạng Hai Georgia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/70c0ed0b8d96e44bc512210395d5bbd6.jpg!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/002e406c00a7ce20bfbf3561068d0b28.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Merani Martvili vs Gori | 20:00 22/06",
+                    "tournament": "Giải hạng Hai Georgia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f066ebd73032bfa49bcb1df5741aa12d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/7e2d7b927a910fa9be8ad1a92b78f592.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Kolkheti Poti vs Shuturmi | 21:00 22/06",
+                    "tournament": "Giải hạng Hai Georgia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3e75d199095628a23b4c95b9f015477b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8e2e1379b8b295701aafc6cf0ee3c116.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
