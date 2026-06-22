@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 22/06/2026 - 07:41",
+    "last_updated": "Cập nhật: 22/06/2026 - 07:51",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/14830711.m3u8"
+                                                    "url": "https://live05.apusport.com/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
@@ -192,6 +192,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Kolkheti Poti vs Shuturmi | 21:00 22/06",
+                    "tournament": "Giải hạng Hai Georgia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3e75d199095628a23b4c95b9f015477b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8e2e1379b8b295701aafc6cf0ee3c116.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/90725470.m3u8"
                                                 }
                                             ]
                                         }
