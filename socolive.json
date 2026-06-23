@@ -1,38 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 23/06/2026 - 09:01",
+    "last_updated": "Cập nhật: 23/06/2026 - 09:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Na Uy vs Senegal | 07:00 23/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/863907225a3fb211eaa3afae27572869.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Jordan vs Algeria | 10:00 23/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -220,6 +192,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Logan Lightning vs Holland Park Hawks | 17:30 23/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fe2e6a095e8db9a20e494635a93f579e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b6b723f639b6d0fadbc839179d734dc2.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
