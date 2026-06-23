@@ -1,10 +1,38 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 23/06/2026 - 15:01",
+    "last_updated": "Cập nhật: 23/06/2026 - 15:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
+                {
+                    "name": "Changchun Xidu vs Lanzhou Longyuan Athletic Fc | 15:00 23/06",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/0011800200177bdd6d5197b2bd13e8d9.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Qingdao Red Lions vs Dalian Kewei | 15:00 23/06",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
@@ -80,34 +108,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Changchun Xidu vs Lanzhou Longyuan Athletic Fc | 15:00 23/06",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/0011800200177bdd6d5197b2bd13e8d9.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
