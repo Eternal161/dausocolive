@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 23/06/2026 - 11:01",
+    "last_updated": "Cập nhật: 23/06/2026 - 11:11",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -220,34 +220,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shanghai Second vs Shanghai Port B | 18:30 23/06",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4dfc08afd10a8aa30aa5655918faf2c7.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/fef70eb7dee84d19446f52cb3490fd71.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
