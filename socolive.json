@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 23/06/2026 - 22:51",
+    "last_updated": "Cập nhật: 23/06/2026 - 23:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -23,7 +23,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/87547578.m3u8"
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -51,7 +51,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/59444581.m3u8"
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
@@ -79,7 +79,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/99121525.m3u8"
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -107,7 +107,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/19919577.m3u8"
+                                                    "url": "https://live05.meung.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
@@ -135,7 +135,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/82054853.m3u8"
+                                                    "url": "https://live05.meung.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
@@ -163,7 +163,91 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/87547578.m3u8"
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dtqg Anh vs Ghana | 03:00 24/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/75800f73fa80f935216b8cfbedf77bfa.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Panama vs Croatia | 06:00 24/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Everton vs U Catolica | 07:30 24/06",
+                    "tournament": "Cúp Chile",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a15d3c8133c8468043cc3ba9ad2dd4e9.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d2c51e33f6e7a7a3eed10d03fdb9ffb8.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
