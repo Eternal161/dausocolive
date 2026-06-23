@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 23/06/2026 - 13:51",
+    "last_updated": "Cập nhật: 23/06/2026 - 14:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -107,7 +107,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.apusport.com/live/78905744.m3u8"
+                                                    "url": "https://colatv88xi.cc/video2/output.m3u8"
                                                 }
                                             ]
                                         }
@@ -164,6 +164,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.apusport.com/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Logan Lightning vs Holland Park Hawks | 17:30 23/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fe2e6a095e8db9a20e494635a93f579e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b6b723f639b6d0fadbc839179d734dc2.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shanghai Second vs Shanghai Port B | 18:30 23/06",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4dfc08afd10a8aa30aa5655918faf2c7.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/fef70eb7dee84d19446f52cb3490fd71.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Guangdong Mingtu vs Guizhou Zhucheng Athletic Fc | 18:30 23/06",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a1149c5d3991bc2f4fd716b7e95c4cb9.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/90e8b9d7e9987fe80c17f1f0f6266ce1.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.apusport.com/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
