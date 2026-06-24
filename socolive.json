@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 24/06/2026 - 18:31",
+    "last_updated": "Cập nhật: 24/06/2026 - 18:41",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -90,6 +90,34 @@
                     ]
                 },
                 {
+                    "name": "Yichun Grand Tiger vs Wuhan Three Towns B | 18:30 24/06",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/971baf2cd794e40faa9d10a176a86170.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/606d1fab6be38fe79da58c380fbcd975.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Chengdu Rongcheng B vs Guangzhou Dandelion Alpha Fc | 19:00 24/06",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
                     "logo_nha": "https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",
@@ -146,62 +174,6 @@
                     ]
                 },
                 {
-                    "name": "Shenzhen 2028 vs Hangzhou Linping | 18:30 24/06",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Yichun Grand Tiger vs Wuhan Three Towns B | 18:30 24/06",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/971baf2cd794e40faa9d10a176a86170.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/606d1fab6be38fe79da58c380fbcd975.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Al Ahed vs Clb Al Safa | 19:30 24/06",
                     "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
                     "logo_nha": "https://img.gvapi.cc/football/team/2e1e51f1d382444ac21027df0f23519d.png!w80",
@@ -220,6 +192,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/59444581.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Shabab Sahel vs Riyadi Abbasiya | 20:00 24/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3787e09608acdc458bb8a10e9d8dfbb6.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/47ce004437d16609ce761b32e2df08d7.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
