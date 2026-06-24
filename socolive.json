@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 24/06/2026 - 20:51",
+    "last_updated": "Cập nhật: 24/06/2026 - 21:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Chengdu Rongcheng B vs Guangzhou Dandelion Alpha Fc | 19:00 24/06",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/69d796093df94d0b2b4ce1a5d2551df0.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Drukpa Fc vs Tensung Fc | 19:00 24/06",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e2259792ea9fb29e137b0d074e27236c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8a9fc46ed01d4d8aa736a356b92bc291.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Yichun Grand Tiger vs Wuhan Three Towns B | 19:30 24/06",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
@@ -108,34 +52,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Metallurgist Ii vs Iran | 21:00 24/06",
-                    "tournament": "Cúp Bóng đá Gruzia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a47b11232cab8f090309534c8bd3122e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/7c30b5786f382147b4bad6c360f0ec11.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -220,6 +136,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dtqg Scotland vs Brazil | 05:00 25/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ma Roc vs Haiti | 05:00 25/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Colorado Springs vs Clb San Antonio | 07:00 25/06",
+                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/75da1b4c0c787b6e7b1ef320e71af80c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8036ad8158264bdaa591efcb9a00ae70.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
