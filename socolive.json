@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 24/06/2026 - 23:51",
+    "last_updated": "Cập nhật: 25/06/2026 - 00:01",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,6 +164,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cong Hoa Sec vs Mexico | 08:00 25/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nam Phi vs Han Quoc | 08:00 25/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
