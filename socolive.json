@@ -1,17 +1,17 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:01 25/06/2026",
+    "last_updated": "22:11 25/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Jaiyq vs Akademiya Ontustik | 20:00 25/06",
-                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c83d1d71c8993bf33db0def8547d8d40.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80",
+                    "name": "Bfc Daugavpils vs Riga Fc | 22:00 25/06",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -25,7 +25,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
+                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bfc Daugavpils vs Riga Fc | 22:00 25/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tho Nhi Ky vs My | 09:00 26/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
