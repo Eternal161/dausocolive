@@ -1,22 +1,32 @@
 import json
+import re
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta, timezone
 
+# ==========================================
+# CONFIG COLATV (SOCOLIVE)
+# ==========================================
 TARGET_URL = "https://colatv48.live"
+LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY ĐỂ TRÁNH QUÁ TẢI CHO BOT
 
 def lay_m3u8(page, url_tran):
     link_m3u8 = ""
+    # 💡 DANH SÁCH ĐEN ĐỂ LỌC QUẢNG CÁO CỦA COLATV
+    BAD = ["video2/output.m3u8", "output.m3u8", ".mp4", "quangcao", "banner"]
+    
     def handle_request(request):
         nonlocal link_m3u8
-        if ".m3u8" in request.url:
+        u = request.url.lower()
+        if ".m3u8" in u and not any(b in u for b in BAD):
             link_m3u8 = request.url
 
     page.on("request", handle_request)
     try:
-        page.goto(url_tran, wait_until="domcontentloaded", timeout=30000)
+        # Giảm timeout xuống 20s để tăng tốc độ lướt qua các trận chưa live
+        page.goto(url_tran, wait_until="domcontentloaded", timeout=20000)
         page.wait_for_timeout(3000) 
     except Exception as e:
-        print(f"    ❌ Lỗi tải trang: {e}")
+        pass # Bỏ qua lỗi timeout nếu trang load chậm
     finally:
         page.remove_listener("request", handle_request)
     return link_m3u8
@@ -25,7 +35,7 @@ def cao_colatv():
     danh_sach_tran_phu_hop = []
     
     with sync_playwright() as p:
-        print("🚀 Khởi động Thợ Săn ColaTV trên GitHub Actions...")
+        print("🚀 Khởi động Thợ Săn ColaTV (Socolive)...")
         browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-web-security"]) 
         
         # Ép trình duyệt ảo dùng múi giờ Việt Nam để lấy đúng giờ đá
@@ -49,15 +59,17 @@ def cao_colatv():
                 logo_khach = ""
                 try:
                     giai_dau = the_cha.locator(".match-item__comp").text_content().strip()
-                    thoi_gian = the_cha.locator(".match-item__time").text_content().strip()
+                    thoi_gian_goc = the_cha.locator(".match-item__time").text_content().strip()
                     
-                    # 💡 LẤY LOGO TỪ ẢNH F12
+                    # 💡 SỬA LỖI DÍNH CHỮ: Tách chuẩn thời gian từ "14:0025/06" thành "14:00 25/06"
+                    thoi_gian = re.sub(r'(\d{1,2}:\d{2})\s*(\d{1,2}/\d{1,2})', r'\1 \2', thoi_gian_goc)
+                    
                     logo_nha = the_cha.locator(".match-home img").get_attribute("src")
                     logo_khach = the_cha.locator(".match-away img").get_attribute("src")
                 except:
                     continue
                 
-                if "bóng rổ" in giai_dau.lower():
+                if "bóng rổ" in giai_dau.lower() or "basketball" in giai_dau.lower():
                     continue
 
                 ten_tran_dau = "Đội A vs Đội B"
@@ -77,10 +89,8 @@ def cao_colatv():
             
             print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá.")
             
-            # 💡 TÍNH NĂNG LIMIT MATCH Ở ĐÂY
-            LIMIT_MATCH = 20 # Dậu chỉnh số lượng trận muốn lấy tối đa (ví dụ 15, 20, 30...)
-            danh_sach_tran_phu_hop = danh_sach_tran_phu_hop[:LIMIT_MATCH]
-            
+            # 💡 ÁP DỤNG LIMIT MATCH TỪ CẤU HÌNH Ở TRÊN
+            danh_sach_tran_phu_hop = danh_sach_tran_phu_hop[:LIMIT_MATCHES]
             print(f"✂️ Đã áp dụng Limit! Chỉ chui vào lấy m3u8 của {len(danh_sach_tran_phu_hop)} trận đầu tiên...\n")
             
             ket_qua_cuoi_cung = []
@@ -89,18 +99,22 @@ def cao_colatv():
                 print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang rình: {tran['ten_tran']}...")
                 link_m3u8 = lay_m3u8(page, tran["url"])
                 
-                if link_m3u8:
-                    formatted_name = f"{tran['ten_tran']} | {tran['thoi_gian']}"
-                    channel_data = {
-                        "name": formatted_name,
-                        "tournament": tran["giai_dau"],
-                        "logo_nha": tran["logo_nha"],     # Gắn logo nhà vào JSON
-                        "logo_khach": tran["logo_khach"], # Gắn logo khách vào JSON
-                        "labels": [{"text": "LIVE"}],
-                        "sources": [{"contents": [{"streams": [{"stream_links": [{"url": link_m3u8}]}]}]}]
-                    }
-                    ket_qua_cuoi_cung.append(channel_data)
-                    
+                formatted_name = f"{tran['ten_tran']} | {tran['thoi_gian']}"
+                
+                # 💡 Nếu có link -> LIVE. Nếu không có link -> Chưa live
+                label_text = "● LIVE" if link_m3u8 else "⏳ Chưa live"
+                stream_links = [{"url": link_m3u8}] if link_m3u8 else []
+
+                channel_data = {
+                    "name": formatted_name,
+                    "tournament": tran["giai_dau"],
+                    "logo_nha": tran["logo_nha"],     
+                    "logo_khach": tran["logo_khach"], 
+                    "labels": [{"text": label_text}],
+                    "sources": [{"contents": [{"streams": [{"stream_links": stream_links}]}]}]
+                }
+                ket_qua_cuoi_cung.append(channel_data)
+                
         except Exception as e:
             print(f"❌ Lỗi tổng: {e}")
             
@@ -108,12 +122,14 @@ def cao_colatv():
         
     if ket_qua_cuoi_cung:
         mui_gio_vn = timezone(timedelta(hours=7))
-        ngay_hom_nay = datetime.now(mui_gio_vn).strftime("%d/%m/%Y - %H:%M")
+        ngay_hom_nay = datetime.now(mui_gio_vn).strftime("%H:%M %d/%m/%Y")
         
+        # Đóng gói cấu trúc chuẩn xác như Lương Sơn
         socolive_json = {
-            "playlist_name": "Cola TV (Socolive)",
-            "last_updated": f"Cập nhật: {ngay_hom_nay}",
-            "groups": [{"name": "Live Bóng Đá", "channels": ket_qua_cuoi_cung}]
+            "id": "socolive",
+            "name": "Socolive (Cola TV)",
+            "last_updated": f"{ngay_hom_nay}",
+            "groups": [{"id": "live", "name": "🔴 Trực tiếp & Sắp tới", "channels": ket_qua_cuoi_cung}]
         }
         
         with open("socolive.json", "w", encoding="utf-8") as f:
