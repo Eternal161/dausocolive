@@ -12,7 +12,7 @@ LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY ĐỂ TRÁ
 def lay_m3u8(page, url_tran):
     link_m3u8 = ""
     # 💡 DANH SÁCH ĐEN ĐỂ LỌC QUẢNG CÁO CỦA COLATV
-    BAD = ["video2/output.m3u8", "output.m3u8", ".mp4", "quangcao", "banner"]
+    BAD = ["video2/output.m3u8", "output.m3u8", ".mp4", "quangcao", "banner", "live05"]
     
     def handle_request(request):
         nonlocal link_m3u8
