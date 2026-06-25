@@ -1,6 +1,6 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 25/06/2026 - 11:11",
+    "last_updated": "Cập nhật: 25/06/2026 - 11:21",
     "groups": [
         {
             "name": "Live Bóng Đá",
@@ -164,6 +164,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fk Aktobe Ii vs Fk Arys | 20:00 25/06",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/0b4f03fc5a3a1cdf5b96c476ef0c9f35.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/dff243319f536af2557bca3e82143a73.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
