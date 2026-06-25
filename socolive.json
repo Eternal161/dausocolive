@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:31 25/06/2026",
+    "last_updated": "22:41 25/06/2026",
     "groups": [
         {
             "id": "live",
@@ -176,7 +176,7 @@
                     ]
                 },
                 {
-                    "name": "Tunisia vs Dtqg Ha Lan | 06:00 26/06",
+                    "name": "Tunisia vs Ha Lan | 06:00 26/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
                     "logo_nha": "https://img.gvapi.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
