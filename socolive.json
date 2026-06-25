@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:01 26/06/2026",
+    "last_updated": "02:11 26/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Super Nova vs Jelgava | 00:00 26/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/6ecfe734e6971ff83a4a3808b669d059.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Vikingur vs Hb Torshavn | 00:30 26/06",
                     "tournament": "Cúp Quần đảo Faroe",
@@ -222,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sydney Youth vs Sydney Utd | 16:30 26/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6fb81e8272c1a862f2afe6e9858391af.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
