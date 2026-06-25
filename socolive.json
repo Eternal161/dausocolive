@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:11 26/06/2026",
+    "last_updated": "06:21 26/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Nhat Ban vs Thuy Dien | 06:00 26/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tunisia vs Ha Lan | 06:00 26/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -54,6 +26,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nhat Ban vs Thuy Dien | 06:00 26/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
