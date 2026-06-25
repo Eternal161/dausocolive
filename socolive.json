@@ -1,66 +1,10 @@
 {
     "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 25/06/2026 - 10:21",
+    "last_updated": "Cập nhật: 25/06/2026 - 10:31",
     "groups": [
         {
             "name": "Live Bóng Đá",
             "channels": [
-                {
-                    "name": "Nam Phi vs Han Quoc | 08:00 25/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Cong Hoa Sec vs Mexico | 08:00 25/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
-                    "labels": [
-                        {
-                            "text": "LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Los Angeles Fc Ii vs Minnesota United B | 09:00 25/06",
                     "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
@@ -192,6 +136,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nejmeh Sc vs Tadamon | 19:30 25/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d07d05c050874c9777e871cbfc7d6414.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1da29817ab4e7c4880d8b457cf2db363.png!w80",
+                    "labels": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
