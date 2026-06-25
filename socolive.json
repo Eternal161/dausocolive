@@ -1,9 +1,11 @@
 {
-    "playlist_name": "Cola TV (Socolive)",
-    "last_updated": "Cập nhật: 25/06/2026 - 11:31",
+    "id": "socolive",
+    "name": "Socolive (Cola TV)",
+    "last_updated": "11:37 25/06/2026",
     "groups": [
         {
-            "name": "Live Bóng Đá",
+            "id": "live",
+            "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
                     "name": "Tks Viet Nam Nu vs Thai Nguyen Nu | 16:00 25/06",
@@ -12,7 +14,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
                     "labels": [
                         {
-                            "text": "LIVE"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -40,7 +42,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/093bfeeaa5b64817e7ced2beada10b08.png!w80",
                     "labels": [
                         {
-                            "text": "LIVE"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -68,7 +70,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/05cf441029dee335fd968c6bf40f9ad5.png!w80",
                     "labels": [
                         {
-                            "text": "LIVE"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -96,7 +98,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/3bd267c6eccc8d58c06c4c2c9ceba810.png!w80",
                     "labels": [
                         {
-                            "text": "LIVE"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -124,7 +126,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/1da29817ab4e7c4880d8b457cf2db363.png!w80",
                     "labels": [
                         {
-                            "text": "LIVE"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -152,7 +154,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80",
                     "labels": [
                         {
-                            "text": "LIVE"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -180,7 +182,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/dff243319f536af2557bca3e82143a73.png!w80",
                     "labels": [
                         {
-                            "text": "LIVE"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
