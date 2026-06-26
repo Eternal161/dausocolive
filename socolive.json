@@ -1,12 +1,40 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:31 26/06/2026",
+    "last_updated": "18:41 26/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "Qingdao Hainiu Fc vs Yuxi Yukun | 18:35 26/06",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "West Torrens vs Sturt Lions | 17:30 26/06",
                     "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
@@ -194,34 +222,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Qingdao Hainiu Fc vs Yuxi Yukun | 18:35 26/06",
-                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
