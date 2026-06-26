@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "15:41 26/06/2026",
+    "last_updated": "15:51 26/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Sydney Youth vs Sydney Utd | 16:30 26/06",
-                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/6fb81e8272c1a862f2afe6e9858391af.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Heidelberg United vs Oakleigh Cannons | 16:30 26/06",
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
@@ -54,6 +26,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sydney Youth vs Sydney Utd | 16:30 26/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6fb81e8272c1a862f2afe6e9858391af.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
