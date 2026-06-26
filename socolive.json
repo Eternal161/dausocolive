@@ -1,68 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "11:10 26/06/2026",
+    "last_updated": "11:21 26/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Paraguay vs Uc | 09:00 26/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e6092477694f4a62bbb63cf64ee19fe6.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tho Nhi Ky vs My | 09:00 26/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Sydney Youth vs Sydney Utd | 16:30 26/06",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
@@ -138,6 +82,146 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "St Albans vs Melbourne City Npl | 17:30 26/06",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/4024dec852e8e27a4078cce29d93657f.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "West Torrens vs Sturt Lions | 17:30 26/06",
+                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c524354a372c83245e6d4cb8afbc234f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/7056766af9c6ccb837fc20bb7185b6a9.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brisbane Strikers vs Ipswich | 17:30 26/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/dd862973fbf229b051221b037f67a27c.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Adelaide Comets Fc vs Adelaide City Fc | 18:00 26/06",
+                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/861a7e12ebda4bd651b701e069cde5c5.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Qingdao Hainiu Fc vs Yuxi Yukun | 18:35 26/06",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
