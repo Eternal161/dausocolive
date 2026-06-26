@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:01 26/06/2026",
+    "last_updated": "22:11 26/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Fk Taraz vs Shakhtar Karagandy | 20:00 26/06",
-                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/54abe7b7c8ee579989d36621d28d96f0.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ogre United vs Tukums 2000 | 22:00 26/06",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
@@ -250,6 +222,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/59444581.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Uruguay vs Tay Ban Nha | 07:00 27/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cape Verde vs A Rap Saudi | 07:00 27/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9877c66299c5b98d81fed12827d87e4b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
