@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:51 27/06/2026",
+    "last_updated": "03:01 27/06/2026",
     "groups": [
         {
             "id": "live",
@@ -25,7 +25,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
