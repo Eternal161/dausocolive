@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "16:51 26/06/2026",
+    "last_updated": "17:01 26/06/2026",
     "groups": [
         {
             "id": "live",
@@ -92,6 +92,34 @@
                     ]
                 },
                 {
+                    "name": "Brisbane Strikers vs Ipswich | 17:30 26/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/dd862973fbf229b051221b037f67a27c.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "St Albans vs Melbourne City Npl | 17:30 26/06",
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80",
@@ -138,34 +166,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Brisbane Strikers vs Ipswich | 17:30 26/06",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/dd862973fbf229b051221b037f67a27c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
