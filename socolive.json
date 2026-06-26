@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:51 26/06/2026",
+    "last_updated": "18:01 26/06/2026",
     "groups": [
         {
             "id": "live",
@@ -250,34 +250,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fk Taraz vs Shakhtar Karagandy | 20:00 26/06",
-                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/54abe7b7c8ee579989d36621d28d96f0.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
