@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:01 26/06/2026",
+    "last_updated": "17:11 26/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Sydney Youth vs Sydney Utd | 16:30 26/06",
-                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/6fb81e8272c1a862f2afe6e9858391af.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Heidelberg United vs Oakleigh Cannons | 16:30 26/06",
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
@@ -64,6 +36,34 @@
                     ]
                 },
                 {
+                    "name": "Sydney Youth vs Sydney Utd | 16:30 26/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6fb81e8272c1a862f2afe6e9858391af.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Croydon Kings vs Adelaide U21 | 17:00 26/06",
                     "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/e2db873a2db4430e0baaef0722465dd3.png!w80",
@@ -82,34 +82,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Brisbane Strikers vs Ipswich | 17:30 26/06",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/dd862973fbf229b051221b037f67a27c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
@@ -166,6 +138,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brisbane Strikers vs Ipswich | 17:30 26/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f1f3a4f8b4282307b442bba5bad12a20.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/dd862973fbf229b051221b037f67a27c.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
