@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:31 26/06/2026",
+    "last_updated": "22:41 26/06/2026",
     "groups": [
         {
             "id": "live",
@@ -14,7 +14,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -23,7 +23,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -162,6 +166,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Senegal vs Iraq | 02:00 27/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/863907225a3fb211eaa3afae27572869.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cc40d06ff0a16a793d066dbfa2917bab.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gremio Novorizontin vs Vila Nova | 05:00 27/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
