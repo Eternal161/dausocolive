@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "14:51 27/06/2026",
+    "last_updated": "15:01 27/06/2026",
     "groups": [
         {
             "id": "live",
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Peninsula Power vs Brisbane U21 | 13:00 27/06",
-                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1fb0f48eaeeab5946deb0073f4163eac.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8bf0a8154cddf3b29ec15f74f864aebd.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
@@ -222,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Henan Songshan Longmen vs Shanghai Port | 18:35 27/06",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
