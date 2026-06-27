@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:31 27/06/2026",
+    "last_updated": "07:41 27/06/2026",
     "groups": [
         {
             "id": "live",
@@ -54,6 +54,146 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ai Cap vs Iran | 10:00 27/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "New Zealand vs Bi | 10:00 27/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Peninsula Power vs Brisbane U21 | 13:00 27/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.gvapi.cc/football/team/1fb0f48eaeeab5946deb0073f4163eac.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8bf0a8154cddf3b29ec15f74f864aebd.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dandenong Thunder vs Hume City | 14:00 27/06",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/21b95f24eea9500e1147ed57a68a3ff8.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Siheung City vs Jeonbuk Hyundai Motors Ii | 14:00 27/06",
+                    "tournament": "Giải K3 Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/b0cba801d31e0086325dc1bd81639be8.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ea6ca056be6e7e9b9a746a9cdefedb01.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
