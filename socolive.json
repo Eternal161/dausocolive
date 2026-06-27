@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:01 27/06/2026",
+    "last_updated": "22:11 27/06/2026",
     "groups": [
         {
             "id": "live",
@@ -166,90 +166,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ac Oulu vs Lahti | 01:00 28/06",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/348fa7d49029584354427690fe88f874.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Criciuma vs Sao Bernardo | 02:00 28/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1105c0c62d761d64b6f4c3e34f460278.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Croatia vs Ghana | 04:00 28/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/75800f73fa80f935216b8cfbedf77bfa.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
