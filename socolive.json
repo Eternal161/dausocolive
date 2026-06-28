@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "10:31 28/06/2026",
+    "last_updated": "10:41 28/06/2026",
     "groups": [
         {
             "id": "live",
@@ -42,7 +42,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -51,7 +51,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -66,7 +70,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/c074c4be85fe61509822008face2ef08.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -75,7 +79,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
