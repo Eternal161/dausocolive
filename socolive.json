@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:31 28/06/2026",
+    "last_updated": "22:41 28/06/2026",
     "groups": [
         {
             "id": "live",
@@ -176,6 +176,34 @@
                     ]
                 },
                 {
+                    "name": "Wales U19 vs Tay Ban Nha U19 | 00:00 29/06",
+                    "tournament": "Euro U19",
+                    "logo_nha": "https://img.gvapi.cc/football/team/dc7d0b99422eae4c9ab4d1f02f8da990.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.paznhl.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Nam Phi vs Canada | 02:00 29/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
                     "logo_nha": "https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
@@ -224,30 +252,6 @@
                                                     "url": "https://live05.paznhl.app/live/99121525.m3u8"
                                                 }
                                             ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fortaleza vs Sport Club Recife Pe | 04:30 29/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
                                         }
                                     ]
                                 }
