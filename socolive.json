@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "16:41 28/06/2026",
+    "last_updated": "16:51 28/06/2026",
     "groups": [
         {
             "id": "live",
@@ -250,6 +250,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/19919577.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fk Isloch Minsk vs Belshina | 22:30 28/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/aed0f0a3abd1cb4e732b2135a575f227.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cad90931c9692e3f23ac7d65092401cc.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
