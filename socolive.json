@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "11:51 28/06/2026",
+    "last_updated": "12:01 28/06/2026",
     "groups": [
         {
             "id": "live",
@@ -194,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ostrowitz vs Dinamo Minsk 2 | 20:00 28/06",
+                    "tournament": "Giải hạng Hai Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/86533cc9d630918f58b7166d3ba9ea88.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e9626addec90806fa6d8b291155f8d1e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
