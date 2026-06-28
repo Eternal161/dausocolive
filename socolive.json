@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "21:51 28/06/2026",
+    "last_updated": "22:01 28/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Ostrowitz vs Dinamo Minsk 2 | 20:00 28/06",
-                    "tournament": "Giải hạng Hai Belarus",
-                    "logo_nha": "https://img.gvapi.cc/football/team/86533cc9d630918f58b7166d3ba9ea88.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e9626addec90806fa6d8b291155f8d1e.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Zhenis vs Fc Astana | 21:00 28/06",
                     "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
@@ -53,7 +25,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
@@ -81,7 +53,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/19919577.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
@@ -109,7 +81,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -137,7 +109,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -165,7 +137,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/82054853.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
@@ -193,7 +165,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
@@ -221,7 +193,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -249,7 +221,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fortaleza vs Sport Club Recife Pe | 04:30 29/06",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.paznhl.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
