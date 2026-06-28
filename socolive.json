@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "14:51 28/06/2026",
+    "last_updated": "15:01 28/06/2026",
     "groups": [
         {
             "id": "live",
@@ -222,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Borisov Bate 2 vs Energetik Bgu | 22:00 28/06",
+                    "tournament": "Giải hạng Hai Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ad91a51a649604ef81f69462d4bd8e2f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a498155dccb9e11f012d3527b2475fe2.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
