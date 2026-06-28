@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 # ==========================================
 # CONFIG COLATV (SOCOLIVE)
 # ==========================================
-TARGET_URL = "https://xoilaclinkwc2026.tv/"
+TARGET_URL = "https://colatv60.live"
 LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY ĐỂ TRÁNH QUÁ TẢI CHO BOT
 
 def lay_m3u8(page, url_tran):
