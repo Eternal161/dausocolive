@@ -1,12 +1,40 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:31 28/06/2026",
+    "last_updated": "07:41 28/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "Colombia vs Bo Dao Nha | 06:30 28/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Dr Congo vs Uzbekistan | 06:30 28/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
@@ -36,10 +64,38 @@
                     ]
                 },
                 {
-                    "name": "Colombia vs Bo Dao Nha | 06:30 28/06",
+                    "name": "Algeria vs Ao | 09:00 28/06",
                     "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jordan vs Argentina | 09:00 28/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -64,10 +120,10 @@
                     ]
                 },
                 {
-                    "name": "Algeria vs Ao | 09:00 28/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
+                    "name": "Marconi Stallions vs Blacktown City | 12:00 28/06",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/e1605aa2375e5aa780e43e89a0f1b080.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c074c4be85fe61509822008face2ef08.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -81,7 +137,63 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
+                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "South Melbourne vs Green Gully | 12:30 28/06",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Queensland Lions Sc vs Wynnum Wolves | 14:00 28/06",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
