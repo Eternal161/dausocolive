@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "15:51 28/06/2026",
+    "last_updated": "16:01 28/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Queensland Lions Sc vs Wynnum Wolves | 14:00 28/06",
-                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ulaangom City Fc vs Khovd | 15:00 28/06",
                     "tournament": "Giải ngoại hạng Mông Cổ",
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dnepr Mogilev vs Neman Grodno | 22:00 28/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/48159bec0e62ef337e005cc067d75ae0.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
