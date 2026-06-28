@@ -1,68 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:31 29/06/2026",
+    "last_updated": "06:41 29/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Fortaleza vs Sport Club Recife Pe | 04:30 29/06",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "U De Chile vs Union San Felipe | 04:30 29/06",
-                    "tournament": "Cúp Chile",
-                    "logo_nha": "https://img.gvapi.cc/football/team/731ea9512aeffe6fd2896bc1a7a60662.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/4c5fe028aae52db80e84fe84caf93a54.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Carolina Core vs Huntsville | 05:00 29/06",
                     "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
@@ -222,6 +166,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.paznhl.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Tsirang vs Fc Paro | 17:00 29/06",
+                    "tournament": "Giải bóng đá hàng đầu Bhutan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/1d938529554163e4502a5948a7b78e0f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ae37aedbd9647e80fe75821a00a31516.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.paznhl.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sagesse Sc vs Tadamon | 19:30 29/06",
+                    "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ca1261bd7071088e4cf292fd03be814b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1da29817ab4e7c4880d8b457cf2db363.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.paznhl.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
