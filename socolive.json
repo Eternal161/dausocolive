@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:11 28/06/2026",
+    "last_updated": "19:21 28/06/2026",
     "groups": [
         {
             "id": "live",
@@ -250,6 +250,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La Serena vs Cobreloa | 23:30 28/06",
+                    "tournament": "Cúp Chile",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4217fbd9136652e934cb9e88cc462eef.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/dfef59103668b52788e357e8ac07e9ef.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
