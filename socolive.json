@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "20:51 28/06/2026",
+    "last_updated": "21:01 28/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Heilongjiang Ice City vs Wuxi Wugou | 19:00 28/06",
-                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b34589daf40274c74efdf970f5f41672.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ostrowitz vs Dinamo Minsk 2 | 20:00 28/06",
                     "tournament": "Giải hạng Hai Belarus",
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nam Phi vs Canada | 02:00 29/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
