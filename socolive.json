@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "21:21 28/06/2026",
+    "last_updated": "21:31 28/06/2026",
     "groups": [
         {
             "id": "live",
@@ -40,62 +40,6 @@
                     "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
                     "logo_nha": "https://img.gvapi.cc/football/team/16ccfd6042d1f791302c69eec646e081.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/5c481f41c0a1d43dcb508650562d840f.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Breidablik vs Vikingur Reykjavik | 21:00 28/06",
-                    "tournament": "Cúp Iceland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/631e4cfa5f1d5bee45618fb97fc3f0b4.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/7d980021e4160be27df269c331beab96.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Borisov Bate 2 vs Energetik Bgu | 22:00 28/06",
-                    "tournament": "Giải hạng Hai Belarus",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ad91a51a649604ef81f69462d4bd8e2f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a498155dccb9e11f012d3527b2475fe2.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -250,6 +194,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nam Phi vs Canada | 02:00 29/06",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ohiggins vs Deportes Recoleta | 04:00 29/06",
+                    "tournament": "Cúp Chile",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5b7e2bd8e447df96759bba3e225960ea.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/842add410d03457768ca0dfb265906cf.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
