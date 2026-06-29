@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:21 30/06/2026",
+    "last_updated": "04:31 30/06/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.paznhl.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Akranes vs Fram Reykjavik | 02:15 30/06",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9ea788376ee5eb240491893729802749.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/acb0d80017e970d0e7f20528091e5361.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.paznhl.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Logan Lightning vs Redlands United | 17:30 30/06",
+                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fe2e6a095e8db9a20e494635a93f579e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5e2d4f203eeb88f0d994b4db76cf3926.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.paznhl.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
