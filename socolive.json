@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:01 29/06/2026",
+    "last_updated": "22:11 29/06/2026",
     "groups": [
         {
             "id": "live",
@@ -166,90 +166,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.paznhl.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Duc vs Paraguay | 03:30 30/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/490f78c68dc2744b4d16b399702301a8.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "U Espanola vs Colo Colo | 06:30 30/06",
-                    "tournament": "Cúp Chile",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f2079480b8d2572df91b87cc61493326.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b641a84c2286632196e3cb0614a41fc2.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Netherlands vs Morocco | 08:00 30/06",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/490f78c68dc2744b4d16b399702301a8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
