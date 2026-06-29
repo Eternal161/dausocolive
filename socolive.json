@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:11 29/06/2026",
+    "last_updated": "18:21 29/06/2026",
     "groups": [
         {
             "id": "live",
@@ -238,7 +238,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/acb0d80017e970d0e7f20528091e5361.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -247,7 +247,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.paznhl.app/live/82054853.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
