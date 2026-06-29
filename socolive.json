@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "15:21 29/06/2026",
+    "last_updated": "15:31 29/06/2026",
     "groups": [
         {
             "id": "live",
@@ -42,7 +42,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/ae37aedbd9647e80fe75821a00a31516.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -51,11 +51,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/90865415.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -98,7 +94,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/78259d142e5d103bec01afb118c360de.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -107,11 +103,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/02456966.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -126,7 +118,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -135,11 +127,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/16226575.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -154,7 +142,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -163,11 +151,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/90865415.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -193,7 +177,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.paznhl.app/live/59444581.m3u8"
+                                                    "url": "https://live05.paznhl.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
@@ -210,7 +194,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/490f78c68dc2744b4d16b399702301a8.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -219,11 +203,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/08552895.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -238,7 +218,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -247,11 +227,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/19919577.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
