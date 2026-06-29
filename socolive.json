@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "21:31 29/06/2026",
+    "last_updated": "21:41 29/06/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.paznhl.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Sagesse Sc vs Tadamon | 19:30 29/06",
-                    "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ca1261bd7071088e4cf292fd03be814b.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1da29817ab4e7c4880d8b457cf2db363.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.paznhl.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "U Espanola vs Colo Colo | 06:30 30/06",
+                    "tournament": "Cúp Chile",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f2079480b8d2572df91b87cc61493326.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b641a84c2286632196e3cb0614a41fc2.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.paznhl.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
