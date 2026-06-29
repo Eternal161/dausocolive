@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:11 29/06/2026",
+    "last_updated": "07:21 29/06/2026",
     "groups": [
         {
             "id": "live",
@@ -26,6 +26,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.paznhl.app/live/16226575.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Minnesota United B vs Tacoma Defiance | 07:15 29/06",
+                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/0dea9d20b78bf22e53d6f5cdb94d2e5b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.paznhl.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
@@ -148,7 +176,7 @@
                     ]
                 },
                 {
-                    "name": "Nejmeh Sc vs Dua Xe Beirut | 20:00 29/06",
+                    "name": "Nejmeh Sc vs Racing | 20:00 29/06",
                     "tournament": "Giải Bóng đá Ngoại hạng Lebanon",
                     "logo_nha": "https://img.gvapi.cc/football/team/d07d05c050874c9777e871cbfc7d6414.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/78259d142e5d103bec01afb118c360de.png!w80",
@@ -194,34 +222,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.paznhl.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Jelgava vs Grobina | 22:00 29/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
