@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:21 29/06/2026",
+    "last_updated": "19:31 29/06/2026",
     "groups": [
         {
             "id": "live",
@@ -98,7 +98,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -107,11 +107,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/90865415.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -154,7 +150,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/490f78c68dc2744b4d16b399702301a8.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -163,11 +159,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/08552895.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -210,7 +202,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/acb0d80017e970d0e7f20528091e5361.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -219,11 +211,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/82054853.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -238,7 +226,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/490f78c68dc2744b4d16b399702301a8.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -247,11 +235,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.paznhl.app/live/08552895.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
