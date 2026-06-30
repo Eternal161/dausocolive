@@ -1,12 +1,40 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:41 30/06/2026",
+    "last_updated": "23:51 30/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "Bo Bien Nga vs Na Uy | 00:00 01/07",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Rigas Futbola Skola vs Bfc Daugavpils | 22:00 30/06",
                     "tournament": "Giải bóng đá Cao cấp Latvia",
@@ -92,34 +120,6 @@
                     ]
                 },
                 {
-                    "name": "Bo Bien Nga vs Na Uy | 00:00 01/07",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Ba Lan U19 Nu vs Duc U19 Nu | 01:00 01/07",
                     "tournament": "Giải vô địch U19 Nữ Châu Âu",
                     "logo_nha": "https://img.gvapi.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80",
@@ -165,63 +165,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.koepgd.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Botafogo vs Crb | 06:00 01/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/96413c5ef284eec6c6e0d76c87732471.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Mexico vs Ecuador | 08:00 01/07",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/02456966.m3u8"
+                                                    "url": "https://live05.koepgd.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
