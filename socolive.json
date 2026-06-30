@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:21 30/06/2026",
+    "last_updated": "18:31 30/06/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Juventus Brunswick vs Heidelberg United | 16:30 30/06",
-                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/2f863cf32a3db0c0eef9647572583d7c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/5cae62255ca170949672a7ce8999b094.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Sd Raiders Fc vs Sydney Youth | 17:00 30/06",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
@@ -54,6 +26,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Juventus Brunswick vs Heidelberg United | 16:30 30/06",
+                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/2f863cf32a3db0c0eef9647572583d7c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5cae62255ca170949672a7ce8999b094.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
