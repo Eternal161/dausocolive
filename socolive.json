@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:01 30/06/2026",
+    "last_updated": "18:11 30/06/2026",
     "groups": [
         {
             "id": "live",
@@ -137,7 +137,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.paznhl.app/live/02456966.m3u8"
+                                                    "url": "https://live05.koepgd.app/live/02456966.m3u8"
                                                 }
                                             ]
                                         }
@@ -165,7 +165,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.paznhl.app/live/99121525.m3u8"
+                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -193,7 +193,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.paznhl.app/live/19919577.m3u8"
+                                                    "url": "https://live05.koepgd.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
