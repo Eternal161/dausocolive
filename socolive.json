@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:11 01/07/2026",
+    "last_updated": "02:21 01/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Bo Bien Nga vs Na Uy | 00:00 01/07",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ba Lan U19 Nu vs Duc U19 Nu | 01:00 01/07",
                     "tournament": "Giải vô địch U19 Nữ Châu Âu",
@@ -194,6 +166,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Newcastle Olympic vs Charlestown Azzurri | 17:00 01/07",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.gvapi.cc/football/team/aa5f7b825709e21a96d40dea9f611882.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a1cc5080bbfe336ecebdddb49d62f066.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/07808742.m3u8"
                                                 }
                                             ]
                                         }
