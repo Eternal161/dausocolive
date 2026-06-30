@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:31 01/07/2026",
+    "last_updated": "01:41 01/07/2026",
     "groups": [
         {
             "id": "live",
@@ -194,90 +194,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Monaro Panthers vs Thanh Pho Queanbeyan | 16:30 01/07",
-                    "tournament": "Giải bóng đá Hạng nhất Thủ đô Canberra của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c71f1b5e71c63b84bf7bad3e8c519198.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a0ef1c660a091cc07eb2ca99c30d53eb.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Newcastle Olympic vs Charlestown Azzurri | 17:00 01/07",
-                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
-                    "logo_nha": "https://img.gvapi.cc/football/team/aa5f7b825709e21a96d40dea9f611882.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a1cc5080bbfe336ecebdddb49d62f066.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/07808742.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Khovd vs Khoromkhon | 18:00 01/07",
-                    "tournament": "Giải ngoại hạng Mông Cổ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c8550c96c10f3e6cc1e5525c35fdb220.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d791c6fe5a95188fb27f677dbf19388e.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
