@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:01 01/07/2026",
+    "last_updated": "00:21 01/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,62 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Rigas Futbola Skola vs Bfc Daugavpils | 22:00 30/06",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/83a9f5e1089098a8df85932d23f74191.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/02456966.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Vaasa Vps vs Inter Turku | 22:00 30/06",
-                    "tournament": "Cúp bóng đá Phần Lan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
@@ -222,6 +166,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/02456966.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Khovd Western vs Ulaangom City Fc | 15:00 01/07",
+                    "tournament": "Giải ngoại hạng Mông Cổ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9ae36debba0abd59c01de2e60fc42648.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cc0f42f7eec708cb429156b1becb3f93.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
