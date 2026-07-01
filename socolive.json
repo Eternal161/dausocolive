@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "15:51 01/07/2026",
+    "last_updated": "16:01 01/07/2026",
     "groups": [
         {
             "id": "live",
@@ -218,6 +218,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Slavia Mozyr vs Ml Vitebsk | 00:30 02/07",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5d2cb6fdc8934f80107352ea5efb7e64.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8888bb52a971c98b7518618bf61e7ad2.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
