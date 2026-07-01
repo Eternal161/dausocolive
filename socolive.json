@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "16:51 01/07/2026",
+    "last_updated": "17:01 01/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Khovd Western vs Ulaangom City Fc | 15:00 01/07",
-                    "tournament": "Giải ngoại hạng Mông Cổ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9ae36debba0abd59c01de2e60fc42648.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/cc0f42f7eec708cb429156b1becb3f93.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Newcastle Olympic vs Charlestown Azzurri | 16:30 01/07",
                     "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "U De Concepcion vs Nublense | 02:00 02/07",
+                    "tournament": "Cúp Chile",
+                    "logo_nha": "https://img.gvapi.cc/football/team/acd383efbc225b6eb9eaf03b7bd37fbf.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1cc8fde7becd389f88e35e0b498202bd.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
