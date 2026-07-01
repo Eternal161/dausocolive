@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "05:11 02/07/2026",
+    "last_updated": "05:21 02/07/2026",
     "groups": [
         {
             "id": "live",
@@ -166,62 +166,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "West Seattle Junction vs Bigfoot | 09:30 02/07",
-                    "tournament": "Giải USL League Two",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f980dff5cecdafbbd2a952688178ab9f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3f25e2504ba8711ee1e2371331071714.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Universitaea Cluj vs Vojvodina Novi Sad | 16:00 02/07",
-                    "tournament": "Giao hữu các CLB quốc tế",
-                    "logo_nha": "https://img.gvapi.cc/football/team/74c37787bcf9656e1372913981f69859.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/40ce8b99981bc3199784a1f6d3a7b26c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
