@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "08:11 01/07/2026",
+    "last_updated": "08:21 01/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Botafogo vs Crb | 06:00 01/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/96413c5ef284eec6c6e0d76c87732471.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -92,13 +64,13 @@
                     ]
                 },
                 {
-                    "name": "Monaro Panthers vs Thanh Pho Queanbeyan | 16:30 01/07",
+                    "name": "Monaro Panthers vs Queanbeyan City | 16:30 01/07",
                     "tournament": "Giải bóng đá Hạng nhất Thủ đô Canberra của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/c71f1b5e71c63b84bf7bad3e8c519198.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/a0ef1c660a091cc07eb2ca99c30d53eb.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -107,11 +79,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/87547578.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -194,6 +162,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tukums 2000 vs Super Nova | 22:00 01/07",
+                    "tournament": "Giải bóng đá Cao cấp Latvia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/6ecfe734e6971ff83a4a3808b669d059.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
