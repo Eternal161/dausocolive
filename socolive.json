@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "21:51 01/07/2026",
+    "last_updated": "22:01 01/07/2026",
     "groups": [
         {
             "id": "live",
@@ -120,34 +120,6 @@
                     ]
                 },
                 {
-                    "name": "Cd Obrero vs Deportivo Nepytyvo | 01:30 02/07",
-                    "tournament": "Cúp Paraguay",
-                    "logo_nha": "https://img.gvapi.cc/football/team/53487f2c1094880f30c0fbdf15c325ec.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/79e88f42bc7e85337b5fdc6130766a97.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "U De Concepcion vs Nublense | 02:00 02/07",
                     "tournament": "Cúp Chile",
                     "logo_nha": "https://img.gvapi.cc/football/team/acd383efbc225b6eb9eaf03b7bd37fbf.png!w80",
@@ -204,30 +176,6 @@
                     ]
                 },
                 {
-                    "name": "Ldu Quito vs Orense | 05:00 02/07",
-                    "tournament": "Giải vô địch quốc gia Ecuador",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8b048da33a06a2257101bb110b81e290.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/6aee0e3c4adf0a133ff26dd20c7ea29f.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Deportes Limache vs Coquimbo Unido | 05:00 02/07",
                     "tournament": "Cúp Chile",
                     "logo_nha": "https://img.gvapi.cc/football/team/cac9460a93766d0f63c33b15003d9572.png!w80",
@@ -246,6 +194,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/07808742.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cobresal vs La Serena | 05:00 02/07",
+                    "tournament": "Cúp Chile",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a5e650365ee5c40efb649bf12015eb6d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/4217fbd9136652e934cb9e88cc462eef.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "My vs Bosnia Herzegovina | 07:00 02/07",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
