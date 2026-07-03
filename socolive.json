@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:31 04/07/2026",
+    "last_updated": "00:41 04/07/2026",
     "groups": [
         {
             "id": "live",
@@ -36,34 +36,6 @@
                     ]
                 },
                 {
-                    "name": "Japs vs Sjk Akatemia | 22:30 03/07",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/750db83b65bc2cae626ae6324b364a1f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1673aae6c71fb628e98a6b2306ae14d6.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Sirius vs Mjallby | 00:00 04/07",
                     "tournament": "Giải Vô địch Quốc gia Thụy Điển",
                     "logo_nha": "https://img.gvapi.cc/football/team/82a1ff2fa56077a25595288406888007.png!w80",
@@ -82,6 +54,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hafnarfjordur vs Stjarnan Gardabaer | 02:15 04/07",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
+                    "logo_nha": "https://img.gvapi.cc/football/team/496e10acaf5e0d53cced9c84ec17da73.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/6c69fc2cbf514787c61e2b9e5e55674b.jpg!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
