@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:11 03/07/2026",
+    "last_updated": "19:21 03/07/2026",
     "groups": [
         {
             "id": "live",
@@ -166,6 +166,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Naftan Novopolock vs Dinamo Brest | 20:00 03/07",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/64ce89d02cc5898473912ceb88178b99.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d46c60ef33fd6351d4e0868d7231c3cb.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/16226575.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Astana vs Zhenis | 21:00 03/07",
+                    "tournament": "Giải Bóng đá Ngoại hạng Kazakhstan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5c481f41c0a1d43dcb508650562d840f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/16ccfd6042d1f791302c69eec646e081.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ktp Kotka vs Jippo | 22:30 03/07",
+                    "tournament": "Giải hạng 2 Phần Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8cb20ccb4136279d11c5a40c3015a561.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f2a0ad7b962110a5c535b224ab055d86.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
