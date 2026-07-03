@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:31 03/07/2026",
+    "last_updated": "23:41 03/07/2026",
     "groups": [
         {
             "id": "live",
@@ -166,6 +166,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Loudoun United vs Sporting Jax | 06:30 04/07",
+                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/efb322615dcf7cb51dc6c75a79d38d32.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/35fa04bcfe9565d2d68cfe397075bf07.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Colombia vs Ghana | 08:30 04/07",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/75800f73fa80f935216b8cfbedf77bfa.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
