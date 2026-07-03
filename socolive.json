@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "14:31 03/07/2026",
+    "last_updated": "14:41 03/07/2026",
     "groups": [
         {
             "id": "live",
@@ -166,90 +166,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Han Quoc vs Dai Bac Trung Hoa | 17:30 03/07",
-                    "tournament": "Vòng loại World Cup khu vực Châu Á",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/5ad67a3364c875a94bc0da54d49ade07.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Adelaide Comets Fc vs Croydon Kings | 18:00 03/07",
-                    "tournament": "Giải bóng đá Hạng nhất Miền Nam của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/861a7e12ebda4bd651b701e069cde5c5.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e2db873a2db4430e0baaef0722465dd3.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Khangarid Klub vs Fc Ulaanbaatar | 18:00 03/07",
-                    "tournament": "Giải ngoại hạng Mông Cổ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/124cf7822c597b8b3f19b5b77dfd1953.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
