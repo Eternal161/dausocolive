@@ -1,17 +1,17 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "16:21 03/07/2026",
+    "last_updated": "16:31 03/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "New Zealand vs Philippines | 14:00 03/07",
-                    "tournament": "Vòng loại World Cup khu vực Châu Á",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/36b43a11e800e4a319f3753945fc1944.jpg!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/364c1c7ca4572cd8fb2591915ed48db1.png!w80",
+                    "name": "Edgeworth Eagles vs Kahibah Fc | 16:00 03/07",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.gvapi.cc/football/team/e2b97426d7625e5cd01538ee80f50d2a.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1bb4601b175d145f9490a4f4f7e602b7.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -25,7 +25,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.koepgd.app/live/90865415.m3u8"
+                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -64,38 +64,10 @@
                     ]
                 },
                 {
-                    "name": "Edgeworth Eagles vs Kahibah Fc | 16:00 03/07",
-                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e2b97426d7625e5cd01538ee80f50d2a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1bb4601b175d145f9490a4f4f7e602b7.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Wynnum Wolves vs Rochedale Rovers | 16:30 03/07",
-                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/030a377635b3ac3fe5cbb49221594110.png!w80",
+                    "name": "New Zealand vs Philippines | 14:00 03/07",
+                    "tournament": "Vòng loại World Cup khu vực Châu Á",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/36b43a11e800e4a319f3753945fc1944.jpg!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/364c1c7ca4572cd8fb2591915ed48db1.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -138,6 +110,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wynnum Wolves vs Rochedale Rovers | 16:30 03/07",
+                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
+                    "logo_nha": "https://img.gvapi.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/030a377635b3ac3fe5cbb49221594110.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
