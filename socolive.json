@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:21 03/07/2026",
+    "last_updated": "07:31 03/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Huachipato vs D Concepcion | 05:00 03/07",
-                    "tournament": "Cúp Chile",
-                    "logo_nha": "https://img.gvapi.cc/football/team/251e701387b629039e7d035f2f18e744.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a14751ea68523dd03173b441cf5da14d.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -222,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Green Gully vs Bentleigh Greens | 16:30 03/07",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
