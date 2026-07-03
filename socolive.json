@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:21 04/07/2026",
+    "last_updated": "00:31 04/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ktp Kotka vs Jippo | 22:30 03/07",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8cb20ccb4136279d11c5a40c3015a561.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f2a0ad7b962110a5c535b224ab055d86.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -110,62 +82,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hafnarfjordur vs Stjarnan Gardabaer | 02:15 04/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/496e10acaf5e0d53cced9c84ec17da73.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/6c69fc2cbf514787c61e2b9e5e55674b.jpg!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Argentina vs Cape Verde | 05:00 04/07",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/9877c66299c5b98d81fed12827d87e4b.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
