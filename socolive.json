@@ -1,14 +1,14 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:21 05/07/2026",
+    "last_updated": "06:31 05/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Pittsburgh Riverhounds vs Brooklyn Fc | 06:00 05/07",
+                    "name": "Pittsburgh Riverhounds vs Brooklyn Fc | 07:00 05/07",
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
                     "logo_nha": "https://img.gvapi.cc/football/team/602255b6d0275cd1008b99c59cd10c87.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/362e93771930fdf18e2fbfbb2a991e1c.png!w80",
