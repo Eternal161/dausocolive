@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "05:41 05/07/2026",
+    "last_updated": "05:51 05/07/2026",
     "groups": [
         {
             "id": "live",
@@ -36,34 +36,6 @@
                     ]
                 },
                 {
-                    "name": "Criciuma vs Clb Sport Club Recife Pe | 02:00 05/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1105c0c62d761d64b6f4c3e34f460278.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Pittsburgh Riverhounds vs Brooklyn Fc | 06:00 05/07",
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
                     "logo_nha": "https://img.gvapi.cc/football/team/602255b6d0275cd1008b99c59cd10c87.png!w80",
@@ -82,6 +54,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Goias vs Ceara | 06:00 05/07",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/86cb19586d66a7d65de64a3bad288c1f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
