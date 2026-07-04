@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:41 05/07/2026",
+    "last_updated": "02:51 05/07/2026",
     "groups": [
         {
             "id": "live",
@@ -152,118 +152,6 @@
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
                     "logo_nha": "https://img.gvapi.cc/football/team/8f4c8b7e2cd333ab2e32d65bcbd3c7ff.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/78febf9c2b8c7c5bff95797b00c90459.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "New Mexico United vs Oakland Roots | 08:30 05/07",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/bced686ea9d08190520be6eaaa6edf0b.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/0e877d710876c7518aed3d5b2c721aab.jpg!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Las Vegas Lights vs El Paso | 09:30 05/07",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/10f9058c0b9e30baddd944056e5416b3.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/327ba784c0f6eb8f2e6ae4494b523d70.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Gold Coast United vs Magic United Tfa | 12:00 05/07",
-                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f00d005ccfbd4f7c15df6e374cd02727.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8522ff180fb732ae561a83c85f24d3fb.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Marconi Stallions vs St George Saints | 12:00 05/07",
-                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e1605aa2375e5aa780e43e89a0f1b080.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8467022e5f2d8204773bddb6cb7d8182.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
