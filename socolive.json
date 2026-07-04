@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:01 05/07/2026",
+    "last_updated": "01:11 05/07/2026",
     "groups": [
         {
             "id": "live",
@@ -64,37 +64,13 @@
                     ]
                 },
                 {
-                    "name": "Union San Felipe vs Union La Calera | 02:00 05/07",
-                    "tournament": "Cúp Chile",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4c5fe028aae52db80e84fe84caf93a54.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f9b2e922f6ca83c14def96049ccbfe42.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Criciuma vs Clb Sport Club Recife Pe | 02:00 05/07",
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
                     "logo_nha": "https://img.gvapi.cc/football/team/1105c0c62d761d64b6f4c3e34f460278.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -103,7 +79,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -118,7 +98,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -127,7 +107,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/08552895.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -142,7 +126,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/362e93771930fdf18e2fbfbb2a991e1c.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -151,7 +135,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -166,7 +154,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -175,7 +163,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -190,7 +182,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/78febf9c2b8c7c5bff95797b00c90459.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa live"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -199,7 +191,39 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/16226575.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "New Mexico United vs Oakland Roots | 08:30 05/07",
+                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/bced686ea9d08190520be6eaaa6edf0b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/0e877d710876c7518aed3d5b2c721aab.jpg!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
