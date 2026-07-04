@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "03:51 05/07/2026",
+    "last_updated": "04:01 05/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Gremio Novorizontin vs Atletico Clube Goianiense | 02:00 05/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -110,62 +82,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Goias vs Ceara | 06:00 05/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/86cb19586d66a7d65de64a3bad288c1f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Louisville City Fc vs Hartford Athletic | 07:00 05/07",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8f4c8b7e2cd333ab2e32d65bcbd3c7ff.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/78febf9c2b8c7c5bff95797b00c90459.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
