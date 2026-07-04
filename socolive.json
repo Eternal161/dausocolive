@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "15:41 04/07/2026",
+    "last_updated": "15:51 04/07/2026",
     "groups": [
         {
             "id": "live",
@@ -138,90 +138,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Daejeon vs Bucheon Fc 1995 | 17:30 04/07",
-                    "tournament": "Giải K1 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fc Anyang vs Pohang Steelers | 17:30 04/07",
-                    "tournament": "Giải K1 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Jeonbuk Hyundai Motors vs Gangwon | 17:30 04/07",
-                    "tournament": "Giải K1 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
