@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "20:01 04/07/2026",
+    "last_updated": "20:11 04/07/2026",
     "groups": [
         {
             "id": "live",
@@ -166,90 +166,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Halmstad vs Vasteras Sk | 20:00 04/07",
-                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/d84614f172a18a18947a7567a9625b45.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/cbc045c254f3dbcbf393f756d94b3feb.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Degerfors If vs Malmo Ff | 20:00 04/07",
-                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3935aabcfa443b64677197fdb20af7cd.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/339c6acafe9c245dc5d8627c60528ca2.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tay Ban Nha U19 vs Duc U19 | 20:00 04/07",
-                    "tournament": "Euro U19",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
