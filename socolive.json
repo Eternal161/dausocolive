@@ -1,68 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:51 04/07/2026",
+    "last_updated": "23:01 04/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Jaro vs Ilves | 21:00 04/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f6526b5434c06d7a6da4a9193fdac95e.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Sjk vs Tps | 21:00 04/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1102270dc5201968f3eeffbc20da56bc.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f3aa37eff0023279c42b6e99eecc31d0.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Vaasa Vps vs Ifk Mariehamn | 22:00 04/07",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
@@ -222,34 +166,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Pittsburgh Riverhounds vs Brooklyn Fc | 06:00 05/07",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/602255b6d0275cd1008b99c59cd10c87.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/362e93771930fdf18e2fbfbb2a991e1c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
