@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:21 05/07/2026",
+    "last_updated": "19:31 05/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Gwangju Fc vs Ulsan Hyundai | 17:30 05/07",
-                    "tournament": "Giải K1 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/fe07fb888ebcb282192332cb8aed21b1.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Qingdao Hainiu Fc vs Chengdu Rongcheng | 18:00 05/07",
                     "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
@@ -54,62 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Seoul vs Incheon United | 17:30 05/07",
-                    "tournament": "Giải K1 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Gimcheon Sangmu Fc vs Jeju Utd | 17:30 05/07",
-                    "tournament": "Giải K1 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/2d2abe914435bb9b7140cf2154c50de9.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/87379114.m3u8"
                                                 }
                                             ]
                                         }
@@ -250,6 +166,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87379114.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ukraine U19 vs Y U19 | 22:00 05/07",
+                    "tournament": "Euro U19",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Belshina vs Baranovici | 22:00 05/07",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/cad90931c9692e3f23ac7d65092401cc.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/768a4ead9ed7624bd155fd176e46b8a4.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mikkelin vs Haka | 22:30 05/07",
+                    "tournament": "Giải hạng 2 Phần Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/08b6972bad44440ed3171b4bf63451ce.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/6792393a7bfaff902eafa5043dd89d40.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
