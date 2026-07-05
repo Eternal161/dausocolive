@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "12:11 05/07/2026",
+    "last_updated": "12:21 05/07/2026",
     "groups": [
         {
             "id": "live",
@@ -36,7 +36,7 @@
                     ]
                 },
                 {
-                    "name": "Marconi Stallions vs St George Saints | 12:00 05/07",
+                    "name": "Marconi Stallions vs St George Saints | 12:10 05/07",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/e1605aa2375e5aa780e43e89a0f1b080.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/8467022e5f2d8204773bddb6cb7d8182.png!w80",
