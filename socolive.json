@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "15:41 06/07/2026",
+    "last_updated": "15:51 06/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "New Zealand vs Guam Island | 14:00 06/07",
-                    "tournament": "Vòng loại World Cup khu vực Châu Á",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/36b43a11e800e4a319f3753945fc1944.jpg!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/3b2a423eccc22f12ee8d71e6793b897f.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vila Nova vs Sao Bernardo | 05:00 07/07",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
