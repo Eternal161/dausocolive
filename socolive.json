@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:41 07/07/2026",
+    "last_updated": "01:51 07/07/2026",
     "groups": [
         {
             "id": "live",
@@ -176,6 +176,30 @@
                     ]
                 },
                 {
+                    "name": "San Antonio Spurs vs Los Angeles Lakers | 06:30 07/07",
+                    "tournament": "Giải NBA Summer League",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "My vs Bi | 07:00 07/07",
                     "tournament": "Giải vô địch bóng đá thế giới",
                     "logo_nha": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
@@ -204,30 +228,6 @@
                     "tournament": "Giải NBA Summer League",
                     "logo_nha": "https://img.gvapi.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",
                     "logo_khach": "https://img.gvapi.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "San Antonio Spurs vs Los Angeles Lakers | 09:00 07/07",
-                    "tournament": "Giải NBA Summer League",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
