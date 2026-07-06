@@ -1,12 +1,36 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:11 07/07/2026",
+    "last_updated": "06:21 07/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "My vs Bi | 07:00 07/07",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Botafogo vs Avai | 05:00 07/07",
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
@@ -104,10 +128,10 @@
                     ]
                 },
                 {
-                    "name": "My vs Bi | 07:00 07/07",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+                    "name": "Utah Jazz vs Memphis Grizzlies | 08:00 07/07",
+                    "tournament": "Giải NBA Summer League",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -128,10 +152,10 @@
                     ]
                 },
                 {
-                    "name": "Utah Jazz vs Memphis Grizzlies | 08:00 07/07",
+                    "name": "Warriors Gold vs Miami Heat | 09:00 07/07",
                     "tournament": "Giải NBA Summer League",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/0fd9b74f8f558218d023b5e281d506dc.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -204,30 +228,6 @@
                     "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
                     "logo_nha": "https://img.gvapi.cc/football/team/a1cc5080bbfe336ecebdddb49d62f066.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/4d775084e58b983ddde3215469fa53f6.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Drukpa Fc vs Thimphu Fc | 19:00 07/07",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e2259792ea9fb29e137b0d074e27236c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
