@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "12:01 06/07/2026",
+    "last_updated": "12:11 06/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Av Alta vs Charlotte Independ | 10:00 06/07",
-                    "tournament": "USL League One",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a46dd63b946ae627c352a9400994e6be.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d3be245c5465ff63fd26c25f52fc65a4.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Fc Ulaanbaatar vs Deren Fc | 11:00 06/07",
                     "tournament": "Giải ngoại hạng Mông Cổ",
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hacken vs Djurgarden | 00:00 07/07",
+                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
+                    "logo_nha": "https://img.gvapi.cc/football/team/93920efdf720a6e94d3ab5e43ae3b504.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5d15445b5ebaaad062065f158f1d1fd8.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
