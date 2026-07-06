@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:11 06/07/2026",
+    "last_updated": "07:21 06/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Cincinnati Ii vs New York Red Bulls B | 05:00 06/07",
-                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b3d3c4686cfda0c027e46767e0a0a561.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/12cdc8883966d78ca99be7ae7f349333.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.koepgd.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
@@ -222,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.koepgd.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "New Zealand vs Guam Island | 14:00 06/07",
+                    "tournament": "Vòng loại World Cup khu vực Châu Á",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/36b43a11e800e4a319f3753945fc1944.jpg!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/3b2a423eccc22f12ee8d71e6793b897f.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.koepgd.app/live/82054853.m3u8"
                                                 }
                                             ]
                                         }
