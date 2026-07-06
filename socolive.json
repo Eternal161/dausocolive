@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "05:41 07/07/2026",
+    "last_updated": "05:51 07/07/2026",
     "groups": [
         {
             "id": "live",
@@ -60,30 +60,6 @@
                     "tournament": "Cúp Chile",
                     "logo_nha": "https://img.gvapi.cc/football/team/b641a84c2286632196e3cb0614a41fc2.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/842add410d03457768ca0dfb265906cf.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "D Concepcion vs Deportes Temuco | 06:30 07/07",
-                    "tournament": "Cúp Chile",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a14751ea68523dd03173b441cf5da14d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b82013a4bbea51d2902becf0a004a410.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -228,6 +204,30 @@
                     "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
                     "logo_nha": "https://img.gvapi.cc/football/team/a1cc5080bbfe336ecebdddb49d62f066.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/4d775084e58b983ddde3215469fa53f6.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drukpa Fc vs Thimphu Fc | 19:00 07/07",
+                    "tournament": "Giải bóng đá hàng đầu Bhutan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/e2259792ea9fb29e137b0d074e27236c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
