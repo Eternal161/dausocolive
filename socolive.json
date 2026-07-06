@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:51 07/07/2026",
+    "last_updated": "01:01 07/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Super Nova vs Ogre United | 23:00 06/07",
-                    "tournament": "Giải bóng đá Cao cấp Latvia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/6ecfe734e6971ff83a4a3808b669d059.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/c448d89be2d910901ba43cd76bde1267.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Brommapojkarna vs Gais | 00:00 07/07",
                     "tournament": "Giải Vô địch Quốc gia Thụy Điển",
@@ -228,6 +204,30 @@
                     "tournament": "Giải NBA Summer League",
                     "logo_nha": "https://img.gvapi.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",
                     "logo_khach": "https://img.gvapi.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "San Antonio Spurs vs Los Angeles Lakers | 09:00 07/07",
+                    "tournament": "Giải NBA Summer League",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
