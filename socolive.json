@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:21 06/07/2026",
+    "last_updated": "23:31 06/07/2026",
     "groups": [
         {
             "id": "live",
@@ -14,7 +14,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/c448d89be2d910901ba43cd76bde1267.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -23,11 +23,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/59444581.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -42,7 +38,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/abe34d42a932576163d32843f1e38e01.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -51,11 +47,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/87547578.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -70,7 +62,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/5d15445b5ebaaad062065f158f1d1fd8.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -79,11 +71,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/16226575.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -98,7 +86,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -107,11 +95,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/78905744.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -126,7 +110,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/d790c903117459a4afb308ad63d353f9.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -135,11 +119,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/99121525.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -154,7 +134,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa live"
                         }
                     ],
                     "sources": [
@@ -163,95 +143,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Colo Colo vs Deportes Recoleta | 06:30 07/07",
-                    "tournament": "Cúp Chile",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b641a84c2286632196e3cb0614a41fc2.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/842add410d03457768ca0dfb265906cf.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "D Concepcion vs Deportes Temuco | 06:30 07/07",
-                    "tournament": "Cúp Chile",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a14751ea68523dd03173b441cf5da14d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b82013a4bbea51d2902becf0a004a410.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "My vs Bi | 07:00 07/07",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.bfgrut.app/live/78905744.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
