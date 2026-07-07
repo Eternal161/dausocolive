@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:51 08/07/2026",
+    "last_updated": "02:01 08/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Fc Vardar Skopje vs Kups | 00:00 08/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a795ca8b09c4c90198fe8e23b73b0c96.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Floriana vs Shamrock Rovers | 00:30 08/07",
                     "tournament": "Champions League",
@@ -228,6 +204,30 @@
                     "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
                     "logo_nha": "https://img.gvapi.cc/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/a3c5593b106980072677a648800a11d8.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shanxi Chongde Ronghai vs Dalian Kewei | 15:00 08/07",
+                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f35049a8706d6eaaeb708a3c80a992d0.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
