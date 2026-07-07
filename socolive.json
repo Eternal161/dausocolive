@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "03:41 08/07/2026",
+    "last_updated": "03:51 08/07/2026",
     "groups": [
         {
             "id": "live",
@@ -12,30 +12,6 @@
                     "tournament": "Giải vô địch bóng đá thế giới",
                     "logo_nha": "https://img.gvapi.cc/football/team/4402fbc939277321386d11fd427eb2b6.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ki Klaksvik vs Atert Bissen | 01:45 08/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/97b3892cb6339b5b3fe013005164b3ad.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/62d66427d2435bb445cae63e44c6ad02.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -228,6 +204,30 @@
                     "tournament": "Euro U19",
                     "logo_nha": "https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kairat vs Fk Sutjeska Niksic | 22:00 08/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1ea6e8445fd90988fff26192b355c9db.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
