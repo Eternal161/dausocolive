@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "20:51 07/07/2026",
+    "last_updated": "21:01 07/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Drukpa Fc vs Thimphu Fc | 19:00 07/07",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e2259792ea9fb29e137b0d074e27236c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tay Ban Nha U19 Nu vs Thuy Dien U19 Nu | 21:00 07/07",
                     "tournament": "Giải vô địch U19 Nữ Châu Âu",
@@ -228,6 +204,30 @@
                     "tournament": "Champions League",
                     "logo_nha": "https://img.gvapi.cc/football/team/538d312c2512ebda3129f105db04e5e5.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/fe56623a71d6056e9e1a93a6241e033f.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tre Fiori vs Larne | 01:30 08/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/2d23f41f10d7ad53e95a77689471888c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/15534c86dc2747cd8bc55c8b2d7d4608.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
