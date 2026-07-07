@@ -1,17 +1,17 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "09:41 07/07/2026",
+    "last_updated": "09:51 07/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Utah Jazz vs Memphis Grizzlies | 08:00 07/07",
+                    "name": "Warriors Gold vs Miami Heat | 09:00 07/07",
                     "tournament": "Giải NBA Summer League",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/0fd9b74f8f558218d023b5e281d506dc.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -32,10 +32,10 @@
                     ]
                 },
                 {
-                    "name": "Warriors Gold vs Miami Heat | 09:00 07/07",
+                    "name": "Utah Jazz vs Memphis Grizzlies | 08:00 07/07",
                     "tournament": "Giải NBA Summer League",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/0fd9b74f8f558218d023b5e281d506dc.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
