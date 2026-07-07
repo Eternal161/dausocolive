@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:41 07/07/2026",
+    "last_updated": "22:51 07/07/2026",
     "groups": [
         {
             "id": "live",
@@ -128,30 +128,6 @@
                     ]
                 },
                 {
-                    "name": "Sabah Fc vs The New Saints | 23:00 07/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/44cc5a54d7859b9d062a6f56a39819f8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/07a09b51edea4a078499cf5efc431d49.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Fc Vardar Skopje vs Kups | 00:00 08/07",
                     "tournament": "Champions League",
                     "logo_nha": "https://img.gvapi.cc/football/team/a795ca8b09c4c90198fe8e23b73b0c96.png!w80",
@@ -228,6 +204,30 @@
                     "tournament": "Champions League",
                     "logo_nha": "https://img.gvapi.cc/football/team/2d23f41f10d7ad53e95a77689471888c.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/15534c86dc2747cd8bc55c8b2d7d4608.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ki Klaksvik vs Atert Bissen | 01:45 08/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/97b3892cb6339b5b3fe013005164b3ad.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/62d66427d2435bb445cae63e44c6ad02.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
