@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:01 07/07/2026",
+    "last_updated": "19:11 07/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Hwacheon Nu vs Suwon Fmc Nu | 17:00 07/07",
-                    "tournament": "WK League Nữ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8de91d390f36c35944456e8eb51346b3.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Drukpa Fc vs Thimphu Fc | 19:00 07/07",
                     "tournament": "Giải bóng đá hàng đầu Bhutan",
@@ -228,6 +204,30 @@
                     "tournament": "Champions League",
                     "logo_nha": "https://img.gvapi.cc/football/team/cc887a7a155983d6c60c55f87db596d8.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/52a0b0ec8cb8af8d29711d63ed1d0c8c.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Borac Banja Luka vs Levski | 01:30 08/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/538d312c2512ebda3129f105db04e5e5.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/fe56623a71d6056e9e1a93a6241e033f.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
