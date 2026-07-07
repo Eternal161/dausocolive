@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:01 07/07/2026",
+    "last_updated": "23:12 07/07/2026",
     "groups": [
         {
             "id": "live",
@@ -12,30 +12,6 @@
                     "tournament": "Giải vô địch bóng đá thế giới",
                     "logo_nha": "https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tay Ban Nha U19 Nu vs Thuy Dien U19 Nu | 21:00 07/07",
-                    "tournament": "Giải vô địch U19 Nữ Châu Âu",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -228,6 +204,30 @@
                     "tournament": "Champions League",
                     "logo_nha": "https://img.gvapi.cc/football/team/97b3892cb6339b5b3fe013005164b3ad.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/62d66427d2435bb445cae63e44c6ad02.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vikingur Reykjavik vs Gyor | 02:00 08/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/7d980021e4160be27df269c331beab96.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1fac0c84b8a2914bc8449c720f56a2da.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
