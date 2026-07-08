@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:51 09/07/2026",
+    "last_updated": "02:01 09/07/2026",
     "groups": [
         {
             "id": "live",
@@ -12,30 +12,6 @@
                     "tournament": "Euro U19",
                     "logo_nha": "https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Bc Maxline vs Univ Craiova | 00:00 09/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8888bb52a971c98b7518618bf61e7ad2.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d8fef73043961d11ed61a37476a54568.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -204,6 +180,30 @@
                     "tournament": "Cúp Ecuador",
                     "logo_nha": "https://img.gvapi.cc/football/team/784732b83e10369eca2deed4bb4b79c2.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/8b048da33a06a2257101bb110b81e290.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vancouver Fc vs Clb Montreal Impact | 09:00 09/07",
+                    "tournament": "Liên đoàn Nhà vô địch Canada",
+                    "logo_nha": "https://img.gvapi.cc/football/team/2be300dfaf22aea36b0f57a2832859ae.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
