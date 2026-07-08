@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:31 09/07/2026",
+    "last_updated": "02:41 09/07/2026",
     "groups": [
         {
             "id": "live",
@@ -12,30 +12,6 @@
                     "tournament": "Euro U19",
                     "logo_nha": "https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Differdange vs Ilves | 00:30 09/07",
-                    "tournament": "UEFA Europa Conference League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/fc1f073fe91403f00d2219185fdea79b.jpg!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f6526b5434c06d7a6da4a9193fdac95e.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -204,6 +180,30 @@
                     "tournament": "Liên đoàn Nhà vô địch Canada",
                     "logo_nha": "https://img.gvapi.cc/football/team/2be300dfaf22aea36b0f57a2832859ae.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sacramento Republic vs Rhode Island | 09:30 09/07",
+                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/556ae50b42b399564a1d9fcdff9c740c.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
