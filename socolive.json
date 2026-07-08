@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:21 08/07/2026",
+    "last_updated": "22:31 08/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Dan Mach U19 vs Y U19 | 20:00 08/07",
-                    "tournament": "Euro U19",
-                    "logo_nha": "https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Kairat vs Fk Sutjeska Niksic | 22:00 08/07",
                     "tournament": "Champions League",
@@ -228,6 +204,30 @@
                     "tournament": "Giải bóng đá Hạng nhất Bolivia",
                     "logo_nha": "https://img.gvapi.cc/football/team/d2428da8ed3ec5eeba351e8a5e4c551f.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/78806733b03788c901fd2f2cda1f0bd2.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Ponte Preta vs Criciuma | 06:00 09/07",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fb735adffa94a7306c7f68b9609d929f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1105c0c62d761d64b6f4c3e34f460278.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
