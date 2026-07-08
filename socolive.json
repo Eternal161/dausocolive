@@ -1,14 +1,14 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:01 09/07/2026",
+    "last_updated": "04:11 09/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Oruro That vs Dai Hoc De Vinto | 05:00 09/07",
+                    "name": "Real Oruro vs Universitario De Vinto | 05:00 09/07",
                     "tournament": "Giải bóng đá Hạng nhất Bolivia",
                     "logo_nha": "https://img.gvapi.cc/football/team/d2428da8ed3ec5eeba351e8a5e4c551f.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/78806733b03788c901fd2f2cda1f0bd2.png!w80",
@@ -32,7 +32,7 @@
                     ]
                 },
                 {
-                    "name": "Clb Ponte Preta vs Criciuma | 06:00 09/07",
+                    "name": "Ponte Preta vs Criciuma | 06:00 09/07",
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
                     "logo_nha": "https://img.gvapi.cc/football/team/fb735adffa94a7306c7f68b9609d929f.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/1105c0c62d761d64b6f4c3e34f460278.png!w80",
@@ -152,7 +152,7 @@
                     ]
                 },
                 {
-                    "name": "Vancouver Fc vs Clb Montreal Impact | 09:00 09/07",
+                    "name": "Vancouver Fc vs Montreal Impact | 09:00 09/07",
                     "tournament": "Liên đoàn Nhà vô địch Canada",
                     "logo_nha": "https://img.gvapi.cc/football/team/2be300dfaf22aea36b0f57a2832859ae.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80",
