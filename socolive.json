@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "15:11 08/07/2026",
+    "last_updated": "15:21 08/07/2026",
     "groups": [
         {
             "id": "live",
@@ -12,30 +12,6 @@
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
                     "logo_nha": "https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/f35049a8706d6eaaeb708a3c80a992d0.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Olympique Lyonnais vs Macon | 15:30 08/07",
-                    "tournament": "Giao hữu các CLB quốc tế",
-                    "logo_nha": "https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/0e89211d7d783d6d78792f4a9632877f.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -228,6 +204,30 @@
                     "tournament": "Champions League",
                     "logo_nha": "https://img.gvapi.cc/football/team/8888bb52a971c98b7518618bf61e7ad2.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/d8fef73043961d11ed61a37476a54568.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Cs Petrocub vs Egnatia | 00:00 09/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9a9f43853cff237db04680cfc985bb57.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/caa1464dfa3740d8e7ba32959576cb66.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
