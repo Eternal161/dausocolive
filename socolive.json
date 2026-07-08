@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:01 09/07/2026",
+    "last_updated": "00:11 09/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Kairat vs Fk Sutjeska Niksic | 22:00 08/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1ea6e8445fd90988fff26192b355c9db.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tay Ban Nha U19 vs Croatia U19 | 22:30 08/07",
                     "tournament": "Euro U19",
@@ -228,6 +204,30 @@
                     "tournament": "Copa de la Liga",
                     "logo_nha": "https://img.gvapi.cc/football/team/f9b2e922f6ca83c14def96049ccbfe42.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/e62f69a9de87796972eb59d19c27e59c.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Real Potosi vs Academiadb | 07:00 09/07",
+                    "tournament": "Giải bóng đá Hạng nhất Bolivia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/eff8641b50533907bfa87b743397f978.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b448723b3ab2268f6de57096ccf30f8c.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
