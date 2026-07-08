@@ -1,12 +1,36 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:21 09/07/2026",
+    "last_updated": "01:31 09/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "Ukraine U19 vs Duc U19 | 01:00 09/07",
+                    "tournament": "Euro U19",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Bc Maxline vs Univ Craiova | 00:00 09/07",
                     "tournament": "Champions League",
@@ -36,30 +60,6 @@
                     "tournament": "UEFA Europa Conference League",
                     "logo_nha": "https://img.gvapi.cc/football/team/fc1f073fe91403f00d2219185fdea79b.jpg!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/f6526b5434c06d7a6da4a9193fdac95e.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ukraine U19 vs Duc U19 | 01:00 09/07",
-                    "tournament": "Euro U19",
-                    "logo_nha": "https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
