@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:51 09/07/2026",
+    "last_updated": "01:01 09/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Zira Fk vs Torpedo Kutaisi | 23:00 08/07",
-                    "tournament": "UEFA Europa Conference League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/78d040926970a0ccc54c3b1f13a6d568.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/cad9c0e0d8ed90e53989eb85f98940fa.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Bc Maxline vs Univ Craiova | 00:00 09/07",
                     "tournament": "Champions League",
