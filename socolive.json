@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:01 08/07/2026",
+    "last_updated": "19:11 08/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Fc Paro vs Tensung Fc | 17:00 08/07",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ae37aedbd9647e80fe75821a00a31516.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8a9fc46ed01d4d8aa736a356b92bc291.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Hangzhou Linping vs Jiangxi Beidamen | 18:30 08/07",
                     "tournament": "Giải bóng đá Hạng hai Trung Quốc",
@@ -228,6 +204,30 @@
                     "tournament": "UEFA Europa Conference League",
                     "logo_nha": "https://img.gvapi.cc/football/team/fc1f073fe91403f00d2219185fdea79b.jpg!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/f6526b5434c06d7a6da4a9193fdac95e.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ukraine U19 vs Duc U19 | 01:00 09/07",
+                    "tournament": "Euro U19",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
