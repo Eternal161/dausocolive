@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "20:21 08/07/2026",
+    "last_updated": "20:32 08/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Hangzhou Linping vs Jiangxi Beidamen | 18:30 08/07",
-                    "tournament": "Giải bóng đá Hạng hai Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/2d5acabff93b2cc5c965f75b920f14bb.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Dan Mach U19 vs Y U19 | 20:00 08/07",
                     "tournament": "Euro U19",
@@ -228,6 +204,30 @@
                     "tournament": "Euro U19",
                     "logo_nha": "https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Oruro That vs Dai Hoc De Vinto | 05:00 09/07",
+                    "tournament": "Giải bóng đá Hạng nhất Bolivia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d2428da8ed3ec5eeba351e8a5e4c551f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/78806733b03788c901fd2f2cda1f0bd2.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
