@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:41 09/07/2026",
+    "last_updated": "04:51 09/07/2026",
     "groups": [
         {
             "id": "live",
@@ -60,30 +60,6 @@
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
                     "logo_nha": "https://img.gvapi.cc/football/team/78febf9c2b8c7c5bff95797b00c90459.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/e2f7aa9acaea085ee66204e753fc9560.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Union La Calera vs Coquimbo Unido | 06:00 09/07",
-                    "tournament": "Copa de la Liga",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f9b2e922f6ca83c14def96049ccbfe42.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e62f69a9de87796972eb59d19c27e59c.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
