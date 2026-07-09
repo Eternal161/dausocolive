@@ -11,72 +11,87 @@ TARGET_URL = "https://colatv62.live"
 LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY ĐỂ TRÁNH QUÁ TẢI CHO BOT
 
 def lay_m3u8(page, url_tran):
-    # 💡 TẦNG 1 (ƯU TIÊN TUYỆT ĐỐI): CHEAT CODE TỐI THƯỢNG TỪ HOUSE_ID!
-    # Lấy thẳng số houseId trên URL để tự chế link m3u8 cực nhanh, không tốn 1s chờ đợi!
-    match_id = re.search(r'houseId=(\d+)', url_tran)
+    # 💡 TẦNG 1: Check URL gốc xem có houseId không
+    match_id = re.search(r'(?:houseId|room_id|match_id|id)[=:](\d{7,10})', url_tran, re.IGNORECASE)
     if match_id:
         hid = match_id.group(1)
         link_cheat = f"https://live05.grita.app/live/{hid}.m3u8"
-        print(f"      ⚡ [Cheat Code HouseID] Tạo link siêu tốc: {link_cheat}")
+        print(f"      ⚡ [Tầng 1 - Cheat URL] Tạo link siêu tốc: {link_cheat}")
         return link_cheat
 
-    # 💡 TẦNG 2 & 3: BẢO HIỂM - Chỉ chạy khi URL không chứa houseId (ví dụ link rút gọn/redirect)
     link_stream = ""
-    BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "segment", "/ad/", "/ads/"]
+    BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "/ad/", "/ads/"]
     
     def handle_request(request):
         nonlocal link_stream
         u = request.url.lower()
         if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
-            if ".ts" not in u: # Bỏ qua các mảnh video nhỏ .ts
+            if ".ts" not in u: 
                 link_stream = request.url
 
     page.on("request", handle_request)
     page.on("response", lambda res: handle_request(res))
 
     try:
+        # Vào trang phòng xem
         page.goto(url_tran, wait_until="domcontentloaded", timeout=25000)
-        page.wait_for_timeout(1500)
+        page.wait_for_timeout(2000)
         
-        # Kiểm tra lại URL sau khi vào trang xem có bị redirect ra houseId không
-        match_id_after = re.search(r'houseId=(\d+)', page.url)
+        # 💡 TẦNG 2: Check URL sau khi load (Đề phòng web đã redirect)
+        match_id_after = re.search(r'(?:houseId|room_id|match_id|id)[=:](\d{7,10})', page.url, re.IGNORECASE)
         if match_id_after:
             hid = match_id_after.group(1)
             link_stream = f"https://live05.grita.app/live/{hid}.m3u8"
-            print(f"      ⚡ [Cheat Code sau Redirect]: {link_stream}")
+            print(f"      ⚡ [Tầng 2 - Cheat Redirect] Tóm được ID: {hid} -> {link_stream}")
             return link_stream
-        
-        # Click giữa màn hình để phá banner quảng cáo
+            
+        # Phá banner quảng cáo màng mờ
         try:
             page.mouse.click(100, 100)
             page.wait_for_timeout(300)
             page.mouse.click(640, 360)
-        except Exception:
+        except: 
             pass
 
-        # Đợi tối đa 4 giây cho Network
+        # 💡 TẦNG 3: Đợi Network trong 4 giây
         deadline = time.time() + 4.0
         while time.time() < deadline:
             if link_stream:
-                print(f"      🎯 [Network] Tóm được link: {link_stream[:55]}...")
+                print(f"      🎯 [Tầng 3 - Network] Tóm được link: {link_stream[:55]}...")
                 break
             time.sleep(0.5)
             
-        # Lục soát DOM / Iframe nếu Network không thấy
-        if not link_stream:
-            link_stream = page.evaluate('''() => {
-                let html = document.documentElement.innerHTML;
-                let match = html.match(/https?:\/\/[a-zA-Z0-9.\-_]+\/(live|hls|stream)\/[a-zA-Z0-9.\-_]+\.(m3u8|flv)/i);
-                if (match) return match[0];
-                let iframes = document.querySelectorAll('iframe');
-                for (let f of iframes) {
-                    let src = f.src || '';
-                    if (src.includes('m3u8') || src.includes('grita') || src.includes('flv')) return src;
-                }
-                return "";
-            }''')
-            if link_stream:
-                print(f"      🎯 [DOM/Iframe] Tìm thấy link: {link_stream[:55]}...")
+        if link_stream: 
+            return link_stream
+            
+        # 💡 TẦNG 4: VŨ KHÍ TỐI THƯỢNG - Lục tung mã nguồn HTML & Iframe
+        html_content = page.content()
+        
+        # Lưới 4.1: Bắt thẳng link m3u8 lộ liễu trong HTML
+        m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.m3u8[^"\'\s<>]*', html_content)
+        if m3u8_match:
+            link_stream = m3u8_match.group(0)
+            print(f"      🎯 [Tầng 4 - DOM m3u8] Tóm được link: {link_stream[:55]}...")
+            return link_stream
+            
+        # Lưới 4.2: Truy quét biến Javascript chứa houseId (Socolive Nuxt.js)
+        id_match = re.search(r'(?:houseId|room_id|roomId|match_id)["\'=:\s]+(\d{7,10})', html_content, re.IGNORECASE)
+        if id_match:
+            hid = id_match.group(1)
+            link_stream = f"https://live05.grita.app/live/{hid}.m3u8"
+            print(f"      ⚡ [Tầng 4 - Cheat HTML] Tìm thấy ID ẩn trong Code: {hid} -> {link_stream}")
+            return link_stream
+            
+        # Lưới 4.3: Truy quét src của Iframe Player
+        iframe_match = re.search(r'<iframe[^>]+src=["\']([^"\']+)["\']', html_content, re.IGNORECASE)
+        if iframe_match:
+            src = iframe_match.group(1)
+            id_in_src = re.search(r'(?:id|houseId|room_id)=(\d{7,10})', src, re.IGNORECASE)
+            if id_in_src:
+                hid = id_in_src.group(1)
+                link_stream = f"https://live05.grita.app/live/{hid}.m3u8"
+                print(f"      ⚡ [Tầng 4 - Cheat Iframe] Tìm thấy ID: {hid} -> {link_stream}")
+                return link_stream
 
     except Exception as e:
         pass 
@@ -94,14 +109,14 @@ def cao_colatv():
         browser = p.chromium.launch(headless=True, args=[
                 "--no-sandbox", 
                 "--disable-web-security",
-                "--autoplay-policy=no-user-gesture-required",
-                "--mute-audio",
+                "--autoplay-policy=no-user-gesture-required", 
+                "--mute-audio",                              
                 "--allow-running-insecure-content",
                 "--disable-blink-features=AutomationControlled"
             ]) 
         
         context = browser.new_context(
-            viewport={"width": 1280, "height": 720},
+            viewport={"width": 1280, "height": 720}, 
             timezone_id="Asia/Ho_Chi_Minh"
         )
         page = context.new_page()
@@ -122,20 +137,21 @@ def cao_colatv():
                 logo_nha = ""
                 logo_khach = ""
                 is_actually_live = False
+                
                 try:
                     giai_dau = the_cha.locator(".match-item__comp").text_content().strip()
                     thoi_gian_goc = the_cha.locator(".match-item__time").text_content().strip()
                     
-                    # 💡 SỬA LỖI DÍNH CHỮ: Tách chuẩn thời gian từ "14:0025/06" thành "14:00 25/06"
                     thoi_gian = re.sub(r'(\d{1,2}:\d{2})\s*(\d{1,2}/\d{1,2})', r'\1 \2', thoi_gian_goc)
                     
                     logo_nha = the_cha.locator(".match-home img").get_attribute("src")
                     logo_khach = the_cha.locator(".match-away img").get_attribute("src")
                     
-                    # 💡 KIỂM TRA TRẬN ĐẤU CÓ ĐANG ĐÁ THẬT KHÔNG (Dựa vào chữ live, hiệp, bù, hoặc tỷ số)
+                    # Kiểm tra xem trận đấu có đang live thật không
                     text_the = the_cha.text_content().lower()
                     if any(k in text_the for k in ['hiệp', 'live', 'ht', 'ft', 'bù']) or re.search(r'\d+\s*[:\-]\s*\d+', text_the):
                         is_actually_live = True
+                        
                 except:
                     continue
                 
@@ -160,7 +176,6 @@ def cao_colatv():
             
             print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá.")
             
-            # 💡 ÁP DỤNG LIMIT MATCH TỪ CẤU HÌNH Ở TRÊN
             danh_sach_tran_phu_hop = danh_sach_tran_phu_hop[:LIMIT_MATCHES]
             print(f"✂️ Đã áp dụng Limit! Chỉ chui vào lấy m3u8 của {len(danh_sach_tran_phu_hop)} trận đầu tiên...\n")
             
@@ -172,7 +187,7 @@ def cao_colatv():
                 
                 formatted_name = f"{tran['ten_tran']} | {tran['thoi_gian']}"
                 
-                # 💡 CHUẨN HÓA NHÃN: Đang đá thật -> ● LIVE. Chưa đá -> ⏳ Chưa live (Dù đã có link houseId)
+                # CHUẨN HÓA NHÃN: Đang đá thật -> ● LIVE. Chưa đá -> ⏳ Chưa live (Dù đã có link houseId)
                 if tran['is_live'] and link_m3u8:
                     label_text = "● LIVE"
                 elif link_m3u8:
