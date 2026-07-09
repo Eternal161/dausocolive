@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:02 10/07/2026",
+    "last_updated": "06:11 10/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Nublense vs Ohiggins | 06:00 10/07",
-                    "tournament": "Copa de la Liga",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1cc8fde7becd389f88e35e0b498202bd.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/5b7e2bd8e447df96759bba3e225960ea.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Orlando Magic vs Charlotte Hornets | 06:30 10/07",
                     "tournament": "Giải NBA Summer League",
@@ -180,6 +156,30 @@
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/5fe8e44d486217553612d132ac6346c6.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dandenong City vs South Melbourne | 16:45 10/07",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3a4dae29240839fa156aad32c63b0795.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
