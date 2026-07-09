@@ -12,57 +12,80 @@ LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY ĐỂ TRÁ
 
 def lay_m3u8(page, url_tran):
     link_stream = ""
-    # 💡 ĐÃ GỠ "output.m3u8" KHỎI DANH SÁCH ĐEN! Chỉ chặn quảng cáo rác rõ ràng:
+    # Loại bỏ m3u8 khỏi danh sách đen, chỉ chặn quảng cáo rác
     BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "segment", "/ad/", "/ads/"]
     
     def handle_request(request):
         nonlocal link_stream
         u = request.url.lower()
-        # Bắt cả m3u8 lẫn flv phòng trường hợp ColaTV đổi định dạng
-        if (".m3u8" in u or ".flv" in u) and not any(b in u for b in BAD):
-            link_stream = request.url
+        # 💡 TẦNG 1: Bắt nóng qua Network (Ưu tiên grita.app, m3u8, flv)
+        if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
+            if ".ts" not in u: # Bỏ qua các mảnh video nhỏ .ts
+                link_stream = request.url
 
     page.on("request", handle_request)
-    page.on("response", lambda res: handle_request(res)) # Bắt thêm ở luồng Response cho chắc chắn
+    page.on("response", lambda res: handle_request(res))
 
     try:
         # Vào trang phòng xem
         page.goto(url_tran, wait_until="domcontentloaded", timeout=25000)
-        page.wait_for_timeout(1500)
+        page.wait_for_timeout(2000)
         
-        # 💡 THỰC HIỆN CLICK PHÁ BẪY (Sử dụng force=True hoặc click nhiều tọa độ)
+        # Click giữa màn hình để phá banner quảng cáo
         try:
-            # Click góc trên và chính giữa để tắt banner overlays
             page.mouse.click(100, 100)
             page.wait_for_timeout(300)
-            page.mouse.click(640, 360) # Chính giữa màn hình 1280x720
+            page.mouse.click(640, 360)
         except Exception:
             pass
 
-        # 💡 ĐỢI TRONG PHÒNG TỐI ĐA 6 GIÂY
-        deadline = time.time() + 6.0
+        # Đợi tối đa 5 giây cho Tầng 1 (Network)
+        deadline = time.time() + 5.0
         while time.time() < deadline:
             if link_stream:
-                print(f"      🎯 Tóm được link: {link_stream[:50]}...")
+                print(f"      🎯 [Tầng 1 - Network] Tóm được link: {link_stream[:55]}...")
                 break
             time.sleep(0.5)
             
-        # 💡 BẢO HIỂM TẦNG 2: Nếu Network không bắt được, dùng JS lục soát thẳng trong mã nguồn & iframe
+        # 💡 TẦNG 2: Quét mã nguồn DOM & Iframe nếu Tầng 1 trượt
         if not link_stream:
             link_stream = page.evaluate('''() => {
-                // Tìm trong tất cả thẻ iframe hoặc video
-                let allHtml = document.documentElement.innerHTML;
-                let match = allHtml.match(/https?:\/\/[^"']+\.(m3u8|flv)[^"']*/i);
-                return match ? match[0] : "";
+                let html = document.documentElement.innerHTML;
+                // Tìm link grita.app hoặc bất kỳ link m3u8 nào trong HTML
+                let match = html.match(/https?:\/\/[a-zA-Z0-9.\-_]+\/(live|hls|stream)\/[a-zA-Z0-9.\-_]+\.(m3u8|flv)/i);
+                if (match) return match[0];
+                
+                // Lục soát trong các thẻ iframe
+                let iframes = document.querySelectorAll('iframe');
+                for (let f of iframes) {
+                    let src = f.src || '';
+                    if (src.includes('m3u8') || src.includes('grita') || src.includes('flv')) return src;
+                }
+                return "";
             }''')
             if link_stream:
-                print(f"      🎯 Mò thấy link trong HTML: {link_stream[:50]}...")
+                print(f"      🎯 [Tầng 2 - DOM/Iframe] Tìm thấy link: {link_stream[:55]}...")
+
+        # 💡 TẦNG 3: CHEAT CODE TỐI THƯỢNG - Tự chế link từ houseId!
+        if not link_stream:
+            curr_url = page.url
+            # Lấy số houseId từ URL hiện tại hoặc URL truyền vào
+            match_id = re.search(r'houseId=(\d+)', curr_url)
+            if not match_id:
+                match_id = re.search(r'houseId=(\d+)', url_tran)
+                
+            if match_id:
+                hid = match_id.group(1)
+                # Ghép thẳng vào công thức vàng của ColaTV
+                link_stream = f"https://live05.grita.app/live/{hid}.m3u8"
+                print(f"      💡 [Tầng 3 - Cheat Code] Tự ghép link từ houseId {hid}: {link_stream}")
 
     except Exception as e:
         pass 
     finally:
         try: page.remove_listener("request", handle_request)
         except: pass
+        
     return link_stream
 
 def cao_colatv():
