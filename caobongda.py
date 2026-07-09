@@ -11,14 +11,22 @@ TARGET_URL = "https://colatv62.live"
 LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY ĐỂ TRÁNH QUÁ TẢI CHO BOT
 
 def lay_m3u8(page, url_tran):
+    # 💡 TẦNG 1 (ƯU TIÊN TUYỆT ĐỐI): CHEAT CODE TỐI THƯỢNG TỪ HOUSE_ID!
+    # Lấy thẳng số houseId trên URL để tự chế link m3u8 cực nhanh, không tốn 1s chờ đợi!
+    match_id = re.search(r'houseId=(\d+)', url_tran)
+    if match_id:
+        hid = match_id.group(1)
+        link_cheat = f"https://live05.grita.app/live/{hid}.m3u8"
+        print(f"      ⚡ [Cheat Code HouseID] Tạo link siêu tốc: {link_cheat}")
+        return link_cheat
+
+    # 💡 TẦNG 2 & 3: BẢO HIỂM - Chỉ chạy khi URL không chứa houseId (ví dụ link rút gọn/redirect)
     link_stream = ""
-    # Loại bỏ m3u8 khỏi danh sách đen, chỉ chặn quảng cáo rác
     BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "segment", "/ad/", "/ads/"]
     
     def handle_request(request):
         nonlocal link_stream
         u = request.url.lower()
-        # 💡 TẦNG 1: Bắt nóng qua Network (Ưu tiên grita.app, m3u8, flv)
         if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
             if ".ts" not in u: # Bỏ qua các mảnh video nhỏ .ts
                 link_stream = request.url
@@ -27,9 +35,16 @@ def lay_m3u8(page, url_tran):
     page.on("response", lambda res: handle_request(res))
 
     try:
-        # Vào trang phòng xem
         page.goto(url_tran, wait_until="domcontentloaded", timeout=25000)
-        page.wait_for_timeout(2000)
+        page.wait_for_timeout(1500)
+        
+        # Kiểm tra lại URL sau khi vào trang xem có bị redirect ra houseId không
+        match_id_after = re.search(r'houseId=(\d+)', page.url)
+        if match_id_after:
+            hid = match_id_after.group(1)
+            link_stream = f"https://live05.grita.app/live/{hid}.m3u8"
+            print(f"      ⚡ [Cheat Code sau Redirect]: {link_stream}")
+            return link_stream
         
         # Click giữa màn hình để phá banner quảng cáo
         try:
@@ -39,23 +54,20 @@ def lay_m3u8(page, url_tran):
         except Exception:
             pass
 
-        # Đợi tối đa 5 giây cho Tầng 1 (Network)
-        deadline = time.time() + 5.0
+        # Đợi tối đa 4 giây cho Network
+        deadline = time.time() + 4.0
         while time.time() < deadline:
             if link_stream:
-                print(f"      🎯 [Tầng 1 - Network] Tóm được link: {link_stream[:55]}...")
+                print(f"      🎯 [Network] Tóm được link: {link_stream[:55]}...")
                 break
             time.sleep(0.5)
             
-        # 💡 TẦNG 2: Quét mã nguồn DOM & Iframe nếu Tầng 1 trượt
+        # Lục soát DOM / Iframe nếu Network không thấy
         if not link_stream:
             link_stream = page.evaluate('''() => {
                 let html = document.documentElement.innerHTML;
-                // Tìm link grita.app hoặc bất kỳ link m3u8 nào trong HTML
                 let match = html.match(/https?:\/\/[a-zA-Z0-9.\-_]+\/(live|hls|stream)\/[a-zA-Z0-9.\-_]+\.(m3u8|flv)/i);
                 if (match) return match[0];
-                
-                // Lục soát trong các thẻ iframe
                 let iframes = document.querySelectorAll('iframe');
                 for (let f of iframes) {
                     let src = f.src || '';
@@ -64,21 +76,7 @@ def lay_m3u8(page, url_tran):
                 return "";
             }''')
             if link_stream:
-                print(f"      🎯 [Tầng 2 - DOM/Iframe] Tìm thấy link: {link_stream[:55]}...")
-
-        # 💡 TẦNG 3: CHEAT CODE TỐI THƯỢNG - Tự chế link từ houseId!
-        if not link_stream:
-            curr_url = page.url
-            # Lấy số houseId từ URL hiện tại hoặc URL truyền vào
-            match_id = re.search(r'houseId=(\d+)', curr_url)
-            if not match_id:
-                match_id = re.search(r'houseId=(\d+)', url_tran)
-                
-            if match_id:
-                hid = match_id.group(1)
-                # Ghép thẳng vào công thức vàng của ColaTV
-                link_stream = f"https://live05.grita.app/live/{hid}.m3u8"
-                print(f"      💡 [Tầng 3 - Cheat Code] Tự ghép link từ houseId {hid}: {link_stream}")
+                print(f"      🎯 [DOM/Iframe] Tìm thấy link: {link_stream[:55]}...")
 
     except Exception as e:
         pass 
@@ -96,15 +94,14 @@ def cao_colatv():
         browser = p.chromium.launch(headless=True, args=[
                 "--no-sandbox", 
                 "--disable-web-security",
-                "--autoplay-policy=no-user-gesture-required", # <--- VŨ KHÍ TỐI THƯỢNG ÉP VIDEO TỰ CHẠY
-                "--mute-audio",                              # <--- TẮT TIẾNG ĐỂ TRÌNH DUYỆT KHÔNG CHẶN
+                "--autoplay-policy=no-user-gesture-required",
+                "--mute-audio",
                 "--allow-running-insecure-content",
                 "--disable-blink-features=AutomationControlled"
             ]) 
         
-        # Ép trình duyệt ảo dùng múi giờ Việt Nam để lấy đúng giờ đá
         context = browser.new_context(
-            viewport={"width": 1280, "height": 720}, # Set kích thước màn hình để click cho chuẩn
+            viewport={"width": 1280, "height": 720},
             timezone_id="Asia/Ho_Chi_Minh"
         )
         page = context.new_page()
@@ -124,6 +121,7 @@ def cao_colatv():
                 
                 logo_nha = ""
                 logo_khach = ""
+                is_actually_live = False
                 try:
                     giai_dau = the_cha.locator(".match-item__comp").text_content().strip()
                     thoi_gian_goc = the_cha.locator(".match-item__time").text_content().strip()
@@ -133,6 +131,11 @@ def cao_colatv():
                     
                     logo_nha = the_cha.locator(".match-home img").get_attribute("src")
                     logo_khach = the_cha.locator(".match-away img").get_attribute("src")
+                    
+                    # 💡 KIỂM TRA TRẬN ĐẤU CÓ ĐANG ĐÁ THẬT KHÔNG (Dựa vào chữ live, hiệp, bù, hoặc tỷ số)
+                    text_the = the_cha.text_content().lower()
+                    if any(k in text_the for k in ['hiệp', 'live', 'ht', 'ft', 'bù']) or re.search(r'\d+\s*[:\-]\s*\d+', text_the):
+                        is_actually_live = True
                 except:
                     continue
                 
@@ -151,7 +154,8 @@ def cao_colatv():
                     "thoi_gian": thoi_gian,
                     "ten_tran": ten_tran_dau,
                     "logo_nha": logo_nha,
-                    "logo_khach": logo_khach
+                    "logo_khach": logo_khach,
+                    "is_live": is_actually_live
                 })
             
             print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá.")
@@ -163,13 +167,19 @@ def cao_colatv():
             ket_qua_cuoi_cung = []
             
             for i, tran in enumerate(danh_sach_tran_phu_hop, 1):
-                print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang rình: {tran['ten_tran']}...")
+                print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang xử lý: {tran['ten_tran']}...")
                 link_m3u8 = lay_m3u8(page, tran["url"])
                 
                 formatted_name = f"{tran['ten_tran']} | {tran['thoi_gian']}"
                 
-                # 💡 Nếu có link -> LIVE. Nếu không có link -> Chưa live
-                label_text = "● LIVE" if link_m3u8 else "⏳ Chưa live"
+                # 💡 CHUẨN HÓA NHÃN: Đang đá thật -> ● LIVE. Chưa đá -> ⏳ Chưa live (Dù đã có link houseId)
+                if tran['is_live'] and link_m3u8:
+                    label_text = "● LIVE"
+                elif link_m3u8:
+                    label_text = "⏳ Chưa live"
+                else:
+                    label_text = "⏳ Chưa có link"
+                    
                 stream_links = [{"url": link_m3u8}] if link_m3u8 else []
 
                 channel_data = {
@@ -191,7 +201,6 @@ def cao_colatv():
         mui_gio_vn = timezone(timedelta(hours=7))
         ngay_hom_nay = datetime.now(mui_gio_vn).strftime("%H:%M %d/%m/%Y")
         
-        # Đóng gói cấu trúc chuẩn xác như Lương Sơn
         socolive_json = {
             "id": "socolive",
             "name": "Socolive (Cola TV)",
