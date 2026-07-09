@@ -1,60 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:52 10/07/2026",
+    "last_updated": "01:02 10/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Qarabag vs Vestri | 23:00 09/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7f7d00906d511bcf48f9a600580ff953.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/0ad622f45edd4fda12f1d7c038d5d36a.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Liepaja vs Decic | 23:00 09/07",
-                    "tournament": "UEFA Europa Conference League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/066236dc007de501d84a4a146f7597a9.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/5738853e412f0d9c3b36ab4696fc12e6.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Dynamo Kyiv vs Universitaea Cluj | 00:00 10/07",
                     "tournament": "Europa League",
@@ -228,6 +180,54 @@
                     "tournament": "Giải NBA Summer League",
                     "logo_nha": "https://img.gvapi.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80",
                     "logo_khach": "https://img.gvapi.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nacional Potosi vs Aurora | 07:00 10/07",
+                    "tournament": "Giải bóng đá Hạng nhất Bolivia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/16bffb304008e389871037fd87b6adf4.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ec2ed16825c0bf497854333615c4e2af.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Real Colorado Foxes vs Flatirons Rush | 08:00 10/07",
+                    "tournament": "Giải USL League Two",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3a4e4fffd6008f30cd056f416cd336fc.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/819e478585785ae661d4ddfe642b6636.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
