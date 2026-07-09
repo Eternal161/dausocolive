@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:01 09/07/2026",
+    "last_updated": "07:11 09/07/2026",
     "groups": [
         {
             "id": "live",
@@ -36,30 +36,6 @@
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
                     "logo_nha": "https://img.gvapi.cc/football/team/78febf9c2b8c7c5bff95797b00c90459.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/e2f7aa9acaea085ee66204e753fc9560.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa live"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Boca Juniors vs Athletico Pr | 07:00 09/07",
-                    "tournament": "Giao hữu các CLB quốc tế",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
@@ -180,6 +156,30 @@
                     "tournament": "Giải bóng đá hàng đầu Bhutan",
                     "logo_nha": "https://img.gvapi.cc/football/team/fc0e456663f75dc4e49d2f55d09a9f92.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/9d4caac656f50e75750c905733ce6114.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Akademiya Ontustik vs Fk Arys | 19:00 09/07",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/dff243319f536af2557bca3e82143a73.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
