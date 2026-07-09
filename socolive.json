@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "03:21 10/07/2026",
+    "last_updated": "03:32 10/07/2026",
     "groups": [
         {
             "id": "live",
@@ -25,57 +25,9 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.grita.app/live/24561735.m3u8"
+                                                    "url": "https://live05.grita.app/live/08552895.m3u8"
                                                 }
                                             ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Cska Sofia vs Derry City | 01:00 10/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3b19cae478679881554914e45d318742.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1fdb25b1b1cf8b92138ba7c5c9fff621.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Vojvodina Novi Sad vs Ferencvarosi Tc | 01:00 10/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/40ce8b99981bc3199784a1f6d3a7b26c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/202e45f30a94193466ba2ae8a96e7685.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -208,6 +160,30 @@
                     "tournament": "Giải NBA Summer League",
                     "logo_nha": "https://img.gvapi.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",
                     "logo_khach": "https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ha Noi Nu vs Thai Nguyen Nu | 16:00 10/07",
+                    "tournament": "Women's National League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/b196a9a7e627dc15cfa96268035c454e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
