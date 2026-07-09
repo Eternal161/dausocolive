@@ -11,53 +11,73 @@ TARGET_URL = "https://colatv62.live"
 LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY ĐỂ TRÁNH QUÁ TẢI CHO BOT
 
 def lay_m3u8(page, url_tran):
-    link_m3u8 = ""
-    # 💡 DANH SÁCH ĐEN ĐỂ LỌC QUẢNG CÁO CỦA COLATV
-    BAD = ["video2/output.m3u8", "output.m3u8", ".mp4", "quangcao", "banner", "tvc"]
+    link_stream = ""
+    # 💡 ĐÃ GỠ "output.m3u8" KHỎI DANH SÁCH ĐEN! Chỉ chặn quảng cáo rác rõ ràng:
+    BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "segment", "/ad/", "/ads/"]
     
     def handle_request(request):
-        nonlocal link_m3u8
+        nonlocal link_stream
         u = request.url.lower()
-        if ".m3u8" in u and not any(b in u for b in BAD):
-            link_m3u8 = request.url
+        # Bắt cả m3u8 lẫn flv phòng trường hợp ColaTV đổi định dạng
+        if (".m3u8" in u or ".flv" in u) and not any(b in u for b in BAD):
+            link_stream = request.url
 
     page.on("request", handle_request)
+    page.on("response", lambda res: handle_request(res)) # Bắt thêm ở luồng Response cho chắc chắn
+
     try:
         # Vào trang phòng xem
         page.goto(url_tran, wait_until="domcontentloaded", timeout=25000)
-        
-        # 💡 1. CHỜ 1.5 GIÂY CHO POPUP "CHẠM BẤT KỲ ĐÂU" HIỆN RA
         page.wait_for_timeout(1500)
         
-        # 💡 2. THỰC HIỆN "CHẠM BẤT KỲ ĐÂU" (Click giữa màn hình để tắt QC)
+        # 💡 THỰC HIỆN CLICK PHÁ BẪY (Sử dụng force=True hoặc click nhiều tọa độ)
         try:
-            page.mouse.click(500, 500)
-            page.wait_for_timeout(500)
-            # Click thêm phát nữa vào khu vực player cho chắc ăn (kích hoạt video tự chạy)
-            page.mouse.click(500, 300)
+            # Click góc trên và chính giữa để tắt banner overlays
+            page.mouse.click(100, 100)
+            page.wait_for_timeout(300)
+            page.mouse.click(640, 360) # Chính giữa màn hình 1280x720
         except Exception:
             pass
 
-        # 💡 3. ĐỢI TRONG PHÒNG TỐI ĐA 5 GIÂY ĐỂ NẠP LINK M3U8
-        # (Tối ưu: Nếu tìm thấy link trước 5s thì tự động thoát sớm cho nhanh)
-        deadline = time.time() + 5.0
+        # 💡 ĐỢI TRONG PHÒNG TỐI ĐA 6 GIÂY
+        deadline = time.time() + 6.0
         while time.time() < deadline:
-            if link_m3u8:
+            if link_stream:
+                print(f"      🎯 Tóm được link: {link_stream[:50]}...")
                 break
             time.sleep(0.5)
             
+        # 💡 BẢO HIỂM TẦNG 2: Nếu Network không bắt được, dùng JS lục soát thẳng trong mã nguồn & iframe
+        if not link_stream:
+            link_stream = page.evaluate('''() => {
+                // Tìm trong tất cả thẻ iframe hoặc video
+                let allHtml = document.documentElement.innerHTML;
+                let match = allHtml.match(/https?:\/\/[^"']+\.(m3u8|flv)[^"']*/i);
+                return match ? match[0] : "";
+            }''')
+            if link_stream:
+                print(f"      🎯 Mò thấy link trong HTML: {link_stream[:50]}...")
+
     except Exception as e:
-        pass  # Bỏ qua lỗi timeout nếu trang load chậm
+        pass 
     finally:
-        page.remove_listener("request", handle_request)
-    return link_m3u8
+        try: page.remove_listener("request", handle_request)
+        except: pass
+    return link_stream
 
 def cao_colatv():
     danh_sach_tran_phu_hop = []
     
     with sync_playwright() as p:
         print("🚀 Khởi động Thợ Săn ColaTV (Socolive)...")
-        browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-web-security"]) 
+        browser = p.chromium.launch(headless=True, args=[
+                "--no-sandbox", 
+                "--disable-web-security",
+                "--autoplay-policy=no-user-gesture-required", # <--- VŨ KHÍ TỐI THƯỢNG ÉP VIDEO TỰ CHẠY
+                "--mute-audio",                              # <--- TẮT TIẾNG ĐỂ TRÌNH DUYỆT KHÔNG CHẶN
+                "--allow-running-insecure-content",
+                "--disable-blink-features=AutomationControlled"
+            ]) 
         
         # Ép trình duyệt ảo dùng múi giờ Việt Nam để lấy đúng giờ đá
         context = browser.new_context(
