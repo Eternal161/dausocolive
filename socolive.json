@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "08:41 09/07/2026",
+    "last_updated": "08:51 09/07/2026",
     "groups": [
         {
             "id": "live",
@@ -204,6 +204,30 @@
                     "tournament": "UEFA Europa Conference League",
                     "logo_nha": "https://img.gvapi.cc/football/team/c04b314a782ba63e990015b5c5c0955c.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/b562647138280daa4e6d9bd79a0b5acc.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa live"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Qarabag vs Vestri | 23:00 09/07",
+                    "tournament": "Europa League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/7f7d00906d511bcf48f9a600580ff953.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/0ad622f45edd4fda12f1d7c038d5d36a.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa live"
