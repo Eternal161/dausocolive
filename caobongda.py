@@ -1,5 +1,6 @@
 import json
 import re
+import time
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta, timezone
 
@@ -12,7 +13,7 @@ LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY ĐỂ TRÁ
 def lay_m3u8(page, url_tran):
     link_m3u8 = ""
     # 💡 DANH SÁCH ĐEN ĐỂ LỌC QUẢNG CÁO CỦA COLATV
-    BAD = ["video2/output.m3u8", "output.m3u8", ".mp4", "quangcao", "banner"]
+    BAD = ["video2/output.m3u8", "output.m3u8", ".mp4", "quangcao", "banner", "tvc"]
     
     def handle_request(request):
         nonlocal link_m3u8
@@ -22,11 +23,31 @@ def lay_m3u8(page, url_tran):
 
     page.on("request", handle_request)
     try:
-        # Giảm timeout xuống 20s để tăng tốc độ lướt qua các trận chưa live
-        page.goto(url_tran, wait_until="domcontentloaded", timeout=20000)
-        page.wait_for_timeout(3000) 
+        # Vào trang phòng xem
+        page.goto(url_tran, wait_until="domcontentloaded", timeout=25000)
+        
+        # 💡 1. CHỜ 1.5 GIÂY CHO POPUP "CHẠM BẤT KỲ ĐÂU" HIỆN RA
+        page.wait_for_timeout(1500)
+        
+        # 💡 2. THỰC HIỆN "CHẠM BẤT KỲ ĐÂU" (Click giữa màn hình để tắt QC)
+        try:
+            page.mouse.click(500, 500)
+            page.wait_for_timeout(500)
+            # Click thêm phát nữa vào khu vực player cho chắc ăn (kích hoạt video tự chạy)
+            page.mouse.click(500, 300)
+        except Exception:
+            pass
+
+        # 💡 3. ĐỢI TRONG PHÒNG TỐI ĐA 5 GIÂY ĐỂ NẠP LINK M3U8
+        # (Tối ưu: Nếu tìm thấy link trước 5s thì tự động thoát sớm cho nhanh)
+        deadline = time.time() + 5.0
+        while time.time() < deadline:
+            if link_m3u8:
+                break
+            time.sleep(0.5)
+            
     except Exception as e:
-        pass # Bỏ qua lỗi timeout nếu trang load chậm
+        pass  # Bỏ qua lỗi timeout nếu trang load chậm
     finally:
         page.remove_listener("request", handle_request)
     return link_m3u8
@@ -39,7 +60,10 @@ def cao_colatv():
         browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-web-security"]) 
         
         # Ép trình duyệt ảo dùng múi giờ Việt Nam để lấy đúng giờ đá
-        context = browser.new_context(timezone_id="Asia/Ho_Chi_Minh")
+        context = browser.new_context(
+            viewport={"width": 1280, "height": 720}, # Set kích thước màn hình để click cho chuẩn
+            timezone_id="Asia/Ho_Chi_Minh"
+        )
         page = context.new_page()
         
         try:
