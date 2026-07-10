@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:22 10/07/2026",
+    "last_updated": "19:30 10/07/2026",
     "groups": [
         {
             "id": "live",
@@ -36,30 +36,6 @@
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Suwon Fc vs Jeonnam Dragons | 17:30 10/07",
-                    "tournament": "Giải K2 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1865239eb652f9778782fef6ee1a071c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3f4d8a34d2f0b65f0715dc09fd8a9d1b.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
@@ -228,6 +204,30 @@
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
                     "logo_nha": "https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/1102270dc5201968f3eeffbc20da56bc.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Pk 35 Vantaa vs Kapa | 23:00 10/07",
+                    "tournament": "Giải hạng 2 Phần Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/7c9d28445e942782d96e08afb3046d2a.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/192a0281263921acbe04095e18e635ff.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
