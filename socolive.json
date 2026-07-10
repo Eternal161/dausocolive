@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:52 10/07/2026",
+    "last_updated": "18:02 10/07/2026",
     "groups": [
         {
             "id": "live",
@@ -60,30 +60,6 @@
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ha Noi Nu vs Thai Nguyen Nu | 16:00 10/07",
-                    "tournament": "Women's National League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b196a9a7e627dc15cfa96268035c454e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
@@ -228,6 +204,30 @@
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
                     "logo_nha": "https://img.gvapi.cc/football/team/d8baf3ab5d39bcdab1d636a69e0e8086.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/a45149dd3ce5f0114a126fac0f44adbc.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lao Nu vs Malaysia Nu | 19:45 10/07",
+                    "tournament": "Giải bóng đá nữ Đông Nam Á",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d754f7302ec0da60aeb079c36b4938d4.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
