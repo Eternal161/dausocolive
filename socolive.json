@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:22 10/07/2026",
+    "last_updated": "18:32 10/07/2026",
     "groups": [
         {
             "id": "live",
@@ -32,10 +32,10 @@
                     ]
                 },
                 {
-                    "name": "Green Gully vs Altona Magic | 16:30 10/07",
+                    "name": "Preston Lions vs Hume City | 17:30 10/07",
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/5fe8e44d486217553612d132ac6346c6.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
@@ -56,10 +56,10 @@
                     ]
                 },
                 {
-                    "name": "Preston Lions vs Hume City | 17:30 10/07",
+                    "name": "Green Gully vs Altona Magic | 16:30 10/07",
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5fe8e44d486217553612d132ac6346c6.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
