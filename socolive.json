@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:02 10/07/2026",
+    "last_updated": "19:12 10/07/2026",
     "groups": [
         {
             "id": "live",
@@ -56,58 +56,10 @@
                     ]
                 },
                 {
-                    "name": "Tks Viet Nam Nu vs Tp Ho Chi Minh 2 Nu | 17:00 10/07",
-                    "tournament": "Women's National League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4535b4701b1056d0ddef43d6a19d8884.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ec2dbd5c069753ced4b26b40d826ae60.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Glenorchy Knights vs Kingborough Lions | 17:15 10/07",
                     "tournament": "Giải Ngoại hạng Quốc gia Úc bang Tasmania",
                     "logo_nha": "https://img.gvapi.cc/football/team/cc4fb9d6d32a8622e01db1f04536ff3c.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/42e8b0755549e790199f442c4f074d6b.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Oakleigh Cannons vs Avondale Fc | 17:15 10/07",
-                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ff2e694966de559719f778b5c79ea2ad.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
@@ -228,6 +180,54 @@
                     "tournament": "Giải hạng Hai Belarus",
                     "logo_nha": "https://img.gvapi.cc/football/team/0c32d507c2e7d454612e1ada7f4359bf.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/f509d6bfe4b8077bb1be2fdaf58be503.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dnepr Mogilev vs Fc Minsk | 22:30 10/07",
+                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/fd06ba41a2de13ab86456debdc68a330.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ktp Kotka vs Japs | 22:30 10/07",
+                    "tournament": "Giải hạng 2 Phần Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8cb20ccb4136279d11c5a40c3015a561.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/750db83b65bc2cae626ae6324b364a1f.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
