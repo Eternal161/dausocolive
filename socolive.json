@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "21:52 10/07/2026",
+    "last_updated": "22:02 10/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Shakhtar Karagandy vs Fc Turan | 20:00 10/07",
-                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3bd267c6eccc8d58c06c4c2c9ceba810.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Kommunalnik Slonim vs Niva Dolbizno | 21:30 10/07",
                     "tournament": "Giải hạng Hai Belarus",
@@ -228,6 +204,30 @@
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
                     "logo_nha": "https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tecnico U vs Clb Macara | 07:15 11/07",
+                    "tournament": "Giải vô địch quốc gia Ecuador",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a5c19caa8f0d2c476156ece6470b15a0.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d138a4d0829205be8e477b43d95b138d.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
