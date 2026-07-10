@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "09:02 10/07/2026",
+    "last_updated": "09:11 10/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Nacional Potosi vs Aurora | 07:00 10/07",
-                    "tournament": "Giải bóng đá Hạng nhất Bolivia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/16bffb304008e389871037fd87b6adf4.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ec2ed16825c0bf497854333615c4e2af.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Real Colorado Foxes vs Flatirons Rush | 08:00 10/07",
                     "tournament": "Giải USL League Two",
@@ -180,6 +156,30 @@
                     "tournament": "WK League Nữ",
                     "logo_nha": "https://img.gvapi.cc/football/team/19ba34d167be9b01eb848a0a777932ac.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/8de91d390f36c35944456e8eb51346b3.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tks Viet Nam Nu vs Tp Ho Chi Minh 2 Nu | 17:00 10/07",
+                    "tournament": "Women's National League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4535b4701b1056d0ddef43d6a19d8884.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ec2dbd5c069753ced4b26b40d826ae60.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
