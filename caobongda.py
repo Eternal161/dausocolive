@@ -28,50 +28,47 @@ def lay_m3u8(page, url_tran):
     link_stream = ""
     BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "segment", "/ad/", "/ads/"]
     
-    # 💡 LƯỚI QUÉT TỐI THƯỢNG: ĐỌC TRỘM PHẢN HỒI API (RESPONSE) TỪ MÁY CHỦ
+    # 💡 LƯỚI QUÉT TỐI THƯỢNG: ĐỌC TRỘM PHẢN HỒI API TỪ MÁY CHỦ
     def handle_response(response):
         nonlocal link_stream
-        if link_stream: return # Có link rồi thì dừng
+        if link_stream: return
         
         try:
             u = response.url.lower()
             
-            # 1. Bắt trực tiếp link M3U8/FLV nếu nó vô tình lộ ra
+            # 1. Bắt trực tiếp link M3U8/FLV
             if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
                 if ".ts" not in u: 
                     link_stream = response.url
                     return
 
-            # 2. HACKER API: Đọc trộm nội dung JSON máy chủ trả về
+            # 2. HACKER API: Đọc trộm JSON
             if response.request.resource_type in ["fetch", "xhr"] and response.status == 200:
                 content_type = response.headers.get("content-type", "")
                 if "application/json" in content_type or "text/" in content_type:
                     text = response.text()
                     
-                    # Tìm link trực tiếp giấu trong chuỗi JSON
+                    # Tìm link m3u8 lộ liễu
                     m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', text)
                     if m3u8_match:
                         link_stream = m3u8_match.group(0).replace('\\/', '/')
                         return
                     
-                    # Hoặc tìm ID giấu trong JSON
-                    id_match = re.search(r'["\'](?:houseId|room_id|roomId|match_id|id)["\']\s*:\s*["\']?([a-zA-Z0-9]{7,25})["\']?', text, re.IGNORECASE)
+                    # 💡 FIX LỖI CHÍ MẠNG: ÉP BUỘC CHỈ LẤY ID LÀ SỐ NGUYÊN (\d{7,12}), BỎ QUA HASH CHỮ!
+                    id_match = re.search(r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?', text, re.IGNORECASE)
                     if id_match:
-                        hid = id_match.group(1)
-                        if len(hid) >= 7: # Lọc các ID rác quá ngắn
-                            link_stream = f"https://live05.grita.app/live/{hid}.m3u8"
-                            return
+                        link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
+                        return
         except Exception:
             pass
 
-    # Kích hoạt lưới bắt Response
     page.on("response", handle_response)
 
     try:
         page.goto(url_tran, wait_until="domcontentloaded", timeout=30000)
         page.wait_for_timeout(2000)
         
-        # Click giữa màn hình để kích hoạt video ẩn
+        # Click phá banner
         try:
             page.mouse.click(100, 100)
             page.wait_for_timeout(300)
@@ -86,7 +83,7 @@ def lay_m3u8(page, url_tran):
                 return link_stream
             time.sleep(0.5)
             
-        # 💡 TẦNG 2: Lục soát toàn bộ thẻ Iframe ẩn
+        # 💡 TẦNG 2: Lục soát Iframe ẩn
         if not link_stream:
             iframes = page.locator("iframe").all()
             for f in iframes:
@@ -96,7 +93,8 @@ def lay_m3u8(page, url_tran):
                         link_stream = src
                         print(f"      🎯 [Iframe SRC] Bắt sống link: {src[:55]}...")
                         return src
-                    m = re.search(r'(?:id|room_id|live|houseId)=([a-zA-Z0-9]{7,25})', src, re.IGNORECASE)
+                    # CũnG CHỈ LẤY SỐ ở iframe
+                    m = re.search(r'(?:id|room_id|live|houseId)=(\d{7,12})', src, re.IGNORECASE)
                     if m:
                         link_stream = f"https://live05.grita.app/live/{m.group(1)}.m3u8"
                         print(f"      ⚡ [Iframe ID] Ghép link từ ID: {link_stream}")
@@ -111,7 +109,8 @@ def lay_m3u8(page, url_tran):
                 print(f"      🎯 [DOM HTML] Tóm được link: {link_stream[:55]}...")
                 return link_stream
             
-            id_match = re.search(r'(?:houseId|room_id|roomId|match_id)["\'=:\s\/]+([a-zA-Z0-9]{7,25})', html, re.IGNORECASE)
+            # CHỈ LẤY SỐ ở DOM
+            id_match = re.search(r'(?:houseId|room_id|roomId|match_id)["\'=:\s\/]+(\d{7,12})', html, re.IGNORECASE)
             if id_match:
                 link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
                 print(f"      ⚡ [DOM ID] Ghép link từ ID ẩn: {link_stream}")
