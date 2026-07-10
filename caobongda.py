@@ -5,7 +5,7 @@ from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta, timezone
 
 # =========================================================
-# 💡 BỘ GIÁP STEALTH BẤT TỬ (Chống bị web lậu khóa API)
+# 💡 BỘ GIÁP STEALTH BẤT TỬ
 # =========================================================
 def apply_stealth(page):
     try:
@@ -28,98 +28,109 @@ def lay_m3u8(page, url_tran):
     link_stream = ""
     BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "segment", "/ad/", "/ads/"]
     
-    # 💡 LƯỚI QUÉT TỐI THƯỢNG: ĐỌC TRỘM PHẢN HỒI API TỪ MÁY CHỦ
-    def handle_response(response):
-        nonlocal link_stream
-        if link_stream: return
-        
-        try:
-            u = response.url.lower()
+    # 💡 VŨ KHÍ TỐI THƯỢNG: TIÊM MÃ VÀO LÕI TRÌNH DUYỆT ĐỂ BẮT API TỪ BÊN TRONG
+    js_interceptor = r"""
+    window.__botLinks = [];
+    window.__botIds = [];
+    
+    function extractData(text) {
+        try {
+            // Xóa sổ dấu gạch chéo ngược (escape) để đọc link cho chuẩn
+            const cleanText = text.replace(/\\\//g, '/');
             
-            # 1. Bắt trực tiếp link M3U8/FLV
-            if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
-                if ".ts" not in u: 
-                    link_stream = response.url
-                    return
+            // 1. Tóm link m3u8/flv nếu lộ
+            const linkMatch = cleanText.match(/https?:\/\/[^"']+\.(m3u8|flv)[^"']*/i);
+            if (linkMatch) window.__botLinks.push(linkMatch[0]);
+            
+            // 2. ÉP BUỘC CHỈ LẤY ID LÀ SỐ NGUYÊN TỪ 7-12 CHỮ SỐ
+            const idMatch = cleanText.match(/["'](?:houseId|room_id|roomId|match_id|id|live_id)["']\s*[:=]\s*["']?(\d{7,12})["']?/i);
+            if (idMatch) window.__botIds.push(idMatch[1]);
+        } catch(e) {}
+    }
 
-            # 2. HACKER API: Đọc trộm JSON
-            if response.request.resource_type in ["fetch", "xhr"] and response.status == 200:
-                content_type = response.headers.get("content-type", "")
-                if "application/json" in content_type or "text/" in content_type:
-                    text = response.text()
-                    
-                    # Tìm link m3u8 lộ liễu
-                    m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', text)
-                    if m3u8_match:
-                        link_stream = m3u8_match.group(0).replace('\\/', '/')
-                        return
-                    
-                    # 💡 FIX LỖI CHÍ MẠNG: ÉP BUỘC CHỈ LẤY ID LÀ SỐ NGUYÊN (\d{7,12}), BỎ QUA HASH CHỮ!
-                    id_match = re.search(r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?', text, re.IGNORECASE)
-                    if id_match:
-                        link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
-                        return
-        except Exception:
-            pass
-
-    page.on("response", handle_response)
+    // Cướp quyền hàm Fetch API
+    const origFetch = window.fetch;
+    window.fetch = async function(...args) {
+        const response = await origFetch.apply(this, args);
+        try {
+            const clone = response.clone();
+            clone.text().then(extractData).catch(()=>({}));
+        } catch(e) {}
+        return response;
+    };
+    
+    // Cướp quyền hàm XHR (Ajax cũ)
+    const origOpen = XMLHttpRequest.prototype.open;
+    XMLHttpRequest.prototype.open = function() {
+        this.addEventListener('load', function() {
+            if (this.responseText) extractData(this.responseText);
+        });
+        origOpen.apply(this, arguments);
+    };
+    """
+    
+    # Tiêm đoạn mã độc trên vào ngay khi web vừa nhúc nhích load
+    page.add_init_script(js_interceptor)
+    
+    # Lưới Network dự phòng bên ngoài
+    def handle_request(req):
+        nonlocal link_stream
+        u = req.url.lower()
+        if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
+            if ".ts" not in u: link_stream = req.url
+                
+    page.on("request", handle_request)
 
     try:
         page.goto(url_tran, wait_until="domcontentloaded", timeout=30000)
         page.wait_for_timeout(2000)
         
-        # Click phá banner
+        # Click phá quảng cáo
         try:
             page.mouse.click(100, 100)
             page.wait_for_timeout(300)
             page.mouse.click(640, 360)
         except: pass
 
-        # 💡 TẦNG 1: Chờ Network (Bắt API & XHR)
-        deadline = time.time() + 5.0
+        deadline = time.time() + 6.0
         while time.time() < deadline:
             if link_stream:
-                print(f"      🎯 [API/Network] Tóm được link: {link_stream[:55]}...")
+                print(f"      🎯 [Network] Tóm được link: {link_stream[:55]}...")
                 return link_stream
+                
+            # Kiểm tra kho dữ liệu mà đoạn mã JS tiêm vào đã thu thập được chưa
+            bot_links = page.evaluate("window.__botLinks")
+            if bot_links and len(bot_links) > 0:
+                link_stream = bot_links[-1]
+                print(f"      🎯 [JS Hack] Chặn được link API: {link_stream[:55]}...")
+                return link_stream
+                
+            bot_ids = page.evaluate("window.__botIds")
+            if bot_ids and len(bot_ids) > 0:
+                link_stream = f"https://live05.grita.app/live/{bot_ids[-1]}.m3u8"
+                print(f"      ⚡ [JS Hack] Đọc trộm được ID Số: {bot_ids[-1]} -> {link_stream}")
+                return link_stream
+                
             time.sleep(0.5)
-            
-        # 💡 TẦNG 2: Lục soát Iframe ẩn
-        if not link_stream:
-            iframes = page.locator("iframe").all()
-            for f in iframes:
-                src = f.get_attribute("src")
-                if src:
-                    if "m3u8" in src.lower() or "flv" in src.lower():
-                        link_stream = src
-                        print(f"      🎯 [Iframe SRC] Bắt sống link: {src[:55]}...")
-                        return src
-                    # CũnG CHỈ LẤY SỐ ở iframe
-                    m = re.search(r'(?:id|room_id|live|houseId)=(\d{7,12})', src, re.IGNORECASE)
-                    if m:
-                        link_stream = f"https://live05.grita.app/live/{m.group(1)}.m3u8"
-                        print(f"      ⚡ [Iframe ID] Ghép link từ ID: {link_stream}")
-                        return link_stream
 
-        # 💡 TẦNG 3: Khoan cắt HTML & NUXT
-        if not link_stream:
-            html = page.content()
-            m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', html)
-            if m3u8_match:
-                link_stream = m3u8_match.group(0).replace('\\/', '/')
-                print(f"      🎯 [DOM HTML] Tóm được link: {link_stream[:55]}...")
-                return link_stream
-            
-            # CHỈ LẤY SỐ ở DOM
-            id_match = re.search(r'(?:houseId|room_id|roomId|match_id)["\'=:\s\/]+(\d{7,12})', html, re.IGNORECASE)
-            if id_match:
-                link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
-                print(f"      ⚡ [DOM ID] Ghép link từ ID ẩn: {link_stream}")
-                return link_stream
+        # Nếu vẫn tịt, dùng cào DOM truyền thống
+        html = page.content()
+        m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', html)
+        if m3u8_match:
+            link_stream = m3u8_match.group(0).replace('\\/', '/')
+            print(f"      🎯 [DOM HTML] Tóm được link: {link_stream[:55]}...")
+            return link_stream
+        
+        id_match = re.search(r'["\'](?:houseId|room_id|roomId|match_id|id|live_id)["\']\s*[:=]\s*["\']?(\d{7,12})["\']?', html, re.IGNORECASE)
+        if id_match:
+            link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
+            print(f"      ⚡ [DOM ID] Ghép link từ ID: {link_stream}")
+            return link_stream
 
     except Exception as e:
         pass 
     finally:
-        try: page.remove_listener("response", handle_response)
+        try: page.remove_listener("request", handle_request)
         except: pass
         
     return link_stream
