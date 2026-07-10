@@ -1,60 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:22 11/07/2026",
+    "last_updated": "00:32 11/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Dnepr Mogilev vs Fc Minsk | 22:30 10/07",
-                    "tournament": "Giải Bóng đá Ngoại hạng Belarus",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/fd06ba41a2de13ab86456debdc68a330.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ktp Kotka vs Japs | 22:30 10/07",
-                    "tournament": "Giải hạng 2 Phần Lan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8cb20ccb4136279d11c5a40c3015a561.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/750db83b65bc2cae626ae6324b364a1f.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Vaasa Vps vs Sjk | 23:00 10/07",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
@@ -228,6 +180,54 @@
                     "tournament": "Copa de la Liga",
                     "logo_nha": "https://img.gvapi.cc/football/team/a50c3c04722ce6ef1516f6b984b94e07.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/7be75e9789069c97f5b500572950f9c0.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Toronto Raptors vs Doi Bong Ro Boston Celtics | 08:00 11/07",
+                    "tournament": "Giải NBA Summer League",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Los Angeles Lakers vs Oklahoma City Thunder | 09:00 11/07",
+                    "tournament": "Giải NBA Summer League",
+                    "logo_nha": "https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
