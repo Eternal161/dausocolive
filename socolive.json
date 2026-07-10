@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "21:42 10/07/2026",
+    "last_updated": "21:52 10/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Lao Nu vs Malaysia Nu | 19:45 10/07",
-                    "tournament": "Giải bóng đá nữ Đông Nam Á",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d754f7302ec0da60aeb079c36b4938d4.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Shakhtar Karagandy vs Fc Turan | 20:00 10/07",
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
@@ -228,6 +204,30 @@
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
                     "logo_nha": "https://img.gvapi.cc/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sport Club Recife Pe vs Botafogo | 06:00 11/07",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
