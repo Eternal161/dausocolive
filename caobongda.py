@@ -28,17 +28,47 @@ def lay_m3u8(page, url_tran):
     link_stream = ""
     BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "segment", "/ad/", "/ads/"]
     
-    def handle_request(request):
+    # 💡 LƯỚI QUÉT TỐI THƯỢNG: ĐỌC TRỘM PHẢN HỒI API (RESPONSE) TỪ MÁY CHỦ
+    def handle_response(response):
         nonlocal link_stream
-        u = request.url.lower()
-        if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
-            if ".ts" not in u: 
-                link_stream = request.url
+        if link_stream: return # Có link rồi thì dừng
+        
+        try:
+            u = response.url.lower()
+            
+            # 1. Bắt trực tiếp link M3U8/FLV nếu nó vô tình lộ ra
+            if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
+                if ".ts" not in u: 
+                    link_stream = response.url
+                    return
 
-    page.on("request", handle_request)
+            # 2. HACKER API: Đọc trộm nội dung JSON máy chủ trả về
+            if response.request.resource_type in ["fetch", "xhr"] and response.status == 200:
+                content_type = response.headers.get("content-type", "")
+                if "application/json" in content_type or "text/" in content_type:
+                    text = response.text()
+                    
+                    # Tìm link trực tiếp giấu trong chuỗi JSON
+                    m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', text)
+                    if m3u8_match:
+                        link_stream = m3u8_match.group(0).replace('\\/', '/')
+                        return
+                    
+                    # Hoặc tìm ID giấu trong JSON
+                    id_match = re.search(r'["\'](?:houseId|room_id|roomId|match_id|id)["\']\s*:\s*["\']?([a-zA-Z0-9]{7,25})["\']?', text, re.IGNORECASE)
+                    if id_match:
+                        hid = id_match.group(1)
+                        if len(hid) >= 7: # Lọc các ID rác quá ngắn
+                            link_stream = f"https://live05.grita.app/live/{hid}.m3u8"
+                            return
+        except Exception:
+            pass
+
+    # Kích hoạt lưới bắt Response
+    page.on("response", handle_response)
 
     try:
-        page.goto(url_tran, wait_until="domcontentloaded", timeout=25000)
+        page.goto(url_tran, wait_until="domcontentloaded", timeout=30000)
         page.wait_for_timeout(2000)
         
         # Click giữa màn hình để kích hoạt video ẩn
@@ -48,61 +78,49 @@ def lay_m3u8(page, url_tran):
             page.mouse.click(640, 360)
         except: pass
 
-        # 💡 TẦNG 1: Chờ Network (Bắt luồng trực tiếp bay qua)
+        # 💡 TẦNG 1: Chờ Network (Bắt API & XHR)
         deadline = time.time() + 5.0
         while time.time() < deadline:
             if link_stream:
-                print(f"      🎯 [Network] Tóm được link: {link_stream[:55]}...")
+                print(f"      🎯 [API/Network] Tóm được link: {link_stream[:55]}...")
                 return link_stream
             time.sleep(0.5)
             
         # 💡 TẦNG 2: Lục soát toàn bộ thẻ Iframe ẩn
-        iframes = page.locator("iframe").all()
-        for f in iframes:
-            src = f.get_attribute("src")
-            if src:
-                if "m3u8" in src.lower():
-                    print(f"      🎯 [Iframe SRC] Bắt sống link: {src[:55]}")
-                    return src
-                # Lọc ID dạng số trong link thẻ iframe
-                m = re.search(r'(?:id|room_id|live|houseId)=([0-9]{7,10})', src, re.IGNORECASE)
-                if m:
-                    link_stream = f"https://live05.grita.app/live/{m.group(1)}.m3u8"
-                    print(f"      ⚡ [Iframe ID] Ghép link từ ID: {link_stream}")
-                    return link_stream
+        if not link_stream:
+            iframes = page.locator("iframe").all()
+            for f in iframes:
+                src = f.get_attribute("src")
+                if src:
+                    if "m3u8" in src.lower() or "flv" in src.lower():
+                        link_stream = src
+                        print(f"      🎯 [Iframe SRC] Bắt sống link: {src[:55]}...")
+                        return src
+                    m = re.search(r'(?:id|room_id|live|houseId)=([a-zA-Z0-9]{7,25})', src, re.IGNORECASE)
+                    if m:
+                        link_stream = f"https://live05.grita.app/live/{m.group(1)}.m3u8"
+                        print(f"      ⚡ [Iframe ID] Ghép link từ ID: {link_stream}")
+                        return link_stream
 
-        # 💡 TẦNG 3: Khoan cắt bê tông vào mọi Frame con của trang
-        for frame in page.frames:
-            try:
-                html = frame.content()
-                # Bắt thẳng link m3u8/flv nếu lộ
-                m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', html)
-                if m3u8_match:
-                    link_stream = m3u8_match.group(0).replace('\\/', '/')
-                    print(f"      🎯 [DOM Frame] Tóm được link: {link_stream[:55]}...")
-                    return link_stream
-                
-                # Bắt ID số bị giấu
-                id_match = re.search(r'(?:houseId|room_id|roomId|match_id)["\'=:\s\/]+(\d{7,10})', html, re.IGNORECASE)
-                if id_match:
-                    link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
-                    print(f"      ⚡ [DOM ID] Ghép link từ ID ẩn: {link_stream}")
-                    return link_stream
-            except: pass
-
-        # 💡 TẦNG 4: Hack thẳng vào biến hệ thống Nuxt.js của web
-        nuxt_data = page.evaluate("() => window.__NUXT__ ? JSON.stringify(window.__NUXT__) : ''")
-        if nuxt_data:
-            id_match = re.search(r'room_id["\':\s]+(\d{7,10})', nuxt_data)
+        # 💡 TẦNG 3: Khoan cắt HTML & NUXT
+        if not link_stream:
+            html = page.content()
+            m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', html)
+            if m3u8_match:
+                link_stream = m3u8_match.group(0).replace('\\/', '/')
+                print(f"      🎯 [DOM HTML] Tóm được link: {link_stream[:55]}...")
+                return link_stream
+            
+            id_match = re.search(r'(?:houseId|room_id|roomId|match_id)["\'=:\s\/]+([a-zA-Z0-9]{7,25})', html, re.IGNORECASE)
             if id_match:
                 link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
-                print(f"      ⚡ [NUXT API] Tìm thấy ID Hệ thống: {link_stream}")
+                print(f"      ⚡ [DOM ID] Ghép link từ ID ẩn: {link_stream}")
                 return link_stream
 
     except Exception as e:
         pass 
     finally:
-        try: page.remove_listener("request", handle_request)
+        try: page.remove_listener("response", handle_response)
         except: pass
         
     return link_stream
@@ -127,7 +145,6 @@ def cao_colatv():
         )
         page = context.new_page()
         
-        # 💡 ĐÃ BỔ SUNG BỘ GIÁP CHỐNG CHẶN API TẠI ĐÂY!
         apply_stealth(page)
         
         try:
@@ -154,7 +171,6 @@ def cao_colatv():
                     logo_nha = the_cha.locator(".match-home img").get_attribute("src")
                     logo_khach = the_cha.locator(".match-away img").get_attribute("src")
                     
-                    # Kiểm tra xem trận đấu có đang live thật không
                     text_the = the_cha.text_content().lower()
                     if any(k in text_the for k in ['hiệp', 'live', 'ht', 'ft', 'bù']) or re.search(r'\d+\s*[:\-]\s*\d+', text_the):
                         is_actually_live = True
@@ -193,7 +209,6 @@ def cao_colatv():
                 
                 formatted_name = f"{tran['ten_tran']} | {tran['thoi_gian']}"
                 
-                # CHUẨN HÓA NHÃN: Đang đá thật -> ● LIVE. Chưa đá -> ⏳ Chưa live (Dù đã có link houseId)
                 if tran['is_live'] and link_m3u8:
                     label_text = "● LIVE"
                 elif link_m3u8:
