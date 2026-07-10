@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:42 10/07/2026",
+    "last_updated": "18:52 10/07/2026",
     "groups": [
         {
             "id": "live",
@@ -60,30 +60,6 @@
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Dandenong City vs South Melbourne | 16:45 10/07",
-                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3a4dae29240839fa156aad32c63b0795.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
@@ -228,6 +204,30 @@
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
                     "logo_nha": "https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/3bd267c6eccc8d58c06c4c2c9ceba810.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kommunalnik Slonim vs Niva Dolbizno | 21:30 10/07",
+                    "tournament": "Giải hạng Hai Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/0c32d507c2e7d454612e1ada7f4359bf.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f509d6bfe4b8077bb1be2fdaf58be503.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
