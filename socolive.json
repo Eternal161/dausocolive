@@ -1,36 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "12:22 10/07/2026",
+    "last_updated": "12:32 10/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Los Angeles Clippers vs Sacramento Kings | 10:00 10/07",
-                    "tournament": "Giải NBA Summer League",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ha Noi Nu vs Thai Nguyen Nu | 16:00 10/07",
                     "tournament": "Women's National League",
@@ -228,6 +204,30 @@
                     "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
                     "logo_nha": "https://img.gvapi.cc/football/team/85c080cf02a7161687ddd5b5800dc303.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ekibastuz vs Kairat Almaty Ii | 19:00 10/07",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d8baf3ab5d39bcdab1d636a69e0e8086.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a45149dd3ce5f0114a126fac0f44adbc.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
