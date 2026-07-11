@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:01 11/07/2026",
+    "last_updated": "23:11 11/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Aalesund Fk vs Molde | 21:00 11/07",
-                    "tournament": "Giải vô địch quốc gia Na Uy",
-                    "logo_nha": "https://img.gvapi.cc/football/team/6ac791d55849be61801c6c1827b52811.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d33c046e5f96387c208d1fa63a9a918a.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/24561735.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Neftekhimik vs Veles Moscow | 22:00 11/07",
                     "tournament": "Giải Bóng đá Quốc gia Nga",
