@@ -24,86 +24,86 @@ def apply_stealth(page):
 TARGET_URL = "https://colatv62.live"
 LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY
 
-def lay_m3u8_spa(page, url_path):
-    link_stream = ""
-    
-    # 💡 XÓA SẠCH BỘ NHỚ TRƯỚC KHI VÀO TRẬN MỚI
-    page.evaluate("window.__botIds = []; window.__botLinks = [];")
-    
-    def handle_response(response):
-        nonlocal link_stream
-        if link_stream: return
-        try:
-            u = response.url.lower()
-            if (".m3u8" in u or ".flv" in u or "grita.app" in u) and "quangcao" not in u and ".ts" not in u:
-                link_stream = response.url
-                return
-                
-            if response.request.resource_type in ["fetch", "xhr"] and response.status == 200:
-                text = response.text()
-                m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', text)
-                if m3u8_match:
-                    link_stream = m3u8_match.group(0).replace('\\/', '/')
-                    return
-                    
-                # Ép buộc chỉ lấy ID số nguyên
-                id_match = re.search(r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?', text, re.IGNORECASE)
-                if id_match:
-                    link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
-                    return
-        except: pass
-
-    page.on("response", handle_response)
-    
+def lay_m3u8_spa(page, url_path, slug):
+    # 1. Đảm bảo luôn xuất phát từ Trang Chủ sạch sẽ
+    if TARGET_URL not in page.url or len(page.url) > len(TARGET_URL) + 5:
+        page.goto(TARGET_URL, wait_until="domcontentloaded", timeout=30000)
+        page.wait_for_timeout(2000)
+        
+    # Click bừa để tắt popup nếu có
     try:
-        # Click chuyển trang ảo (Client-side routing)
-        page.evaluate('''([path]) => {
-            let link = document.querySelector(`a[href="${path}"]`) || document.querySelector(`a[href="${window.location.origin + path}"]`);
-            if (link) {
-                link.click();
-            } else if (window.$nuxt && window.$nuxt.$router) {
-                window.$nuxt.$router.push(path);
-            } else {
-                window.location.href = path;
-            }
-        }''', [url_path])
-        
-        # Đợi trang chuyển cảnh và API nhả dữ liệu
-        deadline = time.time() + 6.0
-        while time.time() < deadline:
-            if link_stream: 
-                print(f"      🎯 [SPA Network] Tóm được link: {link_stream[:55]}...")
-                break
-            
-            bot_ids = page.evaluate("window.__botIds || []")
-            if bot_ids and len(bot_ids) > 0:
-                link_stream = f"https://live05.grita.app/live/{bot_ids[-1]}.m3u8"
-                print(f"      ⚡ [SPA JS Hack] Lấy được ID Số: {bot_ids[-1]}")
-                break
-                
-            bot_links = page.evaluate("window.__botLinks || []")
-            if bot_links and len(bot_links) > 0:
-                link_stream = bot_links[-1]
-                print(f"      🎯 [SPA JS Hack] Lấy được Link: {link_stream[:55]}...")
-                break
-                
-            time.sleep(0.5)
-            
-        # 💡 ĐÃ XÓA TẦNG QUÉT DOM HTML Ở ĐÂY ĐỂ TRÁNH VỚT NHẦM ID CỦA TRẬN CŨ DO NUXT CACHE!
-                
+        page.mouse.click(10, 10)
+        page.wait_for_timeout(300)
+    except: pass
+
+    # 2. Click chuyển cảnh vào Phòng Xem (Client-side routing)
+    try:
+        page.evaluate(f'''() => {{
+            let a = document.querySelector('a[href*="{slug}"]') || document.querySelector('a[href="{url_path}"]');
+            if (a) a.click();
+            else if (window.$nuxt && window.$nuxt.$router) window.$nuxt.$router.push('{url_path}');
+        }}''')
     except Exception as e:
-        print(f"      ⚠️ Lỗi chuyển trang ảo: {e}")
-    finally:
-        try: page.remove_listener("response", handle_response)
-        except: pass
+        print(f"      ⚠️ Lỗi click ảo: {e}")
+        return ""
+
+    # 3. Đợi Phòng Xem render hoàn tất
+    try:
+        page.wait_for_url(f"**/*{slug}*", timeout=8000)
+    except: pass
+    page.wait_for_timeout(2500) # Đợi thêm 2.5s cho Player và URL ổn định
+    
+    # 💡 BẮT ĐẦU CÀO TRỰC TIẾP TRONG PHÒNG XEM (KHÔNG SỢ TRÙNG ID NỮA)
+    
+    # TẦNG 1: Nhìn thẳng lên thanh URL (Socolive đôi khi nhả houseId lên URL sau khi load)
+    curr_url = page.url
+    id_match = re.search(r'houseId=(\d{7,12})', curr_url, re.IGNORECASE)
+    if id_match:
+        link = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
+        print(f"      ⚡ [Tầng 1 - URL] Tóm được ID chuẩn: {id_match.group(1)}")
+        return link
+
+    # TẦNG 2: Nhìn thẳng vào Iframe của Video Player
+    iframes = page.locator("iframe").all()
+    for f in iframes:
+        src = f.get_attribute("src")
+        if src:
+            if "m3u8" in src.lower() or "flv" in src.lower():
+                print(f"      🎯 [Tầng 2 - Iframe] Lấy được Link thô.")
+                return src
+            m = re.search(r'(?:id|room_id|live|houseId)=(\d{7,12})', src, re.IGNORECASE)
+            if m:
+                link = f"https://live05.grita.app/live/{m.group(1)}.m3u8"
+                print(f"      ⚡ [Tầng 2 - Iframe] Tóm được ID chuẩn: {m.group(1)}")
+                return link
+
+    # TẦNG 3: Bóc tách mã nguồn NUXT với logic KHÓA CHẶT (Chỉ lấy ID nằm cạnh tên Slug của trận đấu này)
+    nuxt_data = page.evaluate("window.__NUXT__ ? JSON.stringify(window.__NUXT__) : ''")
+    if nuxt_data:
+        # Tìm Slug trước, rồi quét trong phạm vi 400 ký tự xung quanh nó xem có ID nào không
+        p1 = re.escape(slug) + r'.{0,400}?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?'
+        p2 = r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?.{0,400}?' + re.escape(slug)
         
-    return link_stream
+        m1 = re.search(p1, nuxt_data, re.IGNORECASE)
+        if m1:
+            link = f"https://live05.grita.app/live/{m1.group(1)}.m3u8"
+            print(f"      ⚡ [Tầng 3 - Nuxt/Slug] Khớp được ID chuẩn: {m1.group(1)}")
+            return link
+            
+        m2 = re.search(p2, nuxt_data, re.IGNORECASE)
+        if m2:
+            link = f"https://live05.grita.app/live/{m2.group(1)}.m3u8"
+            print(f"      ⚡ [Tầng 3 - Nuxt/Slug] Khớp được ID chuẩn: {m2.group(1)}")
+            return link
+
+    print("      ⚠️ Đã lục tung phòng xem nhưng không thấy link.")
+    return ""
 
 def cao_colatv():
     danh_sach_tran_phu_hop = []
     
     with sync_playwright() as p:
-        print("🚀 Khởi động Thợ Săn ColaTV (Bản Fix Dính ID)...")
+        print("🚀 Khởi động Thợ Săn ColaTV (Bản Fix Lỗi Trùng ID)...")
         browser = p.chromium.launch(headless=True, args=[
                 "--no-sandbox", 
                 "--disable-web-security",
@@ -121,31 +121,9 @@ def cao_colatv():
         
         apply_stealth(page)
         
-        # TIÊM MÃ ĐỘC VÀO LÕI TRÌNH DUYỆT
-        js_interceptor = r"""
-        window.__botLinks = []; window.__botIds = [];
-        function extractData(text) {
-            try {
-                const clean = text.replace(/\\\//g, '/');
-                const lMatch = clean.match(/https?:\/\/[^"']+\.(m3u8|flv)[^"']*/i);
-                if (lMatch) window.__botLinks.push(lMatch[0]);
-                
-                const iMatch = clean.match(/["'](?:houseId|room_id|roomId|match_id|id|live_id)["']\s*[:=]\s*["']?(\d{7,12})["']?/i);
-                if (iMatch) window.__botIds.push(iMatch[1]);
-            } catch(e) {}
-        }
-        const origFetch = window.fetch;
-        window.fetch = async function(...args) {
-            const response = await origFetch.apply(this, args);
-            try { response.clone().text().then(extractData).catch(()=>({})); } catch(e) {}
-            return response;
-        };
-        """
-        page.add_init_script(js_interceptor)
-        
         try:
             page.goto(TARGET_URL, wait_until="domcontentloaded", timeout=60000)
-            page.wait_for_timeout(3000) 
+            page.wait_for_timeout(4000) 
             
             cac_the_link = page.locator("a.link-match").all()
             for the_link in cac_the_link:
@@ -159,7 +137,7 @@ def cao_colatv():
                 try:
                     giai_dau = the_cha.locator(".match-item__comp").text_content().strip()
                     
-                    # 💡 FIX LỖI: THÊM TỪ KHÓA "NBA" ĐỂ CHẶN SẠCH BÓNG RỔ
+                    # 💡 FIX LỌC TẠP CHẤT: Loại bỏ Bóng rổ & NBA
                     giai_dau_lower = giai_dau.lower()
                     if "bóng rổ" in giai_dau_lower or "basketball" in giai_dau_lower or "nba" in giai_dau_lower:
                         continue
@@ -182,6 +160,7 @@ def cao_colatv():
                 
                 danh_sach_tran_phu_hop.append({
                     "url_path": url_path,
+                    "slug": slug,
                     "giai_dau": giai_dau,
                     "thoi_gian": thoi_gian,
                     "ten_tran": ten_tran_dau,
@@ -197,17 +176,10 @@ def cao_colatv():
             ket_qua_cuoi_cung = []
             
             for i, tran in enumerate(danh_sach_tran_phu_hop, 1):
-                if TARGET_URL not in page.url:
-                    page.goto(TARGET_URL, wait_until="domcontentloaded")
-                    page.wait_for_timeout(1500)
-                    
-                print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang Click Ảo: {tran['ten_tran']}...")
-                link_m3u8 = lay_m3u8_spa(page, tran["url_path"])
+                print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang vào phòng xem: {tran['ten_tran']}...")
                 
-                try: 
-                    page.evaluate("window.history.back()")
-                    page.wait_for_timeout(1500)
-                except: pass
+                # Gọi hàm cào (Tự động xuất phát từ Trang chủ, click, lấy link rồi xong)
+                link_m3u8 = lay_m3u8_spa(page, tran["url_path"], tran["slug"])
                 
                 formatted_name = f"{tran['ten_tran']} | {tran['thoi_gian']}"
                 
