@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:52 11/07/2026",
+    "last_updated": "07:02 11/07/2026",
     "groups": [
         {
             "id": "live",
@@ -12,30 +12,6 @@
                     "tournament": "Giải vô địch quốc gia Ecuador",
                     "logo_nha": "https://img.gvapi.cc/football/team/0bab5c51d1f07f0dc8447c5b860debe3.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/6038ad3b4367e35e235f6bdd24282c52.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Juventude vs Vila Nova | 05:00 11/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
@@ -228,6 +204,30 @@
                     "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
                     "logo_nha": "https://img.gvapi.cc/football/team/4d44d0661cc1d382c732bc98d8535354.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/f5038a16d8e257c41d345a76913cb1a9.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dandenong Thunder vs Bentleigh Greens | 14:00 11/07",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/21b95f24eea9500e1147ed57a68a3ff8.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
