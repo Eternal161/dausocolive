@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:41 12/07/2026",
+    "last_updated": "00:51 12/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Orgryte vs Hacken | 22:30 11/07",
-                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9dd02927b1bf3e324b62a3013c140382.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/93920efdf720a6e94d3ab5e43ae3b504.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/41943555.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tromso vs Valerenga | 23:00 11/07",
                     "tournament": "Giải vô địch quốc gia Na Uy",
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/78905744.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Valentine vs Kahibah Fc | 10:00 12/07",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d9182d4de8845a5d84bf9599e28b04ea.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1bb4601b175d145f9490a4f4f7e602b7.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/16226575.flv"
                                                 }
                                             ]
                                         }
