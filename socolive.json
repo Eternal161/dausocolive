@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "11:01 11/07/2026",
+    "last_updated": "11:11 11/07/2026",
     "groups": [
         {
             "id": "live",
@@ -194,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/24561735.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gimcheon Sangmu Fc vs Bucheon Fc 1995 | 17:30 11/07",
+                    "tournament": "Giải K1 Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/16226575.flv"
                                                 }
                                             ]
                                         }
