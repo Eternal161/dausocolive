@@ -22,7 +22,7 @@ def apply_stealth(page):
 # CONFIG COLATV (SOCOLIVE)
 # ==========================================
 TARGET_URL = "https://colatv62.live"
-LIMIT_MATCHES = 15  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY
+LIMIT_MATCHES = 20  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY
 
 def lay_m3u8_spa(page, url_path, slug):
     link_stream = ""
