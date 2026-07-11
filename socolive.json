@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:11 12/07/2026",
+    "last_updated": "01:21 12/07/2026",
     "groups": [
         {
             "id": "live",
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/90865415.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Palestino vs Deportes Santa Cruz | 02:00 12/07",
-                    "tournament": "Cúp Chile",
-                    "logo_nha": "https://img.gvapi.cc/football/team/93aebb72f5f275d332976c73a7731186.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/803cbee599176fbdda866902a0fff6fd.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/99121525.flv"
                                                 }
                                             ]
                                         }
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/16226575.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Broadmeadow Magic vs Newcastle Olympic | 12:00 12/07",
+                    "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4f0ff310b253f34bfd414c5b2502082c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/aa5f7b825709e21a96d40dea9f611882.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/41943555.flv"
                                                 }
                                             ]
                                         }
