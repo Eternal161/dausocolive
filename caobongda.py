@@ -24,122 +24,76 @@ def apply_stealth(page):
 TARGET_URL = "https://colatv62.live"
 LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY
 
-def lay_m3u8(page, url_tran):
-    link_stream = ""
-    BAD = [".mp4", "quangcao", "banner", "tvc", "google", "facebook", "segment", "/ad/", "/ads/"]
-    
-    # 💡 VŨ KHÍ TỐI THƯỢNG: TIÊM MÃ VÀO LÕI TRÌNH DUYỆT ĐỂ BẮT API TỪ BÊN TRONG
-    js_interceptor = r"""
-    window.__botLinks = [];
-    window.__botIds = [];
-    
-    function extractData(text) {
-        try {
-            // Xóa sổ dấu gạch chéo ngược (escape) để đọc link cho chuẩn
-            const cleanText = text.replace(/\\\//g, '/');
+def lay_m3u8(page, url_tran, slug, nuxt_data_str):
+    # 💡 CHIÊU 1: LỤC KHO DỮ LIỆU NUXT NGAY TẠI TRANG CHỦ
+    # Không cần vào phòng xem, tóm sống ID nằm cạnh tên trận đấu trong bộ nhớ đệm
+    if nuxt_data_str and slug:
+        # Rình xem ID 7-12 số có nằm phía sau slug không
+        pattern_forward = re.escape(slug) + r'.{0,300}?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?'
+        match = re.search(pattern_forward, nuxt_data_str, re.IGNORECASE)
+        if not match:
+            # Rình xem ID có nằm phía trước slug không
+            pattern_backward = r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?.{0,300}?' + re.escape(slug)
+            match = re.search(pattern_backward, nuxt_data_str, re.IGNORECASE)
             
-            // 1. Tóm link m3u8/flv nếu lộ
-            const linkMatch = cleanText.match(/https?:\/\/[^"']+\.(m3u8|flv)[^"']*/i);
-            if (linkMatch) window.__botLinks.push(linkMatch[0]);
-            
-            // 2. ÉP BUỘC CHỈ LẤY ID LÀ SỐ NGUYÊN TỪ 7-12 CHỮ SỐ
-            const idMatch = cleanText.match(/["'](?:houseId|room_id|roomId|match_id|id|live_id)["']\s*[:=]\s*["']?(\d{7,12})["']?/i);
-            if (idMatch) window.__botIds.push(idMatch[1]);
-        } catch(e) {}
-    }
+        if match:
+            link = f"https://live05.grita.app/live/{match.group(1)}.m3u8"
+            print(f"      ⚡ [Chiêu 1 - NUXT Cache] Móc túi thành công ID: {match.group(1)}")
+            return link
 
-    // Cướp quyền hàm Fetch API
-    const origFetch = window.fetch;
-    window.fetch = async function(...args) {
-        const response = await origFetch.apply(this, args);
-        try {
-            const clone = response.clone();
-            clone.text().then(extractData).catch(()=>({}));
-        } catch(e) {}
-        return response;
-    };
-    
-    // Cướp quyền hàm XHR (Ajax cũ)
-    const origOpen = XMLHttpRequest.prototype.open;
-    XMLHttpRequest.prototype.open = function() {
-        this.addEventListener('load', function() {
-            if (this.responseText) extractData(this.responseText);
-        });
-        origOpen.apply(this, arguments);
-    };
+    # 💡 CHIÊU 2: DÙNG FETCH NGẦM (BYPASS TƯỜNG LỬA DATACENTER)
+    # Lợi dụng thẻ VIP của trang chủ để tải ngầm dữ liệu phòng xem mà không bị khóa 404
+    print(f"      > Đang dùng Fetch ngầm tải dữ liệu phòng xem...")
+    js_fetch = f"""
+    async () => {{
+        try {{
+            const res = await fetch("{url_tran}");
+            return await res.text();
+        }} catch(e) {{ return ""; }}
+    }}
     """
+    html_ngam = page.evaluate(js_fetch)
     
-    # Tiêm đoạn mã độc trên vào ngay khi web vừa nhúc nhích load
-    page.add_init_script(js_interceptor)
-    
-    # Lưới Network dự phòng bên ngoài
-    def handle_request(req):
-        nonlocal link_stream
-        u = req.url.lower()
-        if (".m3u8" in u or ".flv" in u or "grita.app" in u) and not any(b in u for b in BAD):
-            if ".ts" not in u: link_stream = req.url
-                
-    page.on("request", handle_request)
-
-    try:
-        page.goto(url_tran, wait_until="domcontentloaded", timeout=30000)
-        page.wait_for_timeout(2000)
-        
-        # Click phá quảng cáo
-        try:
-            page.mouse.click(100, 100)
-            page.wait_for_timeout(300)
-            page.mouse.click(640, 360)
-        except: pass
-
-        deadline = time.time() + 6.0
-        while time.time() < deadline:
-            if link_stream:
-                print(f"      🎯 [Network] Tóm được link: {link_stream[:55]}...")
-                return link_stream
-                
-            # Kiểm tra kho dữ liệu mà đoạn mã JS tiêm vào đã thu thập được chưa
-            bot_links = page.evaluate("window.__botLinks")
-            if bot_links and len(bot_links) > 0:
-                link_stream = bot_links[-1]
-                print(f"      🎯 [JS Hack] Chặn được link API: {link_stream[:55]}...")
-                return link_stream
-                
-            bot_ids = page.evaluate("window.__botIds")
-            if bot_ids and len(bot_ids) > 0:
-                link_stream = f"https://live05.grita.app/live/{bot_ids[-1]}.m3u8"
-                print(f"      ⚡ [JS Hack] Đọc trộm được ID Số: {bot_ids[-1]} -> {link_stream}")
-                return link_stream
-                
-            time.sleep(0.5)
-
-        # Nếu vẫn tịt, dùng cào DOM truyền thống
-        html = page.content()
-        m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', html)
-        if m3u8_match:
-            link_stream = m3u8_match.group(0).replace('\\/', '/')
-            print(f"      🎯 [DOM HTML] Tóm được link: {link_stream[:55]}...")
-            return link_stream
-        
-        id_match = re.search(r'["\'](?:houseId|room_id|roomId|match_id|id|live_id)["\']\s*[:=]\s*["\']?(\d{7,12})["\']?', html, re.IGNORECASE)
+    if html_ngam:
+        # Bắt ID số
+        id_match = re.search(r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?', html_ngam, re.IGNORECASE)
         if id_match:
-            link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
-            print(f"      ⚡ [DOM ID] Ghép link từ ID: {link_stream}")
-            return link_stream
+            link = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
+            print(f"      ⚡ [Chiêu 2 - Fetch Ngầm] Bắt được ID ẩn: {id_match.group(1)}")
+            return link
+            
+        # Bắt link trực tiếp nếu lộ
+        m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', html_ngam)
+        if m3u8_match:
+            link = m3u8_match.group(0).replace('\\/', '/')
+            print(f"      🎯 [Chiêu 2 - Fetch Ngầm] Bắt được link thô: {link}")
+            return link
 
-    except Exception as e:
-        pass 
-    finally:
-        try: page.remove_listener("request", handle_request)
-        except: pass
+    # 💡 CHIÊU 3: MỞ TAB MỚI LẤY HTML (Fallback cuối cùng nếu CF chặn Fetch)
+    print(f"      > Bật Tab ẩn danh để cào HTML...")
+    try:
+        new_page = page.context.new_page()
+        apply_stealth(new_page)
+        new_page.goto(url_tran, wait_until="domcontentloaded", timeout=15000)
+        html_tab = new_page.content()
+        new_page.close()
         
-    return link_stream
+        id_match = re.search(r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?', html_tab, re.IGNORECASE)
+        if id_match:
+            link = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
+            print(f"      ⚡ [Chiêu 3 - Tab HTML] Cào trúng ID: {id_match.group(1)}")
+            return link
+    except Exception:
+        try: new_page.close()
+        except: pass
+
+    return ""
 
 def cao_colatv():
     danh_sach_tran_phu_hop = []
     
     with sync_playwright() as p:
-        print("🚀 Khởi động Thợ Săn ColaTV (Socolive)...")
+        print("🚀 Khởi động Thợ Săn ColaTV (Chiến thuật Bóng Ma)...")
         browser = p.chromium.launch(headless=True, args=[
                 "--no-sandbox", 
                 "--disable-web-security",
@@ -154,12 +108,14 @@ def cao_colatv():
             timezone_id="Asia/Ho_Chi_Minh"
         )
         page = context.new_page()
-        
         apply_stealth(page)
         
         try:
             page.goto(TARGET_URL, wait_until="domcontentloaded", timeout=60000)
-            page.wait_for_timeout(3000) 
+            page.wait_for_timeout(4000) 
+            
+            # 💡 Bốc toàn bộ kho dữ liệu NUXT của trang chủ
+            nuxt_data_str = page.evaluate("() => window.__NUXT__ ? JSON.stringify(window.__NUXT__) : ''")
             
             cac_the_link = page.locator("a.link-match").all()
             for the_link in cac_the_link:
@@ -198,6 +154,7 @@ def cao_colatv():
                 
                 danh_sach_tran_phu_hop.append({
                     "url": link_full,
+                    "slug": slug, # 💡 Lưu lại slug để tìm ID
                     "giai_dau": giai_dau,
                     "thoi_gian": thoi_gian,
                     "ten_tran": ten_tran_dau,
@@ -207,24 +164,22 @@ def cao_colatv():
                 })
             
             print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá.")
-            
             danh_sach_tran_phu_hop = danh_sach_tran_phu_hop[:LIMIT_MATCHES]
-            print(f"✂️ Đã áp dụng Limit! Chỉ chui vào lấy m3u8 của {len(danh_sach_tran_phu_hop)} trận đầu tiên...\n")
+            print(f"✂️ Đã áp dụng Limit! Chỉ móc link của {len(danh_sach_tran_phu_hop)} trận đầu tiên...\n")
             
             ket_qua_cuoi_cung = []
             
             for i, tran in enumerate(danh_sach_tran_phu_hop, 1):
                 print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang xử lý: {tran['ten_tran']}...")
-                link_m3u8 = lay_m3u8(page, tran["url"])
+                
+                # 💡 Truyền thêm NUXT data và Slug vào để phá án
+                link_m3u8 = lay_m3u8(page, tran["url"], tran["slug"], nuxt_data_str)
                 
                 formatted_name = f"{tran['ten_tran']} | {tran['thoi_gian']}"
                 
-                if tran['is_live'] and link_m3u8:
-                    label_text = "● LIVE"
-                elif link_m3u8:
-                    label_text = "⏳ Chưa live"
-                else:
-                    label_text = "⏳ Chưa có link"
+                if tran['is_live'] and link_m3u8: label_text = "● LIVE"
+                elif link_m3u8: label_text = "⏳ Chưa live"
+                else: label_text = "⏳ Chưa có link"
                     
                 stream_links = [{"url": link_m3u8}] if link_m3u8 else []
 
