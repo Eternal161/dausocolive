@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "03:41 12/07/2026",
+    "last_updated": "03:51 12/07/2026",
     "groups": [
         {
             "id": "live",
@@ -25,35 +25,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.grita.app/live/24561735.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Real Oruro vs San Jose De Oruro | 02:00 12/07",
-                    "tournament": "Giải bóng đá Hạng nhất Bolivia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/d2428da8ed3ec5eeba351e8a5e4c551f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/366a463aa2c1d3dde4c04891b5f6b735.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/90865415.flv"
+                                                    "url": "https://live05.grita.app/live/08552895.flv"
                                                 }
                                             ]
                                         }
@@ -165,7 +137,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.grita.app/live/59444581.flv"
+                                                    "url": "https://live05.grita.app/live/08552895.flv"
                                                 }
                                             ]
                                         }
