@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:51 11/07/2026",
+    "last_updated": "08:01 11/07/2026",
     "groups": [
         {
             "id": "live",
@@ -53,63 +53,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.grita.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Toronto Raptors vs Boston Celtics | 08:00 11/07",
-                    "tournament": "Giải NBA Summer League",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Los Angeles Lakers vs Oklahoma City Thunder | 09:00 11/07",
-                    "tournament": "Giải NBA Summer League",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/87379114.m3u8"
+                                                    "url": "https://live05.grita.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
@@ -124,34 +68,6 @@
                     "tournament": "NWSL Nữ",
                     "logo_nha": "https://img.gvapi.cc/football/team/fd9762b659f2d4b171a681d99665e0f6.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/04417dc18d795cbdec6fe6f86a141e25.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Phoenix Suns vs Portland Trail Blazers | 10:00 11/07",
-                    "tournament": "Giải NBA Summer League",
-                    "logo_nha": "https://img.gvapi.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -249,7 +165,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.grita.app/live/59444581.m3u8"
+                                                    "url": "https://live05.grita.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
