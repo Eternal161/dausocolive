@@ -1,68 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "16:51 11/07/2026",
+    "last_updated": "17:01 11/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Moreton Bay Utd vs Magic United Tfa | 15:00 11/07",
-                    "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a3e3ccdb89e29c21ae1908c3597c318f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8522ff180fb732ae561a83c85f24d3fb.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/59444581.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Broadbeach United vs Caboolture Fc | 15:00 11/07",
-                    "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/40e331bba4de0186e268d8ba8e10f1d4.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/335dad7f811f451658b42b2688eef5a9.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/82054853.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Yanbian Longding vs Suzhou Dongwu | 17:00 11/07",
                     "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
@@ -334,6 +278,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/08552895.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Volga Ulyanovsk vs Yenisey Krasnoyarsk | 20:00 11/07",
+                    "tournament": "Giải Bóng đá Quốc gia Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ae7b34750e76cbf545c4f36abf550829.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/4d95fbf6c8f3fcee43e522635455d60d.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/19919577.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Aalesund Fk vs Molde | 21:00 11/07",
+                    "tournament": "Giải vô địch quốc gia Na Uy",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6ac791d55849be61801c6c1827b52811.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d33c046e5f96387c208d1fa63a9a918a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/24561735.flv"
                                                 }
                                             ]
                                         }
