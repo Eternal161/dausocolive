@@ -27,10 +27,9 @@ LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY
 def lay_m3u8_spa(page, url_path):
     link_stream = ""
     
-    # Reset mảng chứa ID/Link của phiên trước
+    # 💡 XÓA SẠCH BỘ NHỚ TRƯỚC KHI VÀO TRẬN MỚI
     page.evaluate("window.__botIds = []; window.__botLinks = [];")
     
-    # 💡 LƯỚI QUÉT NGẦM TRONG QUÁ TRÌNH CHUYỂN TRANG
     def handle_response(response):
         nonlocal link_stream
         if link_stream: return
@@ -46,7 +45,8 @@ def lay_m3u8_spa(page, url_path):
                 if m3u8_match:
                     link_stream = m3u8_match.group(0).replace('\\/', '/')
                     return
-                # Ép buộc chỉ lấy ID số nguyên, bỏ qua mã Hash chữ!
+                    
+                # Ép buộc chỉ lấy ID số nguyên
                 id_match = re.search(r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?', text, re.IGNORECASE)
                 if id_match:
                     link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
@@ -56,7 +56,7 @@ def lay_m3u8_spa(page, url_path):
     page.on("response", handle_response)
     
     try:
-        # 💡 CHIÊU CUỐI: CLICK ẢO ĐỂ LÁCH TƯỜNG LỬA CHẶN TRUY CẬP TRỰC TIẾP (404)
+        # Click chuyển trang ảo (Client-side routing)
         page.evaluate('''([path]) => {
             let link = document.querySelector(`a[href="${path}"]`) || document.querySelector(`a[href="${window.location.origin + path}"]`);
             if (link) {
@@ -68,14 +68,13 @@ def lay_m3u8_spa(page, url_path):
             }
         }''', [url_path])
         
-        # Đợi trang chuyển cảnh và Api nhả dữ liệu
+        # Đợi trang chuyển cảnh và API nhả dữ liệu
         deadline = time.time() + 6.0
         while time.time() < deadline:
             if link_stream: 
                 print(f"      🎯 [SPA Network] Tóm được link: {link_stream[:55]}...")
                 break
             
-            # Kiểm tra xem mã Tiêm JS đã ăn trộm được ID chưa
             bot_ids = page.evaluate("window.__botIds || []")
             if bot_ids and len(bot_ids) > 0:
                 link_stream = f"https://live05.grita.app/live/{bot_ids[-1]}.m3u8"
@@ -90,13 +89,7 @@ def lay_m3u8_spa(page, url_path):
                 
             time.sleep(0.5)
             
-        # Vét máng bằng DOM nếu tất cả đều trượt
-        if not link_stream:
-            html = page.content()
-            id_match = re.search(r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?', html, re.IGNORECASE)
-            if id_match:
-                link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
-                print(f"      ⚡ [SPA DOM] Bóc được ID ẩn: {id_match.group(1)}")
+        # 💡 ĐÃ XÓA TẦNG QUÉT DOM HTML Ở ĐÂY ĐỂ TRÁNH VỚT NHẦM ID CỦA TRẬN CŨ DO NUXT CACHE!
                 
     except Exception as e:
         print(f"      ⚠️ Lỗi chuyển trang ảo: {e}")
@@ -110,7 +103,7 @@ def cao_colatv():
     danh_sach_tran_phu_hop = []
     
     with sync_playwright() as p:
-        print("🚀 Khởi động Thợ Săn ColaTV (Chiến Thuật Người Dùng Ảo)...")
+        print("🚀 Khởi động Thợ Săn ColaTV (Bản Fix Dính ID)...")
         browser = p.chromium.launch(headless=True, args=[
                 "--no-sandbox", 
                 "--disable-web-security",
@@ -128,7 +121,7 @@ def cao_colatv():
         
         apply_stealth(page)
         
-        # 💡 TIÊM MÃ ĐỘC VÀO LÕI TRÌNH DUYỆT ĐỂ BẮT API TỪ BÊN TRONG
+        # TIÊM MÃ ĐỘC VÀO LÕI TRÌNH DUYỆT
         js_interceptor = r"""
         window.__botLinks = []; window.__botIds = [];
         function extractData(text) {
@@ -137,7 +130,6 @@ def cao_colatv():
                 const lMatch = clean.match(/https?:\/\/[^"']+\.(m3u8|flv)[^"']*/i);
                 if (lMatch) window.__botLinks.push(lMatch[0]);
                 
-                // KIÊN QUYẾT CHỈ LẤY ID LÀ CHUỖI SỐ NGUYÊN TỪ 7-12 KÝ TỰ
                 const iMatch = clean.match(/["'](?:houseId|room_id|roomId|match_id|id|live_id)["']\s*[:=]\s*["']?(\d{7,12})["']?/i);
                 if (iMatch) window.__botIds.push(iMatch[1]);
             } catch(e) {}
@@ -160,14 +152,18 @@ def cao_colatv():
                 href = the_link.get_attribute("href")
                 if not href: continue
                 
-                # Bóc tách đường dẫn đuôi để Lướt Web Ảo (vd: /truc-tiep/shandong...)
                 url_path = href.replace(TARGET_URL, "") if href.startswith(TARGET_URL) else href
-                
                 the_cha = the_link.locator("xpath=..")
                 logo_nha = ""; logo_khach = ""; is_actually_live = False
                 
                 try:
                     giai_dau = the_cha.locator(".match-item__comp").text_content().strip()
+                    
+                    # 💡 FIX LỖI: THÊM TỪ KHÓA "NBA" ĐỂ CHẶN SẠCH BÓNG RỔ
+                    giai_dau_lower = giai_dau.lower()
+                    if "bóng rổ" in giai_dau_lower or "basketball" in giai_dau_lower or "nba" in giai_dau_lower:
+                        continue
+
                     thoi_gian_goc = the_cha.locator(".match-item__time").text_content().strip()
                     thoi_gian = re.sub(r'(\d{1,2}:\d{2})\s*(\d{1,2}/\d{1,2})', r'\1 \2', thoi_gian_goc)
                     logo_nha = the_cha.locator(".match-home img").get_attribute("src")
@@ -177,9 +173,6 @@ def cao_colatv():
                     if any(k in text_the for k in ['hiệp', 'live', 'ht', 'ft', 'bù']) or re.search(r'\d+\s*[:\-]\s*\d+', text_the):
                         is_actually_live = True
                 except: continue
-                
-                if "bóng rổ" in giai_dau.lower() or "basketball" in giai_dau.lower():
-                    continue
 
                 ten_tran_dau = "Đội A vs Đội B"
                 slug = url_path.split("/")[-1]
@@ -188,7 +181,7 @@ def cao_colatv():
                     ten_tran_dau = chuoi_ten.replace("-", " ").title().replace(" Vs ", " vs ")
                 
                 danh_sach_tran_phu_hop.append({
-                    "url_path": url_path, # 💡 LƯU LẠI PATH ĐỂ CLICK
+                    "url_path": url_path,
                     "giai_dau": giai_dau,
                     "thoi_gian": thoi_gian,
                     "ten_tran": ten_tran_dau,
@@ -197,14 +190,13 @@ def cao_colatv():
                     "is_live": is_actually_live
                 })
             
-            print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá.")
+            print(f"✅ Đã lọc ra {len(danh_sach_tran_phu_hop)} trận Bóng đá (đã loại bóng rổ/NBA).")
             danh_sach_tran_phu_hop = danh_sach_tran_phu_hop[:LIMIT_MATCHES]
             print(f"✂️ Đã áp dụng Limit! Bắt đầu cào {len(danh_sach_tran_phu_hop)} trận...\n")
             
             ket_qua_cuoi_cung = []
             
             for i, tran in enumerate(danh_sach_tran_phu_hop, 1):
-                # 1. Đảm bảo Bot luôn khởi hành từ Trang Chủ
                 if TARGET_URL not in page.url:
                     page.goto(TARGET_URL, wait_until="domcontentloaded")
                     page.wait_for_timeout(1500)
@@ -212,7 +204,6 @@ def cao_colatv():
                 print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang Click Ảo: {tran['ten_tran']}...")
                 link_m3u8 = lay_m3u8_spa(page, tran["url_path"])
                 
-                # 2. Xong việc thì Bấm Back quay lại Trang Chủ như người thật!
                 try: 
                     page.evaluate("window.history.back()")
                     page.wait_for_timeout(1500)
