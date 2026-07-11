@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:22 11/07/2026",
+    "last_updated": "07:32 11/07/2026",
     "groups": [
         {
             "id": "live",
@@ -12,30 +12,6 @@
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
                     "logo_nha": "https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tecnico U vs Macara | 07:15 11/07",
-                    "tournament": "Giải vô địch quốc gia Ecuador",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a5c19caa8f0d2c476156ece6470b15a0.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d138a4d0829205be8e477b43d95b138d.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
@@ -108,6 +84,30 @@
                     "tournament": "Giải NBA Summer League",
                     "logo_nha": "https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
                     "logo_khach": "https://img.gvapi.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Phu Nu Hoang Gia Utah vs Gotham Nu | 09:00 11/07",
+                    "tournament": "NWSL Nữ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fd9762b659f2d4b171a681d99665e0f6.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/04417dc18d795cbdec6fe6f86a141e25.png!w80",
                     "labels": [
                         {
                             "text": "⏳ Chưa có link"
