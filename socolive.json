@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "16:31 11/07/2026",
+    "last_updated": "16:41 11/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Apia Tigers vs Sydney Fc U23 | 14:30 11/07",
-                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/6fb81e8272c1a862f2afe6e9858391af.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/41943555.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Moreton Bay Utd vs Magic United Tfa | 15:00 11/07",
                     "tournament": "Giải Ngoại hạng Quốc gia Úc bang Queensland",
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/87547578.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mjallby vs Aik | 20:00 11/07",
+                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
+                    "logo_nha": "https://img.gvapi.cc/football/team/0ffb7ffab7e1720c91427e75b4a50ace.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/08552895.flv"
                                                 }
                                             ]
                                         }
