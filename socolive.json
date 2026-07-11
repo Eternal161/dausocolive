@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:01 11/07/2026",
+    "last_updated": "22:11 11/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Volga Ulyanovsk vs Yenisey Krasnoyarsk | 20:00 11/07",
-                    "tournament": "Giải Bóng đá Quốc gia Nga",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ae7b34750e76cbf545c4f36abf550829.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/4d95fbf6c8f3fcee43e522635455d60d.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/19919577.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Aalesund Fk vs Molde | 21:00 11/07",
                     "tournament": "Giải vô địch quốc gia Na Uy",
@@ -306,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/78905744.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Guayaquil City vs Delfin | 06:00 12/07",
+                    "tournament": "Giải vô địch quốc gia Ecuador",
+                    "logo_nha": "https://img.gvapi.cc/football/team/06c168e54604cc2392646b4c8cea7d9b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e6e7908a2efe1a1688bfb86106e98c30.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/59444581.flv"
                                                 }
                                             ]
                                         }
