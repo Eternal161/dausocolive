@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "10:01 11/07/2026",
+    "last_updated": "10:11 11/07/2026",
     "groups": [
         {
             "id": "live",
@@ -166,6 +166,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/82054853.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Yanbian Longding vs Suzhou Dongwu | 17:00 11/07",
+                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/588b1053c1a8f3c518e8b1f15f30a61a.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/bb318757b867c541d704d93053aa1bfb.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/78905744.flv"
                                                 }
                                             ]
                                         }
