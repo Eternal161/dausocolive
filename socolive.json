@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "16:11 11/07/2026",
+    "last_updated": "16:21 11/07/2026",
     "groups": [
         {
             "id": "live",
@@ -306,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/87379114.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ufa vs Fk Leningradets | 19:00 11/07",
+                    "tournament": "Giải Bóng đá Quốc gia Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/bed3e0e7e7677fc51f43b2e6b33dd040.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c659930080be6bd5532387d5e097c16c.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/87547578.flv"
                                                 }
                                             ]
                                         }
