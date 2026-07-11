@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "12:41 11/07/2026",
+    "last_updated": "12:51 11/07/2026",
     "groups": [
         {
             "id": "live",
@@ -278,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/59444581.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lahti vs Hjk | 19:00 11/07",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/fd1a9c51505300dec9c26e5847114851.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/90865415.flv"
                                                 }
                                             ]
                                         }
