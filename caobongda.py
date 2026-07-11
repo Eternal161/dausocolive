@@ -22,88 +22,86 @@ def apply_stealth(page):
 # CONFIG COLATV (SOCOLIVE)
 # ==========================================
 TARGET_URL = "https://colatv62.live"
-LIMIT_MATCHES = 10  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY
+LIMIT_MATCHES = 15  # 💡 CHỈNH GIỚI HẠN SỐ TRẬN Ở ĐÂY
 
 def lay_m3u8_spa(page, url_path, slug):
-    # 1. Đảm bảo luôn xuất phát từ Trang Chủ sạch sẽ
-    if TARGET_URL not in page.url or len(page.url) > len(TARGET_URL) + 5:
-        page.goto(TARGET_URL, wait_until="domcontentloaded", timeout=30000)
-        page.wait_for_timeout(2000)
-        
-    # Click bừa để tắt popup nếu có
-    try:
-        page.mouse.click(10, 10)
-        page.wait_for_timeout(300)
-    except: pass
-
-    # 2. Click chuyển cảnh vào Phòng Xem (Client-side routing)
-    try:
-        page.evaluate(f'''() => {{
-            let a = document.querySelector('a[href*="{slug}"]') || document.querySelector('a[href="{url_path}"]');
-            if (a) a.click();
-            else if (window.$nuxt && window.$nuxt.$router) window.$nuxt.$router.push('{url_path}');
-        }}''')
-    except Exception as e:
-        print(f"      ⚠️ Lỗi click ảo: {e}")
-        return ""
-
-    # 3. Đợi Phòng Xem render hoàn tất
-    try:
-        page.wait_for_url(f"**/*{slug}*", timeout=8000)
-    except: pass
-    page.wait_for_timeout(2500) # Đợi thêm 2.5s cho Player và URL ổn định
+    link_stream = ""
     
-    # 💡 BẮT ĐẦU CÀO TRỰC TIẾP TRONG PHÒNG XEM (KHÔNG SỢ TRÙNG ID NỮA)
+    # 💡 XÓA SẠCH BỘ NHỚ TRƯỚC KHI VÀO TRẬN MỚI
+    page.evaluate("window.__apiData = [];")
     
-    # TẦNG 1: Nhìn thẳng lên thanh URL (Socolive đôi khi nhả houseId lên URL sau khi load)
-    curr_url = page.url
-    id_match = re.search(r'houseId=(\d{7,12})', curr_url, re.IGNORECASE)
-    if id_match:
-        link = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
-        print(f"      ⚡ [Tầng 1 - URL] Tóm được ID chuẩn: {id_match.group(1)}")
-        return link
+    def handle_response(response):
+        nonlocal link_stream
+        if link_stream: return
+        try:
+            req_url = response.url.lower()
+            # Nếu web lỡ tay nhả luôn link trực tiếp thì lụm ngay
+            if (".m3u8" in req_url or ".flv" in req_url or "grita.app" in req_url) and "quangcao" not in req_url and ".ts" not in req_url:
+                link_stream = req_url
+        except: pass
 
-    # TẦNG 2: Nhìn thẳng vào Iframe của Video Player
-    iframes = page.locator("iframe").all()
-    for f in iframes:
-        src = f.get_attribute("src")
-        if src:
-            if "m3u8" in src.lower() or "flv" in src.lower():
-                print(f"      🎯 [Tầng 2 - Iframe] Lấy được Link thô.")
-                return src
-            m = re.search(r'(?:id|room_id|live|houseId)=(\d{7,12})', src, re.IGNORECASE)
-            if m:
-                link = f"https://live05.grita.app/live/{m.group(1)}.m3u8"
-                print(f"      ⚡ [Tầng 2 - Iframe] Tóm được ID chuẩn: {m.group(1)}")
-                return link
-
-    # TẦNG 3: Bóc tách mã nguồn NUXT với logic KHÓA CHẶT (Chỉ lấy ID nằm cạnh tên Slug của trận đấu này)
-    nuxt_data = page.evaluate("window.__NUXT__ ? JSON.stringify(window.__NUXT__) : ''")
-    if nuxt_data:
-        # Tìm Slug trước, rồi quét trong phạm vi 400 ký tự xung quanh nó xem có ID nào không
-        p1 = re.escape(slug) + r'.{0,400}?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?'
-        p2 = r'["\']?(?:houseId|room_id|roomId|match_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?.{0,400}?' + re.escape(slug)
+    page.on("response", handle_response)
+    
+    try:
+        # Click chuyển trang ảo (Giả lập người dùng thật)
+        page.evaluate(f'''([path]) => {{
+            let link = document.querySelector(`a[href*="{slug}"]`) || document.querySelector(`a[href="${{window.location.origin + path}}"]`);
+            if (link) link.click();
+            else if (window.$nuxt && window.$nuxt.$router) window.$nuxt.$router.push(path);
+            else window.location.href = path;
+        }}''', [url_path])
         
-        m1 = re.search(p1, nuxt_data, re.IGNORECASE)
-        if m1:
-            link = f"https://live05.grita.app/live/{m1.group(1)}.m3u8"
-            print(f"      ⚡ [Tầng 3 - Nuxt/Slug] Khớp được ID chuẩn: {m1.group(1)}")
-            return link
+        # 💡 CHỜ VÀ "LỌC TẠP CHẤT" KẾT QUẢ API
+        deadline = time.time() + 6.0
+        while time.time() < deadline:
+            if link_stream: 
+                print(f"      🎯 [Network] Tóm được link thô: {link_stream[:55]}...")
+                break
             
-        m2 = re.search(p2, nuxt_data, re.IGNORECASE)
-        if m2:
-            link = f"https://live05.grita.app/live/{m2.group(1)}.m3u8"
-            print(f"      ⚡ [Tầng 3 - Nuxt/Slug] Khớp được ID chuẩn: {m2.group(1)}")
-            return link
-
-    print("      ⚠️ Đã lục tung phòng xem nhưng không thấy link.")
-    return ""
+            # Lôi toàn bộ API vớt được ra kiểm tra
+            api_data = page.evaluate("window.__apiData || []")
+            for item in api_data:
+                req_url = item.get("url", "").lower()
+                text = item.get("text", "")
+                
+                # Bỏ qua các API chạy ngầm gây lỗi trùng ID (danh sách, quảng cáo, top trending)
+                if any(x in req_url for x in ["/list", "/home", "/config", "/schedule", "/banner", "hot"]):
+                    continue
+                    
+                # 💡 KHÓA MỤC TIÊU: API này BẮT BUỘC phải chứa thông tin của trận đấu (slug)
+                slug_short = slug.split('-luc-')[0]
+                if slug in req_url or "detail" in req_url or "room" in req_url or slug_short in req_url or slug_short.replace("-", " ") in text.lower():
+                    
+                    # Bắt Link M3U8 ẩn trong JSON
+                    m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', text)
+                    if m3u8_match:
+                        link_stream = m3u8_match.group(0).replace('\\/', '/')
+                        print(f"      🎯 [JS API] Tóm được Link chuẩn: {link_stream[:55]}...")
+                        break
+                        
+                    # Bắt ID Số (Đã loại bỏ chữ 'id' chung chung để khỏi bắt nhầm ID bài viết)
+                    id_match = re.search(r'["\']?(?:houseId|room_id|roomId|match_id|live_id)["\']?\s*[:=]\s*["\']?(\d{7,12})["\']?', text, re.IGNORECASE)
+                    if id_match:
+                        link_stream = f"https://live05.grita.app/live/{id_match.group(1)}.m3u8"
+                        print(f"      ⚡ [JS API] Bóc được ID Số ({id_match.group(1)}) từ nguồn: {req_url[:40]}...")
+                        break
+                        
+            if link_stream: break
+            time.sleep(0.5)
+            
+    except Exception as e:
+        print(f"      ⚠️ Lỗi chuyển trang ảo: {e}")
+    finally:
+        try: page.remove_listener("response", handle_response)
+        except: pass
+        
+    return link_stream
 
 def cao_colatv():
     danh_sach_tran_phu_hop = []
     
     with sync_playwright() as p:
-        print("🚀 Khởi động Thợ Săn ColaTV (Bản Fix Lỗi Trùng ID)...")
+        print("🚀 Khởi động Thợ Săn ColaTV (Bản Lọc Trùng ID)...")
         browser = p.chromium.launch(headless=True, args=[
                 "--no-sandbox", 
                 "--disable-web-security",
@@ -121,9 +119,37 @@ def cao_colatv():
         
         apply_stealth(page)
         
+        # 💡 TIÊM MÃ ĐỘC ĐỂ GOM GÓI TIN API
+        js_interceptor = r"""
+        window.__apiData = [];
+        const origFetch = window.fetch;
+        window.fetch = async function(...args) {
+            let reqUrl = (typeof args[0] === 'string') ? args[0] : (args[0] && args[0].url ? args[0].url : '');
+            const response = await origFetch.apply(this, args);
+            try { 
+                response.clone().text().then(t => {
+                    if (t.length > 50) window.__apiData.push({url: reqUrl, text: t});
+                }).catch(()=>({})); 
+            } catch(e) {}
+            return response;
+        };
+        
+        const origOpen = XMLHttpRequest.prototype.open;
+        XMLHttpRequest.prototype.open = function(method, url) {
+            this._reqUrl = url;
+            this.addEventListener('load', function() {
+                if (this.responseText && this.responseText.length > 50) {
+                    window.__apiData.push({url: this._reqUrl, text: this.responseText});
+                }
+            });
+            origOpen.apply(this, arguments);
+        };
+        """
+        page.add_init_script(js_interceptor)
+        
         try:
             page.goto(TARGET_URL, wait_until="domcontentloaded", timeout=60000)
-            page.wait_for_timeout(4000) 
+            page.wait_for_timeout(3000) 
             
             cac_the_link = page.locator("a.link-match").all()
             for the_link in cac_the_link:
@@ -137,7 +163,6 @@ def cao_colatv():
                 try:
                     giai_dau = the_cha.locator(".match-item__comp").text_content().strip()
                     
-                    # 💡 FIX LỌC TẠP CHẤT: Loại bỏ Bóng rổ & NBA
                     giai_dau_lower = giai_dau.lower()
                     if "bóng rổ" in giai_dau_lower or "basketball" in giai_dau_lower or "nba" in giai_dau_lower:
                         continue
@@ -176,10 +201,19 @@ def cao_colatv():
             ket_qua_cuoi_cung = []
             
             for i, tran in enumerate(danh_sach_tran_phu_hop, 1):
-                print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang vào phòng xem: {tran['ten_tran']}...")
-                
-                # Gọi hàm cào (Tự động xuất phát từ Trang chủ, click, lấy link rồi xong)
+                # An toàn 100%: Luôn đảm bảo Bot đứng ở trang chủ trước khi click
+                if TARGET_URL not in page.url or len(page.url) > len(TARGET_URL) + 5:
+                    page.goto(TARGET_URL, wait_until="domcontentloaded")
+                    page.wait_for_timeout(1500)
+                    
+                print(f"⏳ [{i}/{len(danh_sach_tran_phu_hop)}] Đang Click Ảo: {tran['ten_tran']}...")
                 link_m3u8 = lay_m3u8_spa(page, tran["url_path"], tran["slug"])
+                
+                # Cào xong thì tự giác bấm lùi trang lại
+                try: 
+                    page.evaluate("window.history.back()")
+                    page.wait_for_timeout(1500)
+                except: pass
                 
                 formatted_name = f"{tran['ten_tran']} | {tran['thoi_gian']}"
                 
