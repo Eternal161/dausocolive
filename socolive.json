@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:01 12/07/2026",
+    "last_updated": "23:11 12/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Operario vs Gremio Novorizontin | 21:00 12/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/d10de41c21595dcf71ffbf4c3c105660.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/90865415.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Brommapojkarna vs Sirius | 21:30 12/07",
                     "tournament": "Giải Vô địch Quốc gia Thụy Điển",
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/99121525.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Crb vs Clb Goias | 05:00 13/07",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/96413c5ef284eec6c6e0d76c87732471.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/86cb19586d66a7d65de64a3bad288c1f.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/75748097.flv"
                                                 }
                                             ]
                                         }
