@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "20:02 12/07/2026",
+    "last_updated": "20:11 12/07/2026",
     "groups": [
         {
             "id": "live",
@@ -42,7 +42,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa có link"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -51,31 +51,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shenzhen Juniors vs Dingnan United | 18:00 12/07",
-                    "tournament": "Giải bóng đá Hạng nhất Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b34589daf40274c74efdf970f5f41672.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/99121525.flv"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -118,7 +98,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/41b828223947cae32e97c8cac45fb17f.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa có link"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -127,7 +107,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/59444581.flv"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -304,10 +288,10 @@
                     ]
                 },
                 {
-                    "name": "Sandefjord vs Hamarkameratene | 22:00 12/07",
-                    "tournament": "Giải vô địch quốc gia Na Uy",
-                    "logo_nha": "https://img.gvapi.cc/football/team/6277e37ca37add055bcf859d528147c8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/81110e41d76520ea2e0cef9e4e529463.png!w80",
+                    "name": "S Kostroma vs Kamaz Naberezhnye Chelny | 23:00 12/07",
+                    "tournament": "Giải Bóng đá Quốc gia Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/444ccd0f41b3dc4726dbbd26ea3d359c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/447623f3fb6f9de8e536ac71e603aae3.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -321,7 +305,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.grita.app/live/82054853.flv"
+                                                    "url": "https://live05.grita.app/live/41943555.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sarpsborg vs Viking Fk | 00:15 13/07",
+                    "tournament": "Giải vô địch quốc gia Na Uy",
+                    "logo_nha": "https://img.gvapi.cc/football/team/97b182dc35a57e1fbfce5ab2382fe317.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/2fa0840e0cb77fd66f104fa932302a72.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/87547578.flv"
                                                 }
                                             ]
                                         }
