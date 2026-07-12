@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:01 12/07/2026",
+    "last_updated": "18:11 12/07/2026",
     "groups": [
         {
             "id": "live",
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/99121525.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Yangpyeong vs Jeonbuk Hyundai Motors Ii | 16:00 12/07",
-                    "tournament": "Giải K3 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7de7a0eff9a6d86c5ba850386a1d47fe.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ea6ca056be6e7e9b9a746a9cdefedb01.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/87547578.flv"
                                                 }
                                             ]
                                         }
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/90865415.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shinnik Yaroslavl vs Fk Sochi | 21:00 12/07",
+                    "tournament": "Giải Bóng đá Quốc gia Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8ff8e5218c38396cd890d2669f165841.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/87379114.flv"
                                                 }
                                             ]
                                         }
