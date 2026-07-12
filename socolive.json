@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:21 13/07/2026",
+    "last_updated": "04:31 13/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Independiente Rivadavia vs Club Atletico Tigre | 02:15 13/07",
-                    "tournament": "Cúp Argentina",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7e779bba58b944c8cfa786d857430383.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/87547578.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Clb Atletico Clube Goianiense vs Fortaleza | 04:00 13/07",
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
