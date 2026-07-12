@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:01 13/07/2026",
+    "last_updated": "06:11 13/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/75748097.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Alajuelense vs Herediano | 06:00 13/07",
-                    "tournament": "Siêu cúp Costa Rica",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a507b1509e1f640108395b0580b46976.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/24561735.flv"
                                                 }
                                             ]
                                         }
@@ -166,6 +138,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/75748097.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gangwon vs Dtqg Viet Nam | 14:00 13/07",
+                    "tournament": "Giao hữu Quốc tế",
+                    "logo_nha": "https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/24561735.flv"
                                                 }
                                             ]
                                         }
