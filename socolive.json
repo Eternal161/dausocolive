@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "14:01 12/07/2026",
+    "last_updated": "14:11 12/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Marconi Stallions vs Ws Wanderers U21 | 12:00 12/07",
-                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e1605aa2375e5aa780e43e89a0f1b080.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/d287684146235d2fddb92f71d78fba02.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/19919577.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Sunshine Coast Wanderers Fc vs Brisbane Strikers | 14:00 12/07",
                     "tournament": "Giải bóng đá hạng nhất Queensland, Úc",
@@ -306,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/75748097.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kfum Oslo vs Bodo Glimt | 19:30 12/07",
+                    "tournament": "Giải vô địch quốc gia Na Uy",
+                    "logo_nha": "https://img.gvapi.cc/football/team/78581e2ef61df4a79eb3b24254665b88.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/99121525.flv"
                                                 }
                                             ]
                                         }
