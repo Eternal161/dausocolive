@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "21:31 12/07/2026",
+    "last_updated": "21:41 12/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Kfum Oslo vs Bodo Glimt | 19:30 12/07",
-                    "tournament": "Giải vô địch quốc gia Na Uy",
-                    "logo_nha": "https://img.gvapi.cc/football/team/78581e2ef61df4a79eb3b24254665b88.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/99121525.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Arsenal Dzyarzhynsk vs Fk Vitebsk | 20:00 12/07",
                     "tournament": "Giải Bóng đá Ngoại hạng Belarus",
@@ -138,6 +110,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/87379114.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Brommapojkarna vs Sirius | 21:30 12/07",
+                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
+                    "logo_nha": "https://img.gvapi.cc/football/team/61603b48126b6e023af5811bf43354b2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/82a1ff2fa56077a25595288406888007.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/75748097.flv"
                                                 }
                                             ]
                                         }
