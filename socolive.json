@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "03:21 13/07/2026",
+    "last_updated": "03:31 13/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Colon Santa Fe vs Central Norte | 01:30 13/07",
-                    "tournament": "Giải bóng đá Hạng nhì Argentina",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a7fa07ce3b6d59d682c8c18ce44cf2fb.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/0009f3e2b129f49e77cffd1d5800f5cc.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/41943555.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Sao Bernardo vs Clb Cuiaba | 02:00 13/07",
                     "tournament": "Giải bóng đá Hạng nhì Brasil",
