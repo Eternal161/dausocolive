@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "13:51 13/07/2026",
+    "last_updated": "14:11 13/07/2026",
     "groups": [
         {
             "id": "live",
@@ -12,6 +12,34 @@
                     "tournament": "Giao hữu Quốc tế",
                     "logo_nha": "https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/08552895.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shb Da Nang U21 vs Cong An Ha Noi U21 | 15:30 13/07",
+                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
+                    "logo_nha": "https://img.gvapi.cc/football/team/56849334a04cf3f994f0b37ff16dd6ef.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a3be92e70f37ea3bf59ed5682d60cde4.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -278,34 +306,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/41943555.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Cerro Largo vs Defensor Sp | 05:00 14/07",
-                    "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.gvapi.cc/football/team/20bd29045f9e765f9162647ec74b9d75.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/75748097.flv"
                                                 }
                                             ]
                                         }
