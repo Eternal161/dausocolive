@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:01 13/07/2026",
+    "last_updated": "07:11 13/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Crb vs Clb Goias | 05:00 13/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/96413c5ef284eec6c6e0d76c87732471.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/86cb19586d66a7d65de64a3bad288c1f.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/75748097.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Khu Bao Ton Dong Dat San Jose vs Tacoma Defiance | 07:00 13/07",
                     "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
@@ -194,6 +166,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/16226575.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ugyen Academy vs Van Tai United Fc | 19:00 13/07",
+                    "tournament": "Giải bóng đá hàng đầu Bhutan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fe187f41074584d64dcc1fb0133d145e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/fc0e456663f75dc4e49d2f55d09a9f92.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/08552895.flv"
                                                 }
                                             ]
                                         }
