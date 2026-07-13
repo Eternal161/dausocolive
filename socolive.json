@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "10:11 13/07/2026",
+    "last_updated": "10:21 13/07/2026",
     "groups": [
         {
             "id": "live",
@@ -250,6 +250,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/87547578.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Breidablik vs Clb Keflavik | 02:15 14/07",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
+                    "logo_nha": "https://img.gvapi.cc/football/team/631e4cfa5f1d5bee45618fb97fc3f0b4.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/3b6758ec26101bf8ba64b101a401520f.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/41943555.flv"
                                                 }
                                             ]
                                         }
