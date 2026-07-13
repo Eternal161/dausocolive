@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "20:02 13/07/2026",
+    "last_updated": "20:11 13/07/2026",
     "groups": [
         {
             "id": "live",
@@ -98,7 +98,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/34e75a49a0ec1ce2996c91fcc07c1ad1.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa có link"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -107,7 +107,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/14830711.flv"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -122,7 +126,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/d84614f172a18a18947a7567a9625b45.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa có link"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -131,7 +135,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/87547578.flv"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -174,7 +182,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa có link"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -183,7 +191,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -198,7 +210,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa có link"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -207,7 +219,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/16226575.flv"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -250,7 +266,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/d22566a52f9dc6784a88e3f1f1685231.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa có link"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -259,7 +275,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/14707124.flv"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
