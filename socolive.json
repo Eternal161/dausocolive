@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:21 13/07/2026",
+    "last_updated": "17:31 13/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Shb Da Nang U21 vs Cong An Ha Noi U21 | 15:30 13/07",
-                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
-                    "logo_nha": "https://img.gvapi.cc/football/team/56849334a04cf3f994f0b37ff16dd6ef.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a3be92e70f37ea3bf59ed5682d60cde4.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Cambodia W vs Timor Leste W | 15:45 13/07",
                     "tournament": "Giải bóng đá nữ Đông Nam Á",
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/75748097.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb America Mg vs Londrina | 05:00 14/07",
+                    "tournament": "Giải bóng đá Hạng nhì Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/16226575.flv"
                                                 }
                                             ]
                                         }
