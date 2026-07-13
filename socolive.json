@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:01 14/07/2026",
+    "last_updated": "04:21 14/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Clb Breidablik vs Clb Keflavik | 02:15 14/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/631e4cfa5f1d5bee45618fb97fc3f0b4.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3b6758ec26101bf8ba64b101a401520f.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/41943555.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Cerro Largo vs Defensor Sp | 05:00 14/07",
                     "tournament": "Giải vô địch quốc gia Uruguay",
@@ -194,6 +166,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/90865415.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Viettel Fc U21 vs Hoang Anh Gia Lai U21 | 15:30 14/07",
+                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
+                    "logo_nha": "https://img.gvapi.cc/football/team/943b657247cc4c6361acb7d364216129.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5310b828aa08a4b92cf171fd65886c3a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/24561735.flv"
                                                 }
                                             ]
                                         }
