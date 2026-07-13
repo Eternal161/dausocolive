@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "16:31 13/07/2026",
+    "last_updated": "16:41 13/07/2026",
     "groups": [
         {
             "id": "live",
@@ -64,6 +64,34 @@
                     ]
                 },
                 {
+                    "name": "Blue Eagles vs Modbury Jets | 17:00 13/07",
+                    "tournament": "Giải bóng đá Hạng nhất Miền Nam Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/39d952e3985cafdf623341a8413bc253.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/9ec8abde2081344ac4ef464503aea714.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/41943555.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Ugyen Academy vs Van Tai United Fc | 17:00 13/07",
                     "tournament": "Giải bóng đá hàng đầu Bhutan",
                     "logo_nha": "https://img.gvapi.cc/football/team/fe187f41074584d64dcc1fb0133d145e.png!w80",
@@ -81,7 +109,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.grita.app/live/08552895.flv"
+                                                    "url": "https://live05.grita.app/live/16226575.flv"
                                                 }
                                             ]
                                         }
@@ -308,30 +336,6 @@
                                                     "url": "https://live05.grita.app/live/75748097.flv"
                                                 }
                                             ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb America Mg vs Londrina | 05:00 14/07",
-                    "tournament": "Giải bóng đá Hạng nhì Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
                                         }
                                     ]
                                 }
