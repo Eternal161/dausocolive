@@ -1,68 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "09:01 13/07/2026",
+    "last_updated": "09:11 13/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Khu Bao Ton Dong Dat San Jose vs Tacoma Defiance | 07:00 13/07",
-                    "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/99121525.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Cau Lac Bo Bong Da Ballard vs Snohomish United | 07:00 13/07",
-                    "tournament": "Giải USL League Two",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c8ef16d8e469786fddb43b0b6085e6c6.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/8cb7ee922a767f53d4389878f25a6cd5.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.grita.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Austin Fc Ii vs Minnesota United B | 07:30 13/07",
                     "tournament": "Giải Bóng đá Dự bị Nữ Hoa Kỳ",
@@ -222,6 +166,90 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.grita.app/live/82054853.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fk Chelyabinsk vs Ska Khabarovsk | 21:00 13/07",
+                    "tournament": "Giải Bóng đá Quốc gia Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/987b18be72d918583f9dd5b1a17f130e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/78905744.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ural vs Torpedo Moscow | 21:00 13/07",
+                    "tournament": "Giải Bóng đá Quốc gia Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c44580753ff5e1f47b7784d28b10af2f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/96f0d5ec582ed73e580e646551127d0e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/14830711.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Arsenal Tula vs Tekstilshchik Ivanovo | 23:30 13/07",
+                    "tournament": "Giải Bóng đá Quốc gia Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/cd338eefa3f2d8f275a952bd55d06b6b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/34e75a49a0ec1ce2996c91fcc07c1ad1.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.grita.app/live/14830711.flv"
                                                 }
                                             ]
                                         }
