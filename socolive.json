@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:41 15/07/2026",
+    "last_updated": "00:51 15/07/2026",
     "groups": [
         {
             "id": "live",
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Kups vs Fc Vardar Skopje | 22:00 14/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a795ca8b09c4c90198fe8e23b73b0c96.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/14830711.flv"
                                                 }
                                             ]
                                         }
