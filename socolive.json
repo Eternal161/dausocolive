@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:01 15/07/2026",
+    "last_updated": "02:11 15/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,62 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Riga Fc vs Fc Ararat Armenia | 00:00 15/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/445b142144eafa15449f92563fd1b978.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/87547578.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Gyor vs Vikingur Reykjavik | 00:00 15/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1fac0c84b8a2914bc8449c720f56a2da.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/7d980021e4160be27df269c331beab96.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/16226575.flv"
                                                 }
                                             ]
                                         }
@@ -166,34 +110,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/87547578.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shamrock Rovers vs Floriana | 02:00 15/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/52a0b0ec8cb8af8d29711d63ed1d0c8c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/cc887a7a155983d6c60c55f87db596d8.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
                                                 }
                                             ]
                                         }
