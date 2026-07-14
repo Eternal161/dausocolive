@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:21 14/07/2026",
+    "last_updated": "17:31 14/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,62 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/78905744.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Viettel Fc U21 vs Hoang Anh Gia Lai U21 | 15:30 14/07",
-                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
-                    "logo_nha": "https://img.gvapi.cc/football/team/943b657247cc4c6361acb7d364216129.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/5310b828aa08a4b92cf171fd65886c3a.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tay Ninh U21 vs Song Lam Nghe An U21 | 15:30 14/07",
-                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
-                    "logo_nha": "https://img.gvapi.cc/football/team/93700eee109eb4229547dcb8308cf23d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e8ce90e4ee8611d1d352eb7ecd66475c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/90865415.flv"
                                                 }
                                             ]
                                         }
@@ -176,34 +120,6 @@
                     ]
                 },
                 {
-                    "name": "Thai Nguyen Nu vs Ho Chi Minh Nu | 18:00 14/07",
-                    "tournament": "Women's National League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/093bfeeaa5b64817e7ced2beada10b08.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/14830711.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "T T Ha Noi U21 vs Hung Vuong An Giang U21 | 18:00 14/07",
                     "tournament": "Giải bóng đá trẻ U21 Việt Nam",
                     "logo_nha": "https://img.gvapi.cc/football/team/69a1fa27157714ad23f29d9693f264ef.png!w80",
@@ -260,6 +176,34 @@
                     ]
                 },
                 {
+                    "name": "Thai Nguyen Nu vs Ho Chi Minh Nu | 18:00 14/07",
+                    "tournament": "Women's National League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/093bfeeaa5b64817e7ced2beada10b08.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/14830711.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Bff Academy U19 vs Drukpa | 19:00 14/07",
                     "tournament": "Giải bóng đá hàng đầu Bhutan",
                     "logo_nha": "https://img.gvapi.cc/football/team/9d4caac656f50e75750c905733ce6114.png!w80",
@@ -278,6 +222,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/87547578.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kups vs Fc Vardar Skopje | 22:00 14/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a795ca8b09c4c90198fe8e23b73b0c96.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/14830711.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Saburtalo Tbilisi vs Fc Flora Tallinn | 23:00 14/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5b9c9b4f40414f2be603cf1dac1bdad6.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/78905744.flv"
                                                 }
                                             ]
                                         }
