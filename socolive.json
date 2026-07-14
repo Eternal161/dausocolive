@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:01 15/07/2026",
+    "last_updated": "01:11 15/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Inter Escaldes vs Lincoln Red Imps | 23:00 14/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/808a63c4e021d1ee40dd6d9d07d3baa3.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/340ccfb377aa78986e1b515dfb05ce7f.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Riga Fc vs Fc Ararat Armenia | 00:00 15/07",
                     "tournament": "Champions League",
