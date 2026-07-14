@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:11 14/07/2026",
+    "last_updated": "18:21 14/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Rochedale Rovers vs Sd Raiders Fc | 16:30 14/07",
-                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/030a377635b3ac3fe5cbb49221594110.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/41cd928a2816821bdb7995c3ea6031a6.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/78905744.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "T T Ha Noi U21 vs Hung Vuong An Giang U21 | 18:00 14/07",
                     "tournament": "Giải bóng đá trẻ U21 Việt Nam",
@@ -278,6 +250,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/87547578.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gyor vs Vikingur Reykjavik | 00:00 15/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/1fac0c84b8a2914bc8449c720f56a2da.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/7d980021e4160be27df269c331beab96.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/16226575.flv"
                                                 }
                                             ]
                                         }
