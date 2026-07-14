@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "13:01 14/07/2026",
+    "last_updated": "13:11 14/07/2026",
     "groups": [
         {
             "id": "live",
@@ -109,7 +109,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.miekgo.app/live/87547578.flv"
+                                                    "url": "https://live05.miekgo.app/live/19919577.flv"
                                                 }
                                             ]
                                         }
