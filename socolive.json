@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:51 15/07/2026",
+    "last_updated": "03:01 15/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,62 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Levski vs Borac Banja Luka | 00:30 15/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/fe56623a71d6056e9e1a93a6241e033f.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/538d312c2512ebda3129f105db04e5e5.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/59444581.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fc Drita vs Kauno Zalgiris | 01:00 15/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c43a00a8a5bbfcdba06d4e1e352d64c2.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/da6a0f9acc877204e8bc526a922066d6.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/99121525.flv"
                                                 }
                                             ]
                                         }
@@ -166,6 +110,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/16226575.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cong An Ha Noi U21 vs Dong Nai U21 | 15:30 15/07",
+                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a3be92e70f37ea3bf59ed5682d60cde4.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/075c37ecaa19be481910717215b92405.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Pvf Vietnam U21 vs Shb Da Nang U21 | 15:30 15/07",
+                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
+                    "logo_nha": "https://img.gvapi.cc/football/team/91ebf0da768d5c38125f9b98082c1c74.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/56849334a04cf3f994f0b37ff16dd6ef.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/82054853.flv"
                                                 }
                                             ]
                                         }
