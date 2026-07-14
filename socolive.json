@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "15:21 14/07/2026",
+    "last_updated": "15:31 14/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Tay Ninh U21 vs Song Lam Nghe An U21 | 15:30 14/07",
-                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
-                    "logo_nha": "https://img.gvapi.cc/football/team/93700eee109eb4229547dcb8308cf23d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e8ce90e4ee8611d1d352eb7ecd66475c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/90865415.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Viettel Fc U21 vs Hoang Anh Gia Lai U21 | 15:30 14/07",
                     "tournament": "Giải bóng đá trẻ U21 Việt Nam",
@@ -54,6 +26,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/08552895.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tay Ninh U21 vs Song Lam Nghe An U21 | 15:30 14/07",
+                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
+                    "logo_nha": "https://img.gvapi.cc/football/team/93700eee109eb4229547dcb8308cf23d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e8ce90e4ee8611d1d352eb7ecd66475c.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/90865415.flv"
                                                 }
                                             ]
                                         }
