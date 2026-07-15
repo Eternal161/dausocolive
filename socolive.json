@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "09:51 15/07/2026",
+    "last_updated": "10:01 15/07/2026",
     "groups": [
         {
             "id": "live",
@@ -250,6 +250,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/75748097.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ordabasy vs Altai Semey | 22:00 15/07",
+                    "tournament": "Cúp Kazakhstan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/56445b7fccea061fbee0ac71cbd53a83.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/96717524f82fb5d1366bd0d22c485956.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/14830711.flv"
                                                 }
                                             ]
                                         }
