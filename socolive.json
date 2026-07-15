@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:21 15/07/2026",
+    "last_updated": "23:31 15/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Malisheva vs Vllaznia Shkoder | 21:30 15/07",
-                    "tournament": "UEFA Europa Conference League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/026dbf213ca4c10c52bca7daef8e3c57.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/cafa9c1ed9b974a8306fd1a5b1f4ae16.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ordabasy vs Altai Semey | 22:00 15/07",
                     "tournament": "Cúp Kazakhstan",
@@ -306,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/99121525.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Miami Fc vs Indy Eleven | 06:00 16/07",
+                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/10e3c287008eed128a8c53f8f55c26bd.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/96f9d71dc6038477efe2b3ff71c1631e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
                                                 }
                                             ]
                                         }
