@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:01 15/07/2026",
+    "last_updated": "07:11 15/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Blooming vs San Jose De Oruro | 07:00 15/07",
-                    "tournament": "Giải bóng đá Hạng nhất Bolivia",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1a8ffd06b2866504609c32ee6091ba7c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/366a463aa2c1d3dde4c04891b5f6b735.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/16226575.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Cong An Ha Noi U21 vs Dong Nai U21 | 15:30 15/07",
                     "tournament": "Giải bóng đá trẻ U21 Việt Nam",
@@ -166,6 +138,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/99121525.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Busan Kyotong vs Suwon Samsung Bluewings | 17:00 15/07",
+                    "tournament": "Cúp quốc gia Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a52eb098139acf5a0a4ccfa5c9ce04f4.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b7d71976c00a588ae7b9d077e6f94810.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/24561735.flv"
                                                 }
                                             ]
                                         }
