@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:41 15/07/2026",
+    "last_updated": "19:51 15/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Busan Kyotong vs Suwon Samsung Bluewings | 17:00 15/07",
-                    "tournament": "Cúp quốc gia Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a52eb098139acf5a0a4ccfa5c9ce04f4.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b7d71976c00a588ae7b9d077e6f94810.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/24561735.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Malisheva vs Vllaznia Shkoder | 21:30 15/07",
                     "tournament": "UEFA Europa Conference League",
@@ -306,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/87379114.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lexington vs New Mexico United | 06:00 16/07",
+                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9b0e43ca0195227d6fefc8b082963330.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/bced686ea9d08190520be6eaaa6edf0b.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/99121525.flv"
                                                 }
                                             ]
                                         }
