@@ -1,12 +1,40 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:01 15/07/2026",
+    "last_updated": "17:11 15/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "Busan Kyotong vs Suwon Samsung Bluewings | 17:00 15/07",
+                    "tournament": "Cúp quốc gia Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a52eb098139acf5a0a4ccfa5c9ce04f4.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b7d71976c00a588ae7b9d077e6f94810.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/24561735.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Cong An Ha Noi U21 vs Dong Nai U21 | 15:30 15/07",
                     "tournament": "Giải bóng đá trẻ U21 Việt Nam",
@@ -26,6 +54,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/75748097.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ansan Greeners vs Jinju Citizen | 17:00 15/07",
+                    "tournament": "Cúp quốc gia Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/b16d13189a2156cb6809c04f3feaf66e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/4e21e71bc64239631ef1571877a73221.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/08552895.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jeonnam Dragons vs Chungnam Asan | 17:00 15/07",
+                    "tournament": "Cúp quốc gia Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3f4d8a34d2f0b65f0715dc09fd8a9d1b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/aa33d6919294509723e6cbdbbffb1ea5.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/78905744.flv"
                                                 }
                                             ]
                                         }
@@ -138,90 +222,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/99121525.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Busan Kyotong vs Suwon Samsung Bluewings | 17:00 15/07",
-                    "tournament": "Cúp quốc gia Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a52eb098139acf5a0a4ccfa5c9ce04f4.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b7d71976c00a588ae7b9d077e6f94810.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/24561735.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ansan Greeners vs Jinju Citizen | 17:00 15/07",
-                    "tournament": "Cúp quốc gia Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b16d13189a2156cb6809c04f3feaf66e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/4e21e71bc64239631ef1571877a73221.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Jeonnam Dragons vs Chungnam Asan | 17:00 15/07",
-                    "tournament": "Cúp quốc gia Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3f4d8a34d2f0b65f0715dc09fd8a9d1b.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/aa33d6919294509723e6cbdbbffb1ea5.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/78905744.flv"
                                                 }
                                             ]
                                         }
