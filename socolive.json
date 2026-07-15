@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:31 15/07/2026",
+    "last_updated": "17:41 15/07/2026",
     "groups": [
         {
             "id": "live",
@@ -82,34 +82,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/78905744.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Pvf Vietnam U21 vs Shb Da Nang U21 | 15:30 15/07",
-                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
-                    "logo_nha": "https://img.gvapi.cc/football/team/91ebf0da768d5c38125f9b98082c1c74.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/56849334a04cf3f994f0b37ff16dd6ef.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/82054853.flv"
                                                 }
                                             ]
                                         }
@@ -306,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/14707124.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Atert Bissen vs Ki Klaksvik | 01:15 16/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/62d66427d2435bb445cae63e44c6ad02.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/97b3892cb6339b5b3fe013005164b3ad.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/16226575.flv"
                                                 }
                                             ]
                                         }
