@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:01 16/07/2026",
+    "last_updated": "04:11 16/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,62 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/08552895.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Atert Bissen vs Ki Klaksvik | 01:15 16/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/62d66427d2435bb445cae63e44c6ad02.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/97b3892cb6339b5b3fe013005164b3ad.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/16226575.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fk Sutjeska Niksic vs Kairat | 02:00 16/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1ea6e8445fd90988fff26192b355c9db.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/87547578.flv"
                                                 }
                                             ]
                                         }
@@ -250,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/16226575.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Barcelona Sc vs Guayaquil City | 07:30 16/07",
+                    "tournament": "Giải vô địch quốc gia Ecuador",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/06c168e54604cc2392646b4c8cea7d9b.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/41943555.flv"
                                                 }
                                             ]
                                         }
