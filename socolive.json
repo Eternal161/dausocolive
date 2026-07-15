@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "09:01 15/07/2026",
+    "last_updated": "09:11 15/07/2026",
     "groups": [
         {
             "id": "live",
@@ -222,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/78905744.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Malisheva vs Vllaznia Shkoder | 21:30 15/07",
+                    "tournament": "UEFA Europa Conference League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/026dbf213ca4c10c52bca7daef8e3c57.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cafa9c1ed9b974a8306fd1a5b1f4ae16.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
                                                 }
                                             ]
                                         }
