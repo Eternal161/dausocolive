@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "08:11 15/07/2026",
+    "last_updated": "08:21 15/07/2026",
     "groups": [
         {
             "id": "live",
@@ -194,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/08552895.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jeonnam Dragons vs Chungnam Asan | 17:00 15/07",
+                    "tournament": "Cúp quốc gia Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3f4d8a34d2f0b65f0715dc09fd8a9d1b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/aa33d6919294509723e6cbdbbffb1ea5.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/78905744.flv"
                                                 }
                                             ]
                                         }
