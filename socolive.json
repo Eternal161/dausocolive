@@ -1,12 +1,40 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:31 16/07/2026",
+    "last_updated": "06:41 16/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "Sporting Jax vs Pittsburgh Riverhounds | 06:30 16/07",
+                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/35fa04bcfe9565d2d68cfe397075bf07.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/602255b6d0275cd1008b99c59cd10c87.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/24561735.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Real Potosi vs San Antonio Bulo Bulo | 05:00 16/07",
                     "tournament": "Giải bóng đá Hạng nhất Bolivia",
@@ -110,34 +138,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/75748097.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Sporting Jax vs Pittsburgh Riverhounds | 06:30 16/07",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/35fa04bcfe9565d2d68cfe397075bf07.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/602255b6d0275cd1008b99c59cd10c87.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/24561735.flv"
                                                 }
                                             ]
                                         }
