@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:51 16/07/2026",
+    "last_updated": "01:01 16/07/2026",
     "groups": [
         {
             "id": "live",
@@ -64,7 +64,7 @@
                     ]
                 },
                 {
-                    "name": "Egnatia vs Clb Cs Petrocub | 02:00 16/07",
+                    "name": "Egnatia vs Cs Petrocub | 02:00 16/07",
                     "tournament": "Champions League",
                     "logo_nha": "https://img.gvapi.cc/football/team/caa1464dfa3740d8e7ba32959576cb66.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/9a9f43853cff237db04680cfc985bb57.png!w80",
@@ -120,7 +120,7 @@
                     ]
                 },
                 {
-                    "name": "Dtqg Anh vs Argentina | 02:00 16/07",
+                    "name": "Anh vs Argentina | 02:00 16/07",
                     "tournament": "Giải vô địch bóng đá thế giới",
                     "logo_nha": "https://img.gvapi.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",
@@ -148,7 +148,7 @@
                     ]
                 },
                 {
-                    "name": "Clb Real Potosi vs San Antonio Bulo Bulo | 05:00 16/07",
+                    "name": "Real Potosi vs San Antonio Bulo Bulo | 05:00 16/07",
                     "tournament": "Giải bóng đá Hạng nhất Bolivia",
                     "logo_nha": "https://img.gvapi.cc/football/team/eff8641b50533907bfa87b743397f978.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/cddcef15578553ba62ac2719fce6aead.png!w80",
@@ -176,7 +176,7 @@
                     ]
                 },
                 {
-                    "name": "Clb Universidad Catolica vs Ldu Quito | 05:00 16/07",
+                    "name": "Universidad Catolica vs Ldu Quito | 05:00 16/07",
                     "tournament": "Giải vô địch quốc gia Ecuador",
                     "logo_nha": "https://img.gvapi.cc/football/team/6038ad3b4367e35e235f6bdd24282c52.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/8b048da33a06a2257101bb110b81e290.png!w80",
