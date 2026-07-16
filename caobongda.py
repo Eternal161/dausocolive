@@ -35,9 +35,10 @@ def lay_m3u8_spa(page, url_path, slug):
         if link_stream: return
         try:
             req_url = response.url.lower()
-            # Nếu web lỡ tay nhả luôn link trực tiếp thì lụm ngay
+            # 💡 Bắt cả flv và m3u8, nhưng sau đó sẽ ép đổi đuôi thành m3u8
             if (".m3u8" in req_url or ".flv" in req_url or "grita.app" in req_url) and "quangcao" not in req_url and ".ts" not in req_url:
-                link_stream = req_url
+                # Ép đuôi flv thành m3u8
+                link_stream = req_url.replace(".flv", ".m3u8")
         except: pass
 
     page.on("response", handle_response)
@@ -72,10 +73,10 @@ def lay_m3u8_spa(page, url_path, slug):
                 slug_short = slug.split('-luc-')[0]
                 if slug in req_url or "detail" in req_url or "room" in req_url or slug_short in req_url or slug_short.replace("-", " ") in text.lower():
                     
-                    # Bắt Link M3U8 ẩn trong JSON
-                    m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(m3u8|flv)[^"\'\s<>]*', text)
+                    # 💡 Bắt Link ẩn trong JSON, CHỦ ĐỘNG thay .flv thành .m3u8
+                    m3u8_match = re.search(r'https?:\/\/[^"\'\s<>]+?\.(?:m3u8|flv)[^"\'\s<>]*', text)
                     if m3u8_match:
-                        link_stream = m3u8_match.group(0).replace('\\/', '/')
+                        link_stream = m3u8_match.group(0).replace('\\/', '/').replace('.flv', '.m3u8')
                         print(f"      🎯 [JS API] Tóm được Link chuẩn: {link_stream[:55]}...")
                         break
                         
@@ -101,7 +102,7 @@ def cao_colatv():
     danh_sach_tran_phu_hop = []
     
     with sync_playwright() as p:
-        print("🚀 Khởi động Thợ Săn ColaTV (Bản Lọc Trùng ID)...")
+        print("🚀 Khởi động Thợ Săn ColaTV (Bản Lọc Trùng ID & Ép M3U8)...")
         browser = p.chromium.launch(headless=True, args=[
                 "--no-sandbox", 
                 "--disable-web-security",
