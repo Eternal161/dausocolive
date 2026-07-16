@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:01 17/07/2026",
+    "last_updated": "00:11 17/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Neftchi Fargona vs Buxoro Fk | 22:00 16/07",
-                    "tournament": "Giải vô địch quốc gia Uzbekistan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f414775655a79c5a471b2103a4164df4.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ilves vs Differdange | 23:00 16/07",
                     "tournament": "UEFA Europa Conference League",
@@ -148,62 +120,6 @@
                     ]
                 },
                 {
-                    "name": "Lech Poznan vs Gornik Zabrze | 00:00 17/07",
-                    "tournament": "Siêu cúp Ba Lan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/d49ab93fbac0f4602293bac98b94d9c0.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Universitaea Cluj vs Dynamo Kyiv | 00:30 17/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/74c37787bcf9656e1372913981f69859.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/24561735.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Derry City vs Cska Sofia | 00:30 17/07",
                     "tournament": "Europa League",
                     "logo_nha": "https://img.gvapi.cc/football/team/1fdb25b1b1cf8b92138ba7c5c9fff621.png!w80",
@@ -222,6 +138,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lech Poznan vs Gornik Zabrze | 00:00 17/07",
+                    "tournament": "Siêu cúp Ba Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d49ab93fbac0f4602293bac98b94d9c0.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -334,6 +278,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Racing Club vs Defensa Y Justicia | 04:45 17/07",
+                    "tournament": "Cúp Argentina",
+                    "logo_nha": "https://img.gvapi.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Botafogo Rj vs Santos | 05:30 17/07",
+                    "tournament": "Giải bóng đá Hạng nhất Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5d83c47462e5afb6f1add0ad508c300b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
