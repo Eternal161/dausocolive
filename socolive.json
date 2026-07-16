@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "03:31 17/07/2026",
+    "last_updated": "03:41 17/07/2026",
     "groups": [
         {
             "id": "live",
@@ -221,7 +221,35 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live.kinxie.com/live/72157098_05c409ec4ad4bd06f37de1cd99146937_autoChange.m3u8?auth_key=1784248238-0-0-46ae8cb79b139025c41dc8de96bb8eac"
+                                                    "url": "https://live05.miekgo.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Necaxa vs Atlante | 08:00 17/07",
+                    "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
+                    "logo_nha": "https://img.gvapi.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
