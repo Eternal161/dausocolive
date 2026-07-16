@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "08:01 16/07/2026",
+    "last_updated": "08:11 16/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,62 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/24561735.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Lexington vs New Mexico United | 06:00 16/07",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9b0e43ca0195227d6fefc8b082963330.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/bced686ea9d08190520be6eaaa6edf0b.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/99121525.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Miami Fc vs Indy Eleven | 06:00 16/07",
-                    "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/10e3c287008eed128a8c53f8f55c26bd.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/96f9d71dc6038477efe2b3ff71c1631e.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
                                                 }
                                             ]
                                         }
@@ -166,6 +110,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/24561735.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Indonesia Nu vs Campuchia Nu | 15:45 16/07",
+                    "tournament": "Giải bóng đá nữ Đông Nam Á",
+                    "logo_nha": "https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/08552895.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fulham United Fc vs Cumberland Utd | 16:45 16/07",
+                    "tournament": "Giải bóng đá Hạng nhất Miền Nam Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/899ba75d0f7074295237f2011bc2d3b2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1ecb2819de2f6244f0cf0ea57275ebef.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/78905744.flv"
                                                 }
                                             ]
                                         }
