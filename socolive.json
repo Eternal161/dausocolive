@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:51 17/07/2026",
+    "last_updated": "03:01 17/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Aluminij vs Sheriff Tiraspol | 01:00 17/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8e61634a08ce4e22f54cfef1c6b48b6a.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/6be65a265ff052f7736d951643b2750c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/87379114.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ferencvarosi Tc vs Vojvodina Novi Sad | 01:15 17/07",
                     "tournament": "Europa League",
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicago Fire vs Vancouver Whitecaps | 07:30 17/07",
+                    "tournament": "Major League Soccer",
+                    "logo_nha": "https://img.gvapi.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
