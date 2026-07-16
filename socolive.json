@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:41 16/07/2026",
+    "last_updated": "18:51 16/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Fulham United Fc vs Cumberland Utd | 16:45 16/07",
-                    "tournament": "Giải bóng đá Hạng nhất Miền Nam Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/899ba75d0f7074295237f2011bc2d3b2.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/1ecb2819de2f6244f0cf0ea57275ebef.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/78905744.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "T T Ha Noi U21 vs Tp Ho Chi Minh U21 | 18:00 16/07",
                     "tournament": "Giải bóng đá trẻ U21 Việt Nam",
@@ -64,34 +36,6 @@
                     ]
                 },
                 {
-                    "name": "Thimphu Fc vs Fc Paro | 19:00 16/07",
-                    "tournament": "Giải bóng đá hàng đầu Bhutan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ae37aedbd9647e80fe75821a00a31516.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Ekibastuz vs Shakhtar Karagandy | 19:00 16/07",
                     "tournament": "Giải hạng nhất quốc gia Kazakhstan",
                     "logo_nha": "https://img.gvapi.cc/football/team/d8baf3ab5d39bcdab1d636a69e0e8086.png!w80",
@@ -110,6 +54,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/87547578.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Thimphu Fc vs Fc Paro | 19:00 16/07",
+                    "tournament": "Giải bóng đá hàng đầu Bhutan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c8b83da02b3c8ad2af4a7f7884f4006e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ae37aedbd9647e80fe75821a00a31516.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.flv"
                                                 }
                                             ]
                                         }
@@ -194,6 +166,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/82054853.flv"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Astana vs Dinamo Tirana | 22:00 16/07",
+                    "tournament": "UEFA Europa Conference League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5c481f41c0a1d43dcb508650562d840f.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/de0b90b1c49a62ed9dcca91f67ac5c90.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/08552895.flv"
                                                 }
                                             ]
                                         }
