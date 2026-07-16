@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "12:41 16/07/2026",
+    "last_updated": "12:51 16/07/2026",
     "groups": [
         {
             "id": "live",
@@ -266,7 +266,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/923138a0ae0fac73cc50bbc58b3bf796.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa có link"
                         }
                     ],
                     "sources": [
@@ -275,11 +275,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/90865415.flv"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
