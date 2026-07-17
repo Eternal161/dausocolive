@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "22:31 17/07/2026",
+    "last_updated": "22:41 17/07/2026",
     "groups": [
         {
             "id": "live",
@@ -126,7 +126,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/1673aae6c71fb628e98a6b2306ae14d6.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa có link"
                         }
                     ],
                     "sources": [
@@ -135,11 +135,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/16226575.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -260,34 +256,6 @@
                     ]
                 },
                 {
-                    "name": "Fcsb vs Scm Pitesti | 01:30 18/07",
-                    "tournament": "Giải Vô địch quốc gia Romania",
-                    "logo_nha": "https://img.gvapi.cc/football/team/a413daa882f96b18ddb1f0e8c9dbfda7.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f5d0b3f174168088f64f65b47af718fa.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "San Lorenzo vs Dep Riestra | 04:45 18/07",
                     "tournament": "Cúp Argentina",
                     "logo_nha": "https://img.gvapi.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80",
@@ -334,6 +302,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fluminense Rj vs Bragantino | 06:00 18/07",
+                    "tournament": "Giải bóng đá Hạng nhất Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/9e9d18ccd36d42462fc896e22de890c2.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
