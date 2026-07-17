@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:41 17/07/2026",
+    "last_updated": "18:51 17/07/2026",
     "groups": [
         {
             "id": "live",
@@ -306,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kapa vs Sjk Akatemia | 23:00 17/07",
+                    "tournament": "Giải hạng 2 Phần Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/192a0281263921acbe04095e18e635ff.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1673aae6c71fb628e98a6b2306ae14d6.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
