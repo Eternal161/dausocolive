@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "14:41 17/07/2026",
+    "last_updated": "14:51 17/07/2026",
     "groups": [
         {
             "id": "live",
@@ -148,6 +148,30 @@
                     ]
                 },
                 {
+                    "name": "Beijing Guoan vs Shenyang Urban Fc | 18:35 17/07",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1c4ae95c663ed84758a04627451e3470.png!w80",
+                    "labels": [
+                        {
+                            "text": "⏳ Chưa có link"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Yunnan Yukun vs Shanghai Port | 19:00 17/07",
                     "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
                     "logo_nha": "https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
@@ -165,7 +189,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                                                    "url": "https://live.kinxie.com/live/66647126_293fb14f5934ab96a62a8994484f3f11_autoChange.m3u8?auth_key=1784289040-0-0-11f6b9c6d97a127806f25d92b0a9a079"
                                                 }
                                             ]
                                         }
@@ -252,30 +276,6 @@
                                                     "url": "https://live05.miekgo.app/live/99121525.m3u8"
                                                 }
                                             ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Pakhtakor vs Lok Tashkent | 22:00 17/07",
-                    "tournament": "Giải vô địch quốc gia Uzbekistan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/78dd333913352de8fc4e8b0834636245.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/861b0ac69ac20155f30c2ebe6ad8ff05.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
                                         }
                                     ]
                                 }
