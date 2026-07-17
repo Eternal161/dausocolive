@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "21:31 17/07/2026",
+    "last_updated": "21:41 17/07/2026",
     "groups": [
         {
             "id": "live",
@@ -210,7 +210,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/61603b48126b6e023af5811bf43354b2.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa có link"
                         }
                     ],
                     "sources": [
@@ -219,11 +219,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/41943555.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -316,10 +312,10 @@
                     ]
                 },
                 {
-                    "name": "Bahia vs Chapecoense Sc | 05:30 18/07",
-                    "tournament": "Giải bóng đá Hạng nhất Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
+                    "name": "San Lorenzo vs Dep Riestra | 04:45 18/07",
+                    "tournament": "Cúp Argentina",
+                    "logo_nha": "https://img.gvapi.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -333,7 +329,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.miekgo.app/live/08552895.m3u8"
+                                                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
