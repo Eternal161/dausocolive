@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:51 17/07/2026",
+    "last_updated": "00:01 18/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Pakhtakor vs Lok Tashkent | 22:00 17/07",
-                    "tournament": "Giải vô địch quốc gia Uzbekistan",
-                    "logo_nha": "https://img.gvapi.cc/football/team/78dd333913352de8fc4e8b0834636245.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/861b0ac69ac20155f30c2ebe6ad8ff05.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Cs Voluntari vs Botosani | 22:30 17/07",
                     "tournament": "Giải Vô địch quốc gia Romania",
@@ -148,34 +120,6 @@
                     ]
                 },
                 {
-                    "name": "Bodo Glimt vs Fredrikstad | 00:15 18/07",
-                    "tournament": "Giải vô địch quốc gia Na Uy",
-                    "logo_nha": "https://img.gvapi.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/cfbe053bbd9502769f61b889786ace2c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/14830711.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Levski vs Dunav Ruse | 01:15 18/07",
                     "tournament": "Giải vô địch quốc gia Bulgaria",
                     "logo_nha": "https://img.gvapi.cc/football/team/fe56623a71d6056e9e1a93a6241e033f.png!w80",
@@ -278,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nashville vs Atlanta Utd | 07:10 18/07",
+                    "tournament": "Major League Soccer",
+                    "logo_nha": "https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
