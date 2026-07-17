@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "11:11 17/07/2026",
+    "last_updated": "11:21 17/07/2026",
     "groups": [
         {
             "id": "live",
@@ -221,7 +221,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live.kinxie.com/live/72055032_d7c2fe0acf41dd5a6c0e4cd3cb5879b3_autoChange.m3u8?auth_key=1784275837-0-0-e6ada4c5fa66ad6a28d5dd36e60eba37"
+                                                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -250,6 +250,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tobol Kostanai B vs Akademiya Ontustik | 20:00 17/07",
+                    "tournament": "Giải hạng nhất quốc gia Kazakhstan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/71ee8803b35df20d3a96b33955dfa14c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
