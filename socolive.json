@@ -1,17 +1,17 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:31 18/07/2026",
+    "last_updated": "00:41 18/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Cs Voluntari vs Botosani | 22:30 17/07",
-                    "tournament": "Giải Vô địch quốc gia Romania",
-                    "logo_nha": "https://img.gvapi.cc/football/team/f105da768299b0eece32a15bb3c30574.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80",
+                    "name": "Spartak Varna vs Cska 1948 Sofia | 23:00 17/07",
+                    "tournament": "Giải vô địch quốc gia Bulgaria",
+                    "logo_nha": "https://img.gvapi.cc/football/team/075bb7a438193c9a2f71330a817c0058.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/182f01e096ad1f495cc88d2369c45224.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -25,33 +25,9 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.miekgo.app/live/41943555.m3u8"
+                                                    "url": "https://live05.miekgo.app/live/87547578.m3u8"
                                                 }
                                             ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Spartak Varna vs Cska 1948 Sofia | 23:00 17/07",
-                    "tournament": "Giải vô địch quốc gia Bulgaria",
-                    "logo_nha": "https://img.gvapi.cc/football/team/075bb7a438193c9a2f71330a817c0058.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/182f01e096ad1f495cc88d2369c45224.png!w80",
-                    "labels": [
-                        {
-                            "text": "⏳ Chưa có link"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -90,7 +66,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/cbc045c254f3dbcbf393f756d94b3feb.png!w80",
                     "labels": [
                         {
-                            "text": "⏳ Chưa có link"
+                            "text": "● LIVE"
                         }
                     ],
                     "sources": [
@@ -99,7 +75,11 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": []
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -114,7 +94,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/5c1b71658722f554a095a3687b548717.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa có link"
                         }
                     ],
                     "sources": [
@@ -123,11 +103,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/87547578.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -170,7 +146,7 @@
                     "logo_khach": "https://img.gvapi.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
                     "labels": [
                         {
-                            "text": "● LIVE"
+                            "text": "⏳ Chưa có link"
                         }
                     ],
                     "sources": [
@@ -179,11 +155,7 @@
                                 {
                                     "streams": [
                                         {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/08552895.m3u8"
-                                                }
-                                            ]
+                                            "stream_links": []
                                         }
                                     ]
                                 }
@@ -238,6 +210,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "River Plate vs Aldosivi | 07:45 18/07",
+                    "tournament": "Cúp Argentina",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/086fad2b496bcf474e2df4eed691c6b2.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/41943555.m3u8"
                                                 }
                                             ]
                                         }
