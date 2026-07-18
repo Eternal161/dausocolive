@@ -1,12 +1,40 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:01 19/07/2026",
+    "last_updated": "00:11 19/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "Zenit vs Spartak | 23:30 18/07",
+                    "tournament": "Siêu cúp Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b989806732eaf15246ab56e07d0b8a2e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "Otelul vs Cfr | 22:30 18/07",
                     "tournament": "Giải Vô địch quốc gia Romania",
@@ -54,34 +82,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Zenit vs Spartak | 23:30 18/07",
-                    "tournament": "Siêu cúp Nga",
-                    "logo_nha": "https://img.gvapi.cc/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b989806732eaf15246ab56e07d0b8a2e.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
