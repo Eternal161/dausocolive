@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:20 19/07/2026",
+    "last_updated": "06:31 19/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Phap vs Dtqg Anh | 04:00 19/07",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Loudoun United vs Tampa Bay | 06:00 19/07",
                     "tournament": "Giải bóng đá Hạng nhì Hoa Kỳ",
@@ -120,34 +92,6 @@
                     ]
                 },
                 {
-                    "name": "Chivas Guadalajara vs Toluca | 08:07 19/07",
-                    "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
-                    "logo_nha": "https://img.gvapi.cc/football/team/872867a492989e6a9a0785cfd0a40680.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/725ccd5793be6b4f8dd917170dd17d04.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/41943555.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Queretaro vs Club America | 10:10 19/07",
                     "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
                     "logo_nha": "https://img.gvapi.cc/football/team/e93c69c95a943755907a17adf4d7d732.png!w80",
@@ -194,6 +138,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Phu Nu Campuchia vs Lao U16 Nu | 15:45 19/07",
+                    "tournament": "Giải bóng đá nữ Đông Nam Á",
+                    "logo_nha": "https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Phong Phu Ha Nam Nu vs Ho Chi Minh Nu | 16:00 19/07",
+                    "tournament": "Women's National League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/093bfeeaa5b64817e7ced2beada10b08.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
