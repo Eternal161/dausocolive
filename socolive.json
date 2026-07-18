@@ -1,17 +1,17 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "03:11 19/07/2026",
+    "last_updated": "03:20 19/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Univ Craiova vs Fc Ut Arad | 01:15 19/07",
-                    "tournament": "Giải Vô địch quốc gia Romania",
-                    "logo_nha": "https://img.gvapi.cc/football/team/d8fef73043961d11ed61a37476a54568.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/acd5e194c961b091fcf0065a5d27a8f8.png!w80",
+                    "name": "Phap vs Dtqg Anh | 04:00 19/07",
+                    "tournament": "Giải vô địch bóng đá thế giới",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -25,35 +25,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.miekgo.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Ludogorets Razgrad vs Lokomotiv Plovdiv | 01:15 19/07",
-                    "tournament": "Giải vô địch quốc gia Bulgaria",
-                    "logo_nha": "https://img.gvapi.cc/football/team/3cd0dc57966a8b1f8536dd0016179664.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/940bb92f83d40985137748d0d3aeb213.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/41943555.m3u8"
+                                                    "url": "https://live05.miekgo.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -82,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Phap vs Dtqg Anh | 04:00 19/07",
-                    "tournament": "Giải vô địch bóng đá thế giới",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/24561735.m3u8"
                                                 }
                                             ]
                                         }
@@ -222,6 +166,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/41943555.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Queretaro vs Club America | 10:10 19/07",
+                    "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
+                    "logo_nha": "https://img.gvapi.cc/football/team/e93c69c95a943755907a17adf4d7d732.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Marconi Stallions vs Sydney Utd | 12:00 19/07",
+                    "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/e1605aa2375e5aa780e43e89a0f1b080.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
