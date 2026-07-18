@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "11:21 18/07/2026",
+    "last_updated": "11:31 18/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Los Angeles Galaxy vs Los Angeles Fc | 09:40 18/07",
-                    "tournament": "Major League Soccer",
-                    "logo_nha": "https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Juarez vs Puebla | 10:00 18/07",
                     "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
@@ -54,6 +26,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Los Angeles Galaxy vs Los Angeles Fc | 09:40 18/07",
+                    "tournament": "Major League Soccer",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
@@ -92,34 +92,6 @@
                     ]
                 },
                 {
-                    "name": "Avondale Fc vs St Albans | 12:00 18/07",
-                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/ff2e694966de559719f778b5c79ea2ad.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Ws Wanderers U21 vs Apia Tigers | 12:00 18/07",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/d287684146235d2fddb92f71d78fba02.png!w80",
@@ -138,6 +110,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Avondale Fc vs St Albans | 12:00 18/07",
+                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ff2e694966de559719f778b5c79ea2ad.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
