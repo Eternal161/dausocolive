@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "14:11 18/07/2026",
+    "last_updated": "14:21 18/07/2026",
     "groups": [
         {
             "id": "live",
@@ -36,7 +36,7 @@
                     ]
                 },
                 {
-                    "name": "Lambton Jarvis vs Maitland | 14:00 18/07",
+                    "name": "Lambton Jarvis vs Maitland | 14:10 18/07",
                     "tournament": "Giải Ngoại hạng Quốc gia kv Bắc NSW",
                     "logo_nha": "https://img.gvapi.cc/football/team/1dafccf630517babe6ebab069431eb9c.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/4d44d0661cc1d382c732bc98d8535354.png!w80",
