@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:31 18/07/2026",
+    "last_updated": "07:41 18/07/2026",
     "groups": [
         {
             "id": "live",
@@ -92,34 +92,6 @@
                     ]
                 },
                 {
-                    "name": "Club Leon vs Atlas | 08:00 18/07",
-                    "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Atletico San Luis vs Cruz Azul | 08:00 18/07",
                     "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
                     "logo_nha": "https://img.gvapi.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
@@ -138,6 +110,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/24561735.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Club Leon vs Atlas | 08:00 18/07",
+                    "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
