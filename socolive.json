@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:41 19/07/2026",
+    "last_updated": "17:51 19/07/2026",
     "groups": [
         {
             "id": "live",
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/78905744.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Campuchia Nu vs Lao Nu | 15:45 19/07",
-                    "tournament": "Giải bóng đá nữ Đông Nam Á",
-                    "logo_nha": "https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jaro vs Inter Turku | 22:30 19/07",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
