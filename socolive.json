@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:50 19/07/2026",
+    "last_updated": "08:01 19/07/2026",
     "groups": [
         {
             "id": "live",
@@ -148,7 +148,7 @@
                     ]
                 },
                 {
-                    "name": "Phu Nu Campuchia vs Lao U16 Nu | 15:45 19/07",
+                    "name": "Campuchia Nu vs Lao Nu | 15:45 19/07",
                     "tournament": "Giải bóng đá nữ Đông Nam Á",
                     "logo_nha": "https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png!w80",
