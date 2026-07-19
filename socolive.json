@@ -1,42 +1,14 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "12:11 19/07/2026",
+    "last_updated": "12:21 19/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Queretaro vs Club America | 10:10 19/07",
-                    "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
-                    "logo_nha": "https://img.gvapi.cc/football/team/e93c69c95a943755907a17adf4d7d732.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.miekgo.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Marconi Stallions vs Sydney Utd | 12:00 19/07",
+                    "name": "Marconi Stallions vs Sydney Utd | 12:10 19/07",
                     "tournament": "Giải bóng đá Hạng nhất New South Wales của Úc",
                     "logo_nha": "https://img.gvapi.cc/football/team/e1605aa2375e5aa780e43e89a0f1b080.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
@@ -165,7 +137,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.miekgo.app/live/24561735.m3u8"
+                                                    "url": "https://live05.miekgo.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
@@ -306,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.miekgo.app/live/90865415.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Halmstad vs Hacken | 21:30 19/07",
+                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d84614f172a18a18947a7567a9625b45.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/93920efdf720a6e94d3ab5e43ae3b504.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.miekgo.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
