@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:51 20/07/2026",
+    "last_updated": "20:01 20/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Viettel Fc U21 vs Pvf Khi U21 | 18:00 20/07",
-                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
-                    "logo_nha": "https://img.gvapi.cc/football/team/943b657247cc4c6361acb7d364216129.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b2ec92c624bb06a031f983a8ea99b06b.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/41943555.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Tps vs Ilves | 22:00 20/07",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75915087.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Doi Bong Hafnarfjordur vs Clb Breidablik | 02:15 21/07",
+                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
+                    "logo_nha": "https://img.gvapi.cc/football/team/496e10acaf5e0d53cced9c84ec17da73.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/631e4cfa5f1d5bee45618fb97fc3f0b4.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
