@@ -1,68 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:11 21/07/2026",
+    "last_updated": "04:21 21/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Doi Bong Hafnarfjordur vs Clb Breidablik | 02:15 21/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Iceland",
-                    "logo_nha": "https://img.gvapi.cc/football/team/496e10acaf5e0d53cced9c84ec17da73.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/631e4cfa5f1d5bee45618fb97fc3f0b4.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Defensor Sp vs Liverpool M | 06:00 21/07",
-                    "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/051be0a9b61dedb583315fb75eaa8308.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Dalian Kewei vs Beijing Guoan | 15:00 21/07",
                     "tournament": "Cúp Bóng đá Liên đoàn Trung Quốc",
@@ -222,6 +166,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Ulsan Hyundai vs Incheon United | 17:30 21/07",
+                    "tournament": "Giải K1 Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/fe07fb888ebcb282192332cb8aed21b1.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Jeonbuk Hyundai Motors vs Daejeon | 17:30 21/07",
+                    "tournament": "Giải K1 Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
