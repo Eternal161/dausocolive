@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:01 20/07/2026",
+    "last_updated": "23:11 20/07/2026",
     "groups": [
         {
             "id": "live",
@@ -316,10 +316,10 @@
                     ]
                 },
                 {
-                    "name": "Montevideo City vs Danubio Fc | 03:00 21/07",
+                    "name": "Defensor Sp vs Liverpool M | 06:00 21/07",
                     "tournament": "Giải vô địch quốc gia Uruguay",
-                    "logo_nha": "https://img.gvapi.cc/football/team/bb5004650a388d73f47cc3ca08623cc8.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/160c9f3f589e2fb4578e984d2e692d18.png!w80",
+                    "logo_nha": "https://img.gvapi.cc/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/051be0a9b61dedb583315fb75eaa8308.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -333,7 +333,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
