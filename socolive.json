@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:31 21/07/2026",
+    "last_updated": "01:41 21/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "R Volgograd vs Ska Khabarovsk | 23:30 20/07",
-                    "tournament": "Giải Bóng đá Quốc gia Nga",
-                    "logo_nha": "https://img.gvapi.cc/football/team/6ae485ecee17acfc249fa06c8500d0a0.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/987b18be72d918583f9dd5b1a17f130e.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Kalmar vs Malmo Ff | 00:00 21/07",
                     "tournament": "Giải Vô địch Quốc gia Thụy Điển",
@@ -137,7 +109,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/41943555.m3u8"
+                                                    "url": "https://live1.kinxie.com/live/67126642_022e418d2d4677a8c983ce6e96cd58eb_autoChange.m3u8?auth_key=1784587232-0-0-90a2724e72c80129c48d9b8bf549427f"
                                                 }
                                             ]
                                         }
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Pvf Vietnam U21 vs Hoang Anh Gia Lai U21 | 15:30 21/07",
+                    "tournament": "Giải bóng đá trẻ U21 Việt Nam",
+                    "logo_nha": "https://img.gvapi.cc/football/team/91ebf0da768d5c38125f9b98082c1c74.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/5310b828aa08a4b92cf171fd65886c3a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
