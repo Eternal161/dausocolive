@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:21 21/07/2026",
+    "last_updated": "00:31 21/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Corvinul Hunedoara vs Fk Csikszereda Miercurea Ciuc | 22:30 20/07",
-                    "tournament": "Giải Vô địch quốc gia Romania",
-                    "logo_nha": "https://img.gvapi.cc/football/team/0d34b3c5bdf01947c5d8e3e36cc82962.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/bdfa2df481714f2ea787ee7fe973b4a6.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/41943555.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ifk Mariehamn vs Lahti | 23:00 20/07",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Phần Lan",
