@@ -1,68 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:01 21/07/2026",
+    "last_updated": "02:11 21/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Kalmar vs Malmo Ff | 00:00 21/07",
-                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7774a1be5a0fb551d44ba25244760edd.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/339c6acafe9c245dc5d8627c60528ca2.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Orgryte vs Djurgarden | 00:00 21/07",
-                    "tournament": "Giải Vô địch Quốc gia Thụy Điển",
-                    "logo_nha": "https://img.gvapi.cc/football/team/9dd02927b1bf3e324b62a3013c140382.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/5d15445b5ebaaad062065f158f1d1fd8.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Rapid Bucuresti vs Sepsi | 01:30 21/07",
                     "tournament": "Giải Vô địch quốc gia Romania",
@@ -109,7 +53,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live1.kinxie.com/live/67126642_022e418d2d4677a8c983ce6e96cd58eb_autoChange.m3u8?auth_key=1784587797-0-0-9cb9c3f9855dd51f5c6b49c4db5de26e"
+                                                    "url": "https://live05.meung.app/live/41943555.m3u8"
                                                 }
                                             ]
                                         }
@@ -221,7 +165,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live1.kinxie.com/live/67126642_022e418d2d4677a8c983ce6e96cd58eb_autoChange.m3u8?auth_key=1784587797-0-0-9cb9c3f9855dd51f5c6b49c4db5de26e"
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
@@ -250,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/16226575.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Preston Lions vs Newcastle Jets | 16:30 21/07",
+                    "tournament": "Cúp bóng đá của Hiệp hội Bóng đá Úc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/41943555.m3u8"
                                                 }
                                             ]
                                         }
