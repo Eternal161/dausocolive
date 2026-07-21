@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "00:51 22/07/2026",
+    "last_updated": "01:01 22/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,62 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Mjallby vs Lincoln Red Imps | 23:00 21/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/0ffb7ffab7e1720c91427e75b4a50ace.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/340ccfb377aa78986e1b515dfb05ce7f.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Fc Ararat Armenia vs Shamrock Rovers | 23:00 21/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/445b142144eafa15449f92563fd1b978.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/52a0b0ec8cb8af8d29711d63ed1d0c8c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
@@ -120,34 +64,6 @@
                     ]
                 },
                 {
-                    "name": "Fc Thun vs Dinamo Zagreb | 01:00 22/07",
-                    "tournament": "Champions League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/d4f6838e12860d6a2965457859657006.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Fenerbahce vs Gornik Zabrze | 01:00 22/07",
                     "tournament": "Champions League",
                     "logo_nha": "https://img.gvapi.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80",
@@ -166,6 +82,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75915087.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fc Thun vs Dinamo Zagreb | 01:00 22/07",
+                    "tournament": "Champions League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/d4f6838e12860d6a2965457859657006.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
@@ -260,7 +204,7 @@
                     ]
                 },
                 {
-                    "name": "Clb Santa Fe vs Union Magdalena | 03:00 22/07",
+                    "name": "Santa Fe vs Union Magdalena | 03:00 22/07",
                     "tournament": "Cúp Colombia",
                     "logo_nha": "https://img.gvapi.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/d2c9d435710709d0be9a6dc06ff78a29.png!w80",
@@ -334,6 +278,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Atletico Mineiro vs Bahia | 05:30 22/07",
+                    "tournament": "Giải bóng đá Hạng nhất Brasil",
+                    "logo_nha": "https://img.gvapi.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Universidad Catolica vs Barcelona Sc | 07:00 22/07",
+                    "tournament": "Giải vô địch quốc gia Ecuador",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6038ad3b4367e35e235f6bdd24282c52.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
