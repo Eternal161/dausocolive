@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "10:01 22/07/2026",
+    "last_updated": "10:11 22/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Cruz Azul vs Clb Puebla | 08:00 22/07",
-                    "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
-                    "logo_nha": "https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/19919577.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Toluca vs Unam Pumas | 10:05 22/07",
                     "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
@@ -109,7 +81,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live.kinxie.com/live/72055048_4843638366a2b334593da12c46648ae7_autoChange.m3u8?auth_key=1784703535-0-0-c7482d6501829b3b09b68228f1c177c8"
+                                                    "url": "https://live05.meung.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
