@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:31 23/07/2026",
+    "last_updated": "04:41 23/07/2026",
     "groups": [
         {
             "id": "live",
@@ -40,6 +40,34 @@
                     "tournament": "Siêu Cúp Nam Mỹ",
                     "logo_nha": "https://img.gvapi.cc/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Charlotte Fc vs Atlanta Utd | 07:15 23/07",
+                    "tournament": "Major League Soccer",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -138,34 +166,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Charlotte Fc vs Atlanta Utd | 07:15 23/07",
-                    "tournament": "Major League Soccer",
-                    "logo_nha": "https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
