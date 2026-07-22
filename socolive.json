@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "20:41 22/07/2026",
+    "last_updated": "20:51 22/07/2026",
     "groups": [
         {
             "id": "live",
@@ -306,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/41943555.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fk Zeleznicar Pancevo vs Braga | 02:00 23/07",
+                    "tournament": "UEFA Europa Conference League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/5a4205b9ee3d49c60df7bf22bc2e2203.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
