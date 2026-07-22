@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:51 22/07/2026",
+    "last_updated": "18:01 22/07/2026",
     "groups": [
         {
             "id": "live",
@@ -82,34 +82,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Campuchia W vs Singapore W | 15:45 22/07",
-                    "tournament": "Giải bóng đá nữ Đông Nam Á",
-                    "logo_nha": "https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/19919577.m3u8"
                                                 }
                                             ]
                                         }
@@ -278,6 +250,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75748097.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mashal Muborak vs Nasaf Qarshi | 22:00 22/07",
+                    "tournament": "Giải vô địch quốc gia Uzbekistan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/566fc8eae03f834a8221bedabf677c5d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/bef3a45bcf56447c8acfb7b077820022.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Metz vs Sochaux | 22:30 22/07",
+                    "tournament": "Giao hữu các CLB quốc tế",
+                    "logo_nha": "https://img.gvapi.cc/football/team/16fd214da24aef0bbb775e44fe7e79f2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/a1591aae4ee4d750684ee71c6c78a332.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
