@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "03:51 24/07/2026",
+    "last_updated": "04:01 24/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Clb Hajduk Split vs Fc Pafos | 02:00 24/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/5099192a1226b54aa2ce2a430edf9af9.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/50c3c3aca72ad7bd05f5b4742ea993d3.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Clb Orense vs Clb Aucas | 04:30 24/07",
                     "tournament": "Giải vô địch quốc gia Ecuador",
