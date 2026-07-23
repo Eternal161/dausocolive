@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:50 23/07/2026",
+    "last_updated": "08:01 23/07/2026",
     "groups": [
         {
             "id": "live",
@@ -176,34 +176,6 @@
                     ]
                 },
                 {
-                    "name": "San Jose Earthquakes vs Orlando City | 09:30 23/07",
-                    "tournament": "Major League Soccer",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b4ad649e6c6a9a6cf91493bf5e92ffbe.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Los Angeles Fc vs Real Salt Lake | 09:30 23/07",
                     "tournament": "Major League Soccer",
                     "logo_nha": "https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
@@ -222,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb La Galaxy vs Louis Sc | 09:30 23/07",
+                    "tournament": "Major League Soccer",
+                    "logo_nha": "https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
