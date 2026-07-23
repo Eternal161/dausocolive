@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "01:51 24/07/2026",
+    "last_updated": "02:01 24/07/2026",
     "groups": [
         {
             "id": "live",
@@ -54,62 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/59444581.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Hammarby vs Anderlecht | 00:00 24/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/487d9eecf77605c17123cc81e37313f3.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/314b79b01ab66f6cc42c405b64791498.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Tromso vs Hradec Kralove | 00:00 24/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/16a410c5355aed84a9ca41b15073db49.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/dd15a15753a6907bf6479c96756d58b6.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/07808742.m3u8"
                                                 }
                                             ]
                                         }
@@ -334,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ha Noi Nu vs Ha Noi 2 Nu | 16:00 24/07",
+                    "tournament": "Women's National League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/b196a9a7e627dc15cfa96268035c454e.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/424ac25c370b644caebd91d8ba01df34.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
