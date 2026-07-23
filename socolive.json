@@ -1,17 +1,17 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:51 23/07/2026",
+    "last_updated": "00:01 24/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Liepaja vs Clb Austria Wien | 22:00 23/07",
-                    "tournament": "UEFA Europa Conference League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/066236dc007de501d84a4a146f7597a9.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f0efbe4997e2d984d419c3ea8b15ffbb.png!w80",
+                    "name": "Qarabag vs Cska Sofia | 23:00 23/07",
+                    "tournament": "Europa League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/7f7d00906d511bcf48f9a600580ff953.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/3b19cae478679881554914e45d318742.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -25,7 +25,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Qarabag vs Cska Sofia | 23:00 23/07",
-                    "tournament": "Europa League",
-                    "logo_nha": "https://img.gvapi.cc/football/team/7f7d00906d511bcf48f9a600580ff953.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3b19cae478679881554914e45d318742.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Santa Fe vs Caracas Fc | 07:30 24/07",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/c47d5022e097b7b15702e59b7ded598c.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
                                                 }
                                             ]
                                         }
