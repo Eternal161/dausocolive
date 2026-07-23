@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "09:21 23/07/2026",
+    "last_updated": "09:31 23/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Chapecoense Sc vs Flamengo | 07:30 23/07",
-                    "tournament": "Giải bóng đá Hạng nhất Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Colorado Rapids vs San Diego Fc | 09:05 23/07",
                     "tournament": "Major League Soccer",
@@ -278,6 +250,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/41943555.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Alashkert vs Cfr | 22:00 23/07",
+                    "tournament": "UEFA Europa Conference League",
+                    "logo_nha": "https://img.gvapi.cc/football/team/f49e60c7362306f1ad509c846d4dc0fd.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/6f927eb040bdd5c972a9343fd9c8b873.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
