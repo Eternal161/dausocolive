@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:31 23/07/2026",
+    "last_updated": "07:41 23/07/2026",
     "groups": [
         {
             "id": "live",
@@ -64,34 +64,6 @@
                     ]
                 },
                 {
-                    "name": "Coritiba vs Palmeiras | 05:30 23/07",
-                    "tournament": "Giải bóng đá Hạng nhất Brasil",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Charlotte Fc vs Atlanta Utd | 07:20 23/07",
                     "tournament": "Major League Soccer",
                     "logo_nha": "https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80",
@@ -120,34 +92,6 @@
                     ]
                 },
                 {
-                    "name": "Lanus vs Cienciano | 07:30 23/07",
-                    "tournament": "Siêu Cúp Nam Mỹ",
-                    "logo_nha": "https://img.gvapi.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e868bb2eac1923c5aecaddd492860b32.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Houston Dynamo vs Dc United | 07:30 23/07",
                     "tournament": "Major League Soccer",
                     "logo_nha": "https://img.gvapi.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80",
@@ -166,6 +110,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lanus vs Cienciano | 07:30 23/07",
+                    "tournament": "Siêu Cúp Nam Mỹ",
+                    "logo_nha": "https://img.gvapi.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e868bb2eac1923c5aecaddd492860b32.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
@@ -222,6 +194,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/16226575.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Los Angeles Fc vs Real Salt Lake | 09:30 23/07",
+                    "tournament": "Major League Soccer",
+                    "logo_nha": "https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14830711.m3u8"
                                                 }
                                             ]
                                         }
