@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "09:41 24/07/2026",
+    "last_updated": "09:51 24/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Defensa Y Justicia vs Clb Aldosivi | 07:45 24/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Argentina",
-                    "logo_nha": "https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/086fad2b496bcf474e2df4eed691c6b2.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Ha Noi Nu vs Ha Noi 2 Nu | 16:00 24/07",
                     "tournament": "Women's National League",
@@ -250,6 +222,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/14830711.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Energetik Bgu vs Dinamo Minsk 2 | 21:30 24/07",
+                    "tournament": "Giải hạng Hai Belarus",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a498155dccb9e11f012d3527b2475fe2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e9626addec90806fa6d8b291155f8d1e.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
