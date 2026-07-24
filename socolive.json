@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "20:31 24/07/2026",
+    "last_updated": "20:41 24/07/2026",
     "groups": [
         {
             "id": "live",
@@ -306,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/07808742.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clb Pogon vs Clb Legia | 01:30 25/07",
+                    "tournament": "Giải vô địch quốc gia Ba Lan",
+                    "logo_nha": "https://img.gvapi.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ca6076e611bfccd9939f3a2121ad0e48.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
                                                 }
                                             ]
                                         }
