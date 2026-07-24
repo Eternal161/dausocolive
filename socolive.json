@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "19:01 24/07/2026",
+    "last_updated": "19:11 24/07/2026",
     "groups": [
         {
             "id": "live",
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/08552895.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Oakleigh Cannons vs South Melbourne | 17:15 24/07",
-                    "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
@@ -306,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/14707124.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Viborg vs Odense Bk | 00:00 25/07",
+                    "tournament": "Giải Ngoại hạng Đan Mạch",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c5beffcdc88a77f8494e85108b306062.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/de4422160e9ec4e8e9e1f9517ca0e51a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
