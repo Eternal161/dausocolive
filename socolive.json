@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:21 24/07/2026",
+    "last_updated": "18:31 24/07/2026",
     "groups": [
         {
             "id": "live",
@@ -278,6 +278,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Rosenborg vs Manchester United | 23:00 24/07",
+                    "tournament": "Giao hữu các CLB quốc tế",
+                    "logo_nha": "https://img.gvapi.cc/football/team/7a2eadc57b3a330eda4b7189352ce344.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
