@@ -1,12 +1,40 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:01 24/07/2026",
+    "last_updated": "18:11 24/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
+                {
+                    "name": "Seoul E Land Fc vs Cheonan City | 17:30 24/07",
+                    "tournament": "Giải K2 Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/b25d37216425034b6695ec3c3119d07d.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/2d6b3326015c7b302a7bdda443068e54.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "St Albans vs Hume City | 16:30 24/07",
                     "tournament": "Giải bóng đá Hạng nhất Victoria của Úc",
@@ -54,34 +82,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75915087.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Seoul E Land Fc vs Cheonan City | 17:30 24/07",
-                    "tournament": "Giải K2 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b25d37216425034b6695ec3c3119d07d.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/2d6b3326015c7b302a7bdda443068e54.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
                                                 }
                                             ]
                                         }
