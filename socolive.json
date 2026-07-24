@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "23:51 24/07/2026",
+    "last_updated": "00:01 25/07/2026",
     "groups": [
         {
             "id": "live",
@@ -204,6 +204,34 @@
                     ]
                 },
                 {
+                    "name": "Galatasaray vs Ac Monza | 01:00 25/07",
+                    "tournament": "Giao hữu các CLB quốc tế",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Arda vs Slavia Sofia | 01:15 25/07",
                     "tournament": "Giải vô địch quốc gia Bulgaria",
                     "logo_nha": "https://img.gvapi.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80",
@@ -292,34 +320,6 @@
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Argentina",
                     "logo_nha": "https://img.gvapi.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb Velez Sarsfield vs Instituto | 05:00 25/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Argentina",
-                    "logo_nha": "https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
