@@ -1,40 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "04:31 25/07/2026",
+    "last_updated": "04:41 25/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Gimnasia Mendoza vs Central Cordoba Sde | 02:45 25/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Argentina",
-                    "logo_nha": "https://img.gvapi.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Clb Velez Sarsfield vs Instituto | 05:00 25/07",
                     "tournament": "Giải Bóng đá Vô địch Quốc gia Argentina",
@@ -278,6 +250,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75915087.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dpmm vs Clb Tampines | 15:30 25/07",
+                    "tournament": "Cúp Tổng thống Indonesia",
+                    "logo_nha": "https://img.gvapi.cc/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
