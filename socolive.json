@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "18:31 25/07/2026",
+    "last_updated": "18:41 25/07/2026",
     "groups": [
         {
             "id": "live",
@@ -64,6 +64,34 @@
                     ]
                 },
                 {
+                    "name": "Shanghai Port vs Shanghai Shenhua | 18:35 25/07",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "name": "Gimcheon Sangmu Fc vs Daejeon | 17:30 25/07",
                     "tournament": "Giải K1 Hàn Quốc",
                     "logo_nha": "https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80",
@@ -110,62 +138,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/82054853.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shanghai Port vs Shanghai Shenhua | 18:35 25/07",
-                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Shenyang Urban Fc vs Qingdao West Coast | 18:35 25/07",
-                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1c4ae95c663ed84758a04627451e3470.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/383d42e0d0843463b538bc3367d0c4c9.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
                                                 }
                                             ]
                                         }
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/99121525.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kristiansund Bk vs Cau Lac Bo Start Kristiansand | 21:00 25/07",
+                    "tournament": "Giải vô địch quốc gia Na Uy",
+                    "logo_nha": "https://img.gvapi.cc/football/team/44f50c40747300086bedc24981fb21f2.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/ee17e7b8f55f0f6ffb1f766bc565f9a5.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
                                                 }
                                             ]
                                         }
