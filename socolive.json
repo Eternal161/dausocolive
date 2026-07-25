@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "05:41 26/07/2026",
+    "last_updated": "06:01 26/07/2026",
     "groups": [
         {
             "id": "live",
@@ -92,7 +92,7 @@
                     ]
                 },
                 {
-                    "name": "New York Red Bulls vs Charlotte Fc | 05:30 26/07",
+                    "name": "New York Red Bulls vs Charlotte Fc | 05:40 26/07",
                     "tournament": "Major League Soccer",
                     "logo_nha": "https://img.gvapi.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80",
                     "logo_khach": "https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80",
