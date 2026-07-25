@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "17:11 25/07/2026",
+    "last_updated": "17:21 25/07/2026",
     "groups": [
         {
             "id": "live",
@@ -92,34 +92,6 @@
                     ]
                 },
                 {
-                    "name": "Gimcheon Sangmu Fc vs Daejeon | 17:30 25/07",
-                    "tournament": "Giải K1 Hàn Quốc",
-                    "logo_nha": "https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Clb Pohang Steelers vs Clb Jeonbuk Hyundai Motors | 17:30 25/07",
                     "tournament": "Giải K1 Hàn Quốc",
                     "logo_nha": "https://img.gvapi.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80",
@@ -138,6 +110,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gimcheon Sangmu Fc vs Daejeon | 17:30 25/07",
+                    "tournament": "Giải K1 Hàn Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/87547578.m3u8"
                                                 }
                                             ]
                                         }
