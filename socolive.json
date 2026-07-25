@@ -1,68 +1,12 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "10:01 25/07/2026",
+    "last_updated": "10:11 25/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
-                {
-                    "name": "Tepatitlan De Morelos vs Alacranes De Durango | 08:00 25/07",
-                    "tournament": "Giải hạng hai Mexico",
-                    "logo_nha": "https://img.gvapi.cc/football/team/918216791a55f9785f385c94c34cda51.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f4ca470181866aba040ea7f1ae022d1e.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/90865415.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Clb Mineros De Zacatecas vs Correcaminos | 08:00 25/07",
-                    "tournament": "Giải hạng hai Mexico",
-                    "logo_nha": "https://img.gvapi.cc/football/team/5b773fdebdc9ddfdf1ec4494554c4eb4.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/6aa5e53f3b58a620f1f2b2fd589d9e7c.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/14707124.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "name": "Club Tijuana vs Club Leon | 10:00 25/07",
                     "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
@@ -278,6 +222,62 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/87547578.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dynamo Moscow vs Clb Krylya Sovetov | 18:00 25/07",
+                    "tournament": "Giải Bóng đá Ngoại hạng Nga",
+                    "logo_nha": "https://img.gvapi.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/82054853.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shanghai Port vs Shanghai Shenhua | 18:35 25/07",
+                    "tournament": "Giải bóng đá ngoại hạng Trung Quốc",
+                    "logo_nha": "https://img.gvapi.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
