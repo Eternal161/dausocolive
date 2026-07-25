@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "02:01 26/07/2026",
+    "last_updated": "02:11 26/07/2026",
     "groups": [
         {
             "id": "live",
@@ -26,34 +26,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/16226575.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Spartak vs Rodina Moskva | 00:45 26/07",
-                    "tournament": "Giải Bóng đá Ngoại hạng Nga",
-                    "logo_nha": "https://img.gvapi.cc/football/team/b989806732eaf15246ab56e07d0b8a2e.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/f5ff010dcc2e753de549a98ba989e356.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
@@ -109,7 +81,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/08552895.m3u8"
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/16226575.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wrexham vs Leeds United | 06:30 26/07",
+                    "tournament": "Giao hữu các CLB quốc tế",
+                    "logo_nha": "https://img.gvapi.cc/football/team/6ee72ef6dd0d994c0fd5fb7d82d5acc9.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/99121525.m3u8"
                                                 }
                                             ]
                                         }
