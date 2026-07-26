@@ -1,7 +1,7 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "07:11 26/07/2026",
+    "last_updated": "07:21 26/07/2026",
     "groups": [
         {
             "id": "live",
@@ -54,34 +54,6 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/99121525.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "River Plate vs Barracas Central | 05:15 26/07",
-                    "tournament": "Giải Bóng đá Vô địch Quốc gia Argentina",
-                    "logo_nha": "https://img.gvapi.cc/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/75915087.m3u8"
                                                 }
                                             ]
                                         }
