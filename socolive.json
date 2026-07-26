@@ -1,17 +1,17 @@
 {
     "id": "socolive",
     "name": "Socolive (Cola TV)",
-    "last_updated": "06:51 26/07/2026",
+    "last_updated": "07:01 26/07/2026",
     "groups": [
         {
             "id": "live",
             "name": "🔴 Trực tiếp & Sắp tới",
             "channels": [
                 {
-                    "name": "Liverpool vs Sunderland | 05:00 26/07",
-                    "tournament": "Premier League Summer Series",
-                    "logo_nha": "https://img.gvapi.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80",
+                    "name": "Montreal Impact vs Inter Miami | 06:40 26/07",
+                    "tournament": "Major League Soccer",
+                    "logo_nha": "https://img.gvapi.cc/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
                     "labels": [
                         {
                             "text": "● LIVE"
@@ -25,7 +25,7 @@
                                         {
                                             "stream_links": [
                                                 {
-                                                    "url": "https://live05.meung.app/live/78905744.m3u8"
+                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
                                                 }
                                             ]
                                         }
@@ -204,34 +204,6 @@
                     ]
                 },
                 {
-                    "name": "Montreal Impact vs Inter Miami | 06:40 26/07",
-                    "tournament": "Major League Soccer",
-                    "logo_nha": "https://img.gvapi.cc/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80",
-                    "logo_khach": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
-                    "labels": [
-                        {
-                            "text": "● LIVE"
-                        }
-                    ],
-                    "sources": [
-                        {
-                            "contents": [
-                                {
-                                    "streams": [
-                                        {
-                                            "stream_links": [
-                                                {
-                                                    "url": "https://live05.meung.app/live/75748097.m3u8"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "Minnesota United vs Vancouver Whitecaps | 07:30 26/07",
                     "tournament": "Major League Soccer",
                     "logo_nha": "https://img.gvapi.cc/football/team/256ff71a20fb72145a66dcef2f604a48.png!w80",
@@ -334,6 +306,34 @@
                                             "stream_links": [
                                                 {
                                                     "url": "https://live05.meung.app/live/75915087.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tigres vs Atletico San Luis | 10:00 26/07",
+                    "tournament": "Giải Vô địch Bóng đá Quốc gia Mexico",
+                    "logo_nha": "https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80",
+                    "logo_khach": "https://img.gvapi.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
+                    "labels": [
+                        {
+                            "text": "● LIVE"
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "contents": [
+                                {
+                                    "streams": [
+                                        {
+                                            "stream_links": [
+                                                {
+                                                    "url": "https://live05.meung.app/live/59444581.m3u8"
                                                 }
                                             ]
                                         }
